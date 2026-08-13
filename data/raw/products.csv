@@ -1,0 +1,73 @@
+product_id,product_name,category,unit_price,cost_price,is_active
+1,Smartphone Pro (Standard),Electronics,374.81,154.64,True
+2,Smartphone Pro (Pro),Electronics,225.21,116.97,True
+3,Smartphone Pro (Plus),Electronics,156.81,83.96,True
+4,Noise-Cancelling Headphones (Standard),Electronics,188.28,99.73,True
+5,Noise-Cancelling Headphones (Pro),Electronics,441.19,188.21,True
+6,Noise-Cancelling Headphones (Plus),Electronics,416.95,226.85,True
+7,4K Ultra Monitor (Standard),Electronics,290.09,188.28,True
+8,4K Ultra Monitor (Pro),Electronics,178.2,94.29,True
+9,4K Ultra Monitor (Plus),Electronics,199.05,102.0,True
+10,Wireless Keyboard (Standard),Electronics,418.35,271.37,True
+11,Wireless Keyboard (Pro),Electronics,71.32,30.84,True
+12,Wireless Keyboard (Plus),Electronics,206.84,88.86,True
+13,USB-C Fast Charger (Standard),Electronics,288.11,127.66,True
+14,USB-C Fast Charger (Pro),Electronics,247.01,99.34,True
+15,USB-C Fast Charger (Plus),Electronics,159.55,96.23,True
+16,Smartwatch Elite (Standard),Electronics,230.72,160.0,True
+17,Smartwatch Elite (Pro),Electronics,396.49,201.31,True
+18,Smartwatch Elite (Plus),Electronics,44.33,28.98,True
+19,Merino Wool Sweater (Standard),Apparel,412.27,266.4,True
+20,Merino Wool Sweater (Pro),Apparel,79.38,55.52,True
+21,Merino Wool Sweater (Plus),Apparel,134.9,83.27,True
+22,Slim-fit Chinos (Standard),Apparel,410.91,193.42,True
+23,Slim-fit Chinos (Pro),Apparel,411.01,202.56,True
+24,Slim-fit Chinos (Plus),Apparel,439.98,213.12,True
+25,Waterproof Shell Jacket (Standard),Apparel,430.21,178.99,True
+26,Waterproof Shell Jacket (Pro),Apparel,326.44,182.69,True
+27,Waterproof Shell Jacket (Plus),Apparel,228.1,106.53,True
+28,Running Performance Shoes (Standard),Apparel,324.88,148.55,True
+29,Running Performance Shoes (Pro),Apparel,259.96,123.73,True
+30,Running Performance Shoes (Plus),Apparel,431.14,176.16,True
+31,Cotton Graphic Tee (Standard),Apparel,109.88,51.94,True
+32,Cotton Graphic Tee (Pro),Apparel,200.98,94.42,True
+33,Cotton Graphic Tee (Plus),Apparel,233.82,154.73,True
+34,Espresso Coffee Machine (Standard),Home & Kitchen,327.63,188.06,True
+35,Espresso Coffee Machine (Pro),Home & Kitchen,62.83,38.21,True
+36,Espresso Coffee Machine (Plus),Home & Kitchen,95.73,60.88,True
+37,Stainless Steel Cookware (Standard),Home & Kitchen,131.27,68.93,True
+38,Stainless Steel Cookware (Pro),Home & Kitchen,173.95,114.4,True
+39,Stainless Steel Cookware (Plus),Home & Kitchen,78.78,44.88,True
+40,Air Purifier HEPA (Standard),Home & Kitchen,85.38,52.2,True
+41,Air Purifier HEPA (Pro),Home & Kitchen,409.66,217.28,True
+42,Air Purifier HEPA (Plus),Home & Kitchen,232.44,157.65,True
+43,Cast Iron Skillet (Standard),Home & Kitchen,246.42,134.61,True
+44,Cast Iron Skillet (Pro),Home & Kitchen,270.79,164.31,True
+45,Cast Iron Skillet (Plus),Home & Kitchen,70.43,45.52,True
+46,Smart LED Desk Lamp (Standard),Home & Kitchen,210.09,88.6,True
+47,Smart LED Desk Lamp (Pro),Home & Kitchen,359.13,184.26,True
+48,Smart LED Desk Lamp (Plus),Home & Kitchen,67.66,39.93,True
+49,Sonic Electric Toothbrush (Standard),Health & Beauty,399.06,265.9,True
+50,Sonic Electric Toothbrush (Pro),Health & Beauty,432.01,285.26,True
+51,Sonic Electric Toothbrush (Plus),Health & Beauty,25.91,13.32,True
+52,Hydrating Facial Serum (Standard),Health & Beauty,372.88,190.12,True
+53,Hydrating Facial Serum (Pro),Health & Beauty,280.66,163.31,True
+54,Hydrating Facial Serum (Plus),Health & Beauty,180.14,120.94,True
+55,Organic Vitamin Complex (Standard),Health & Beauty,238.87,128.85,True
+56,Organic Vitamin Complex (Pro),Health & Beauty,448.94,246.04,True
+57,Organic Vitamin Complex (Plus),Health & Beauty,100.82,55.85,True
+58,Mineral Sunscreen SPF50 (Standard),Health & Beauty,370.96,234.84,True
+59,Mineral Sunscreen SPF50 (Pro),Health & Beauty,360.15,220.56,True
+60,Mineral Sunscreen SPF50 (Plus),Health & Beauty,133.04,87.62,True
+61,Yoga Mat Non-Slip (Standard),Sports & Outdoors,404.71,185.46,True
+62,Yoga Mat Non-Slip (Pro),Sports & Outdoors,80.44,55.72,True
+63,Yoga Mat Non-Slip (Plus),Sports & Outdoors,394.04,263.21,True
+64,Adjustable Dumbbell Set (Standard),Sports & Outdoors,401.71,225.96,True
+65,Adjustable Dumbbell Set (Pro),Sports & Outdoors,299.72,168.92,True
+66,Adjustable Dumbbell Set (Plus),Sports & Outdoors,46.76,29.16,True
+67,Insulated Hydro Flask (Standard),Sports & Outdoors,239.77,142.5,True
+68,Insulated Hydro Flask (Pro),Sports & Outdoors,238.62,130.65,True
+69,Insulated Hydro Flask (Plus),Sports & Outdoors,98.01,47.4,True
+70,Trail Running Hydration Pack (Standard),Sports & Outdoors,92.51,42.43,True
+71,Trail Running Hydration Pack (Pro),Sports & Outdoors,438.52,195.55,True
+72,Trail Running Hydration Pack (Plus),Sports & Outdoors,139.44,80.48,True

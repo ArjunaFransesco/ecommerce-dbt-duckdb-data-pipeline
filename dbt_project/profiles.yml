@@ -1,0 +1,8 @@
+ecommerce_duckdb_profile:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/lakehouse/ecommerce_analytics.duckdb"
+      schema: main
+      threads: 4

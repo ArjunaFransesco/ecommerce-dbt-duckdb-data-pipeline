@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# DuckDB & Local storage (preserve database artifacts via export)
+*.tmp
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

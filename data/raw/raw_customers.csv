@@ -1,0 +1,1201 @@
+customer_id,first_name,last_name,email,city,country,signup_timestamp,device_preference
+CUST_1001,Pat,Brown,pat.brown1001@example.com,Kuala Lumpur,Indonesia,2023-12-15 00:00:00,Mobile Chrome
+CUST_1002,Sam,Miller,sam.miller1002@example.com,Bandung,Indonesia,2023-05-02 00:00:00,Web Desktop
+CUST_1003,Riley,Jones,riley.jones1003@example.com,Bangkok,Indonesia,2023-04-10 00:00:00,Mobile Chrome
+CUST_1004,Jordan,Davis,jordan.davis1004@example.com,Singapore,Indonesia,2024-05-06 00:00:00,Mobile Safari
+CUST_1005,Sam,Smith,sam.smith1005@example.com,Surabaya,Indonesia,2024-04-04 00:00:00,Mobile Safari
+CUST_1006,Casey,Smith,casey.smith1006@example.com,Bandung,Indonesia,2024-04-19 00:00:00,Mobile Safari
+CUST_1007,Jamie,Williams,jamie.williams1007@example.com,Kuala Lumpur,Southeast Asia,2023-12-30 00:00:00,iOS App
+CUST_1008,Taylor,Jones,taylor.jones1008@example.com,Kuala Lumpur,Indonesia,2023-11-03 00:00:00,Android App
+CUST_1009,Morgan,Rodriguez,morgan.rodriguez1009@example.com,Singapore,Indonesia,2023-11-12 00:00:00,iOS App
+CUST_1010,Avery,Jones,avery.jones1010@example.com,Medan,Indonesia,2024-01-21 00:00:00,Mobile Safari
+CUST_1011,Pat,Davis,pat.davis1011@example.com,Bandung,Southeast Asia,2024-03-06 00:00:00,Mobile Safari
+CUST_1012,Jordan,Davis,jordan.davis1012@example.com,Surabaya,Indonesia,2024-01-23 00:00:00,Android App
+CUST_1013,Morgan,Garcia,morgan.garcia1013@example.com,Kuala Lumpur,Indonesia,2024-04-21 00:00:00,Mobile Safari
+CUST_1014,Jordan,Martinez,jordan.martinez1014@example.com,Medan,Indonesia,2024-03-21 00:00:00,Mobile Safari
+CUST_1015,Casey,Davis,casey.davis1015@example.com,Bangkok,Indonesia,2023-08-01 00:00:00,Mobile Chrome
+CUST_1016,Riley,Martinez,riley.martinez1016@example.com,Medan,Indonesia,2023-08-05 00:00:00,Mobile Chrome
+CUST_1017,Casey,Smith,casey.smith1017@example.com,Kuala Lumpur,Indonesia,2023-12-11 00:00:00,iOS App
+CUST_1018,Jamie,Davis,jamie.davis1018@example.com,Kuala Lumpur,Indonesia,2024-04-16 00:00:00,iOS App
+CUST_1019,Riley,Williams,riley.williams1019@example.com,Jakarta,Indonesia,2024-02-23 00:00:00,Android App
+CUST_1020,Pat,Martinez,pat.martinez1020@example.com,Medan,Southeast Asia,2023-02-10 00:00:00,Mobile Safari
+CUST_1021,Jordan,Smith,jordan.smith1021@example.com,Kuala Lumpur,Indonesia,2023-02-17 00:00:00,Mobile Chrome
+CUST_1022,Taylor,Davis,taylor.davis1022@example.com,Bandung,Indonesia,2023-08-02 00:00:00,Web Desktop
+CUST_1023,Sam,Williams,sam.williams1023@example.com,Semarang,Indonesia,2023-09-14 00:00:00,Web Desktop
+CUST_1024,Casey,Martinez,casey.martinez1024@example.com,Medan,Indonesia,2023-02-11 00:00:00,iOS App
+CUST_1025,Morgan,Brown,morgan.brown1025@example.com,Semarang,Indonesia,2023-08-10 00:00:00,Mobile Chrome
+CUST_1026,Dakota,Brown,dakota.brown1026@example.com,Bangkok,Indonesia,2023-01-13 00:00:00,Web Desktop
+CUST_1027,Chris,Johnson,chris.johnson1027@example.com,Semarang,Indonesia,2023-06-19 00:00:00,Mobile Chrome
+CUST_1028,Chris,Brown,chris.brown1028@example.com,Singapore,Indonesia,2023-10-13 00:00:00,Android App
+CUST_1029,Pat,Rodriguez,pat.rodriguez1029@example.com,Singapore,Indonesia,2023-08-19 00:00:00,iOS App
+CUST_1030,Dakota,Rodriguez,dakota.rodriguez1030@example.com,Semarang,Southeast Asia,2023-04-26 00:00:00,Web Desktop
+CUST_1031,Casey,Jones,casey.jones1031@example.com,Bandung,Indonesia,2023-08-13 00:00:00,Web Desktop
+CUST_1032,Chris,Davis,chris.davis1032@example.com,Medan,Indonesia,2023-08-21 00:00:00,iOS App
+CUST_1033,Avery,Brown,avery.brown1033@example.com,Singapore,Indonesia,2023-09-25 00:00:00,Web Desktop
+CUST_1034,Alex,Jones,alex.jones1034@example.com,Bangkok,Indonesia,2023-04-23 00:00:00,iOS App
+CUST_1035,Jordan,Johnson,jordan.johnson1035@example.com,Singapore,Indonesia,2023-08-08 00:00:00,iOS App
+CUST_1036,Alex,Williams,alex.williams1036@example.com,Surabaya,Indonesia,2023-05-06 00:00:00,Android App
+CUST_1037,Chris,Miller,chris.miller1037@example.com,Kuala Lumpur,Indonesia,2023-11-20 00:00:00,Web Desktop
+CUST_1038,Alex,Garcia,alex.garcia1038@example.com,Semarang,Indonesia,2023-10-07 00:00:00,Web Desktop
+CUST_1039,Alex,Rodriguez,alex.rodriguez1039@example.com,Bandung,Indonesia,2023-05-04 00:00:00,Mobile Chrome
+CUST_1040,Taylor,Brown,taylor.brown1040@example.com,Bandung,Indonesia,2023-09-09 00:00:00,Android App
+CUST_1041,Taylor,Williams,taylor.williams1041@example.com,Bangkok,Indonesia,2023-05-28 00:00:00,iOS App
+CUST_1042,Alex,Davis,alex.davis1042@example.com,Kuala Lumpur,Southeast Asia,2023-05-08 00:00:00,iOS App
+CUST_1043,Dakota,Rodriguez,dakota.rodriguez1043@example.com,Surabaya,Southeast Asia,2024-04-17 00:00:00,Android App
+CUST_1044,Taylor,Miller,taylor.miller1044@example.com,Bangkok,Indonesia,2023-09-09 00:00:00,iOS App
+CUST_1045,Morgan,Smith,morgan.smith1045@example.com,Jakarta,Indonesia,2023-01-02 00:00:00,Mobile Safari
+CUST_1046,Sam,Jones,sam.jones1046@example.com,Bandung,Indonesia,2023-06-09 00:00:00,iOS App
+CUST_1047,Taylor,Williams,taylor.williams1047@example.com,Bangkok,Southeast Asia,2023-10-31 00:00:00,iOS App
+CUST_1048,Riley,Brown,riley.brown1048@example.com,Jakarta,Indonesia,2023-03-16 00:00:00,Mobile Safari
+CUST_1049,Taylor,Rodriguez,taylor.rodriguez1049@example.com,Jakarta,Indonesia,2023-04-09 00:00:00,Android App
+CUST_1050,Jordan,Garcia,jordan.garcia1050@example.com,Bangkok,Southeast Asia,2023-06-12 00:00:00,Mobile Safari
+CUST_1051,Alex,Brown,alex.brown1051@example.com,Singapore,Indonesia,2023-10-16 00:00:00,Mobile Safari
+CUST_1052,Riley,Davis,riley.davis1052@example.com,Bandung,Indonesia,2023-05-15 00:00:00,iOS App
+CUST_1053,Jamie,Williams,jamie.williams1053@example.com,Kuala Lumpur,Indonesia,2024-04-14 00:00:00,Mobile Chrome
+CUST_1054,Taylor,Garcia,taylor.garcia1054@example.com,Bandung,Indonesia,2023-09-21 00:00:00,Mobile Chrome
+CUST_1055,Alex,Smith,alex.smith1055@example.com,Medan,Indonesia,2024-03-28 00:00:00,Web Desktop
+CUST_1056,Morgan,Williams,morgan.williams1056@example.com,Jakarta,Indonesia,2023-07-11 00:00:00,Mobile Safari
+CUST_1057,Jamie,Jones,jamie.jones1057@example.com,Bandung,Indonesia,2023-01-06 00:00:00,Mobile Chrome
+CUST_1058,Riley,Smith,riley.smith1058@example.com,Semarang,Indonesia,2023-10-29 00:00:00,Mobile Safari
+CUST_1059,Alex,Brown,alex.brown1059@example.com,Semarang,Indonesia,2023-07-10 00:00:00,iOS App
+CUST_1060,Taylor,Johnson,taylor.johnson1060@example.com,Surabaya,Southeast Asia,2023-10-08 00:00:00,Android App
+CUST_1061,Taylor,Davis,taylor.davis1061@example.com,Bangkok,Indonesia,2023-06-23 00:00:00,Android App
+CUST_1062,Dakota,Martinez,dakota.martinez1062@example.com,Surabaya,Indonesia,2024-01-21 00:00:00,iOS App
+CUST_1063,Casey,Garcia,casey.garcia1063@example.com,Kuala Lumpur,Indonesia,2023-06-25 00:00:00,Android App
+CUST_1064,Taylor,Johnson,taylor.johnson1064@example.com,Bangkok,Southeast Asia,2024-02-13 00:00:00,Android App
+CUST_1065,Pat,Rodriguez,pat.rodriguez1065@example.com,Semarang,Indonesia,2023-02-05 00:00:00,Mobile Safari
+CUST_1066,Taylor,Miller,taylor.miller1066@example.com,Medan,Indonesia,2023-05-23 00:00:00,Web Desktop
+CUST_1067,Casey,Martinez,casey.martinez1067@example.com,Singapore,Indonesia,2023-03-04 00:00:00,Android App
+CUST_1068,Avery,Garcia,avery.garcia1068@example.com,Medan,Indonesia,2023-11-01 00:00:00,Web Desktop
+CUST_1069,Jamie,Jones,jamie.jones1069@example.com,Bangkok,Indonesia,2024-04-25 00:00:00,Mobile Safari
+CUST_1070,Jamie,Jones,jamie.jones1070@example.com,Medan,Indonesia,2023-04-13 00:00:00,Mobile Safari
+CUST_1071,Taylor,Miller,taylor.miller1071@example.com,Medan,Indonesia,2024-02-28 00:00:00,Android App
+CUST_1072,Jamie,Martinez,jamie.martinez1072@example.com,Bandung,Indonesia,2023-06-07 00:00:00,Web Desktop
+CUST_1073,Jamie,Martinez,jamie.martinez1073@example.com,Surabaya,Indonesia,2024-03-14 00:00:00,Mobile Chrome
+CUST_1074,Pat,Rodriguez,pat.rodriguez1074@example.com,Semarang,Indonesia,2024-01-31 00:00:00,Android App
+CUST_1075,Alex,Johnson,alex.johnson1075@example.com,Singapore,Indonesia,2023-04-06 00:00:00,iOS App
+CUST_1076,Riley,Jones,riley.jones1076@example.com,Bangkok,Indonesia,2024-01-20 00:00:00,Mobile Chrome
+CUST_1077,Chris,Miller,chris.miller1077@example.com,Medan,Indonesia,2024-03-26 00:00:00,Web Desktop
+CUST_1078,Sam,Garcia,sam.garcia1078@example.com,Semarang,Indonesia,2023-07-04 00:00:00,Mobile Chrome
+CUST_1079,Alex,Brown,alex.brown1079@example.com,Medan,Indonesia,2024-03-28 00:00:00,Android App
+CUST_1080,Sam,Miller,sam.miller1080@example.com,Jakarta,Indonesia,2023-04-10 00:00:00,Mobile Chrome
+CUST_1081,Pat,Martinez,pat.martinez1081@example.com,Singapore,Indonesia,2023-01-10 00:00:00,Android App
+CUST_1082,Morgan,Martinez,morgan.martinez1082@example.com,Bandung,Indonesia,2023-09-07 00:00:00,iOS App
+CUST_1083,Riley,Jones,riley.jones1083@example.com,Medan,Indonesia,2024-05-07 00:00:00,Android App
+CUST_1084,Alex,Brown,alex.brown1084@example.com,Medan,Indonesia,2023-06-01 00:00:00,Mobile Safari
+CUST_1085,Alex,Smith,alex.smith1085@example.com,Bandung,Indonesia,2024-03-20 00:00:00,Mobile Safari
+CUST_1086,Taylor,Smith,taylor.smith1086@example.com,Bangkok,Southeast Asia,2024-02-21 00:00:00,Mobile Safari
+CUST_1087,Jamie,Johnson,jamie.johnson1087@example.com,Bandung,Indonesia,2023-09-10 00:00:00,iOS App
+CUST_1088,Avery,Davis,avery.davis1088@example.com,Surabaya,Indonesia,2023-04-03 00:00:00,Android App
+CUST_1089,Taylor,Rodriguez,taylor.rodriguez1089@example.com,Medan,Indonesia,2024-01-26 00:00:00,Android App
+CUST_1090,Dakota,Davis,dakota.davis1090@example.com,Jakarta,Indonesia,2024-02-24 00:00:00,iOS App
+CUST_1091,Morgan,Martinez,morgan.martinez1091@example.com,Jakarta,Indonesia,2023-12-23 00:00:00,Web Desktop
+CUST_1092,Alex,Williams,alex.williams1092@example.com,Medan,Indonesia,2024-05-10 00:00:00,Mobile Chrome
+CUST_1093,Jamie,Smith,jamie.smith1093@example.com,Semarang,Indonesia,2023-07-02 00:00:00,Web Desktop
+CUST_1094,Casey,Smith,casey.smith1094@example.com,Singapore,Indonesia,2024-01-04 00:00:00,iOS App
+CUST_1095,Chris,Williams,chris.williams1095@example.com,Medan,Indonesia,2023-06-26 00:00:00,iOS App
+CUST_1096,Taylor,Rodriguez,taylor.rodriguez1096@example.com,Medan,Southeast Asia,2024-03-30 00:00:00,Mobile Safari
+CUST_1097,Taylor,Martinez,taylor.martinez1097@example.com,Bangkok,Indonesia,2024-01-02 00:00:00,Web Desktop
+CUST_1098,Jamie,Rodriguez,jamie.rodriguez1098@example.com,Bandung,Indonesia,2024-03-11 00:00:00,Mobile Chrome
+CUST_1099,Pat,Rodriguez,pat.rodriguez1099@example.com,Semarang,Southeast Asia,2023-02-08 00:00:00,Android App
+CUST_1100,Pat,Martinez,pat.martinez1100@example.com,Bandung,Southeast Asia,2023-05-13 00:00:00,Web Desktop
+CUST_1101,Dakota,Johnson,dakota.johnson1101@example.com,Medan,Indonesia,2023-08-27 00:00:00,Android App
+CUST_1102,Jamie,Smith,jamie.smith1102@example.com,Singapore,Indonesia,2023-09-10 00:00:00,Mobile Chrome
+CUST_1103,Riley,Martinez,riley.martinez1103@example.com,Surabaya,Southeast Asia,2024-01-28 00:00:00,Android App
+CUST_1104,Sam,Jones,sam.jones1104@example.com,Bandung,Indonesia,2024-02-26 00:00:00,Mobile Chrome
+CUST_1105,Alex,Garcia,alex.garcia1105@example.com,Jakarta,Southeast Asia,2024-05-14 00:00:00,iOS App
+CUST_1106,Morgan,Brown,morgan.brown1106@example.com,Medan,Indonesia,2023-03-11 00:00:00,Mobile Chrome
+CUST_1107,Jamie,Garcia,jamie.garcia1107@example.com,Bandung,Indonesia,2023-06-16 00:00:00,Web Desktop
+CUST_1108,Pat,Williams,pat.williams1108@example.com,Semarang,Indonesia,2023-06-22 00:00:00,Android App
+CUST_1109,Morgan,Davis,morgan.davis1109@example.com,Kuala Lumpur,Indonesia,2023-11-13 00:00:00,iOS App
+CUST_1110,Taylor,Rodriguez,taylor.rodriguez1110@example.com,Medan,Indonesia,2023-07-10 00:00:00,iOS App
+CUST_1111,Chris,Jones,chris.jones1111@example.com,Surabaya,Indonesia,2023-05-14 00:00:00,Mobile Chrome
+CUST_1112,Sam,Garcia,sam.garcia1112@example.com,Bandung,Southeast Asia,2023-08-01 00:00:00,Mobile Safari
+CUST_1113,Taylor,Williams,taylor.williams1113@example.com,Jakarta,Indonesia,2023-01-20 00:00:00,iOS App
+CUST_1114,Alex,Smith,alex.smith1114@example.com,Singapore,Indonesia,2024-01-08 00:00:00,iOS App
+CUST_1115,Dakota,Martinez,dakota.martinez1115@example.com,Bangkok,Southeast Asia,2023-08-12 00:00:00,Mobile Safari
+CUST_1116,Riley,Jones,riley.jones1116@example.com,Surabaya,Indonesia,2023-01-08 00:00:00,Android App
+CUST_1117,Riley,Martinez,riley.martinez1117@example.com,Surabaya,Indonesia,2023-11-12 00:00:00,Mobile Chrome
+CUST_1118,Casey,Brown,casey.brown1118@example.com,Bandung,Indonesia,2023-07-11 00:00:00,iOS App
+CUST_1119,Casey,Smith,casey.smith1119@example.com,Semarang,Indonesia,2023-07-31 00:00:00,Mobile Chrome
+CUST_1120,Taylor,Garcia,taylor.garcia1120@example.com,Bandung,Indonesia,2023-03-23 00:00:00,iOS App
+CUST_1121,Jordan,Martinez,jordan.martinez1121@example.com,Singapore,Southeast Asia,2023-11-08 00:00:00,Mobile Chrome
+CUST_1122,Sam,Miller,sam.miller1122@example.com,Singapore,Indonesia,2023-10-16 00:00:00,iOS App
+CUST_1123,Dakota,Jones,dakota.jones1123@example.com,Kuala Lumpur,Indonesia,2023-10-09 00:00:00,Web Desktop
+CUST_1124,Dakota,Smith,dakota.smith1124@example.com,Jakarta,Indonesia,2024-04-05 00:00:00,Web Desktop
+CUST_1125,Alex,Jones,alex.jones1125@example.com,Kuala Lumpur,Southeast Asia,2024-05-10 00:00:00,iOS App
+CUST_1126,Sam,Jones,sam.jones1126@example.com,Bandung,Indonesia,2023-12-24 00:00:00,Mobile Chrome
+CUST_1127,Sam,Jones,sam.jones1127@example.com,Surabaya,Indonesia,2023-07-21 00:00:00,Mobile Chrome
+CUST_1128,Casey,Smith,casey.smith1128@example.com,Semarang,Indonesia,2023-02-20 00:00:00,iOS App
+CUST_1129,Alex,Davis,alex.davis1129@example.com,Surabaya,Indonesia,2023-10-15 00:00:00,Android App
+CUST_1130,Avery,Johnson,avery.johnson1130@example.com,Singapore,Indonesia,2024-03-13 00:00:00,Android App
+CUST_1131,Jamie,Smith,jamie.smith1131@example.com,Medan,Indonesia,2023-02-23 00:00:00,Web Desktop
+CUST_1132,Casey,Smith,casey.smith1132@example.com,Kuala Lumpur,Indonesia,2023-04-22 00:00:00,Mobile Chrome
+CUST_1133,Sam,Johnson,sam.johnson1133@example.com,Bandung,Southeast Asia,2023-03-16 00:00:00,Mobile Safari
+CUST_1134,Jordan,Garcia,jordan.garcia1134@example.com,Surabaya,Indonesia,2023-11-02 00:00:00,Web Desktop
+CUST_1135,Taylor,Johnson,taylor.johnson1135@example.com,Jakarta,Indonesia,2023-11-04 00:00:00,Mobile Safari
+CUST_1136,Pat,Martinez,pat.martinez1136@example.com,Jakarta,Southeast Asia,2023-02-20 00:00:00,Mobile Safari
+CUST_1137,Avery,Davis,avery.davis1137@example.com,Surabaya,Indonesia,2024-02-05 00:00:00,Mobile Safari
+CUST_1138,Riley,Jones,riley.jones1138@example.com,Singapore,Indonesia,2023-02-03 00:00:00,Mobile Chrome
+CUST_1139,Dakota,Williams,dakota.williams1139@example.com,Jakarta,Indonesia,2023-04-21 00:00:00,Web Desktop
+CUST_1140,Chris,Davis,chris.davis1140@example.com,Bangkok,Indonesia,2024-01-23 00:00:00,iOS App
+CUST_1141,Taylor,Williams,taylor.williams1141@example.com,Semarang,Southeast Asia,2023-06-04 00:00:00,Mobile Chrome
+CUST_1142,Avery,Williams,avery.williams1142@example.com,Semarang,Indonesia,2024-02-07 00:00:00,Mobile Safari
+CUST_1143,Avery,Garcia,avery.garcia1143@example.com,Singapore,Indonesia,2024-02-09 00:00:00,iOS App
+CUST_1144,Jamie,Martinez,jamie.martinez1144@example.com,Surabaya,Indonesia,2023-02-15 00:00:00,Android App
+CUST_1145,Dakota,Rodriguez,dakota.rodriguez1145@example.com,Jakarta,Indonesia,2023-10-09 00:00:00,Web Desktop
+CUST_1146,Alex,Martinez,alex.martinez1146@example.com,Jakarta,Indonesia,2023-10-19 00:00:00,Web Desktop
+CUST_1147,Morgan,Davis,morgan.davis1147@example.com,Singapore,Indonesia,2023-08-02 00:00:00,Android App
+CUST_1148,Avery,Davis,avery.davis1148@example.com,Kuala Lumpur,Indonesia,2024-01-06 00:00:00,Web Desktop
+CUST_1149,Jamie,Johnson,jamie.johnson1149@example.com,Bandung,Indonesia,2023-10-21 00:00:00,iOS App
+CUST_1150,Pat,Jones,pat.jones1150@example.com,Surabaya,Indonesia,2023-01-28 00:00:00,iOS App
+CUST_1151,Pat,Garcia,pat.garcia1151@example.com,Singapore,Indonesia,2024-04-18 00:00:00,iOS App
+CUST_1152,Morgan,Rodriguez,morgan.rodriguez1152@example.com,Surabaya,Indonesia,2023-03-09 00:00:00,Mobile Chrome
+CUST_1153,Jordan,Brown,jordan.brown1153@example.com,Singapore,Indonesia,2023-04-21 00:00:00,iOS App
+CUST_1154,Jamie,Williams,jamie.williams1154@example.com,Jakarta,Indonesia,2023-02-11 00:00:00,Mobile Safari
+CUST_1155,Avery,Johnson,avery.johnson1155@example.com,Bangkok,Indonesia,2024-03-18 00:00:00,Mobile Chrome
+CUST_1156,Casey,Smith,casey.smith1156@example.com,Singapore,Indonesia,2024-03-12 00:00:00,Mobile Safari
+CUST_1157,Dakota,Davis,dakota.davis1157@example.com,Jakarta,Indonesia,2023-11-07 00:00:00,Web Desktop
+CUST_1158,Riley,Jones,riley.jones1158@example.com,Bangkok,Indonesia,2023-02-05 00:00:00,Android App
+CUST_1159,Morgan,Brown,morgan.brown1159@example.com,Singapore,Southeast Asia,2023-12-01 00:00:00,Web Desktop
+CUST_1160,Casey,Johnson,casey.johnson1160@example.com,Bandung,Indonesia,2023-12-01 00:00:00,Web Desktop
+CUST_1161,Jamie,Jones,jamie.jones1161@example.com,Surabaya,Indonesia,2023-11-22 00:00:00,Web Desktop
+CUST_1162,Morgan,Smith,morgan.smith1162@example.com,Jakarta,Indonesia,2023-01-20 00:00:00,iOS App
+CUST_1163,Avery,Garcia,avery.garcia1163@example.com,Singapore,Indonesia,2023-10-20 00:00:00,Mobile Safari
+CUST_1164,Dakota,Williams,dakota.williams1164@example.com,Singapore,Indonesia,2023-06-10 00:00:00,Android App
+CUST_1165,Sam,Miller,sam.miller1165@example.com,Medan,Indonesia,2023-05-18 00:00:00,Android App
+CUST_1166,Morgan,Smith,morgan.smith1166@example.com,Semarang,Indonesia,2023-11-15 00:00:00,iOS App
+CUST_1167,Dakota,Davis,dakota.davis1167@example.com,Kuala Lumpur,Indonesia,2023-02-07 00:00:00,iOS App
+CUST_1168,Sam,Johnson,sam.johnson1168@example.com,Semarang,Indonesia,2023-11-30 00:00:00,iOS App
+CUST_1169,Jordan,Williams,jordan.williams1169@example.com,Jakarta,Indonesia,2023-02-04 00:00:00,Mobile Safari
+CUST_1170,Riley,Rodriguez,riley.rodriguez1170@example.com,Singapore,Indonesia,2023-08-17 00:00:00,Web Desktop
+CUST_1171,Sam,Jones,sam.jones1171@example.com,Bandung,Indonesia,2023-01-05 00:00:00,Android App
+CUST_1172,Morgan,Rodriguez,morgan.rodriguez1172@example.com,Surabaya,Indonesia,2023-08-25 00:00:00,Web Desktop
+CUST_1173,Chris,Smith,chris.smith1173@example.com,Kuala Lumpur,Indonesia,2023-01-23 00:00:00,iOS App
+CUST_1174,Alex,Smith,alex.smith1174@example.com,Kuala Lumpur,Indonesia,2024-05-09 00:00:00,Mobile Chrome
+CUST_1175,Riley,Davis,riley.davis1175@example.com,Kuala Lumpur,Indonesia,2024-03-10 00:00:00,Web Desktop
+CUST_1176,Pat,Williams,pat.williams1176@example.com,Surabaya,Indonesia,2024-03-31 00:00:00,Mobile Chrome
+CUST_1177,Alex,Brown,alex.brown1177@example.com,Kuala Lumpur,Indonesia,2024-04-22 00:00:00,Mobile Chrome
+CUST_1178,Chris,Rodriguez,chris.rodriguez1178@example.com,Semarang,Indonesia,2023-04-07 00:00:00,iOS App
+CUST_1179,Morgan,Garcia,morgan.garcia1179@example.com,Surabaya,Indonesia,2023-11-18 00:00:00,Android App
+CUST_1180,Alex,Garcia,alex.garcia1180@example.com,Semarang,Indonesia,2023-10-21 00:00:00,Mobile Safari
+CUST_1181,Riley,Brown,riley.brown1181@example.com,Kuala Lumpur,Indonesia,2023-07-03 00:00:00,Mobile Chrome
+CUST_1182,Morgan,Johnson,morgan.johnson1182@example.com,Kuala Lumpur,Indonesia,2024-02-15 00:00:00,Mobile Safari
+CUST_1183,Morgan,Martinez,morgan.martinez1183@example.com,Bandung,Indonesia,2023-10-26 00:00:00,Web Desktop
+CUST_1184,Avery,Davis,avery.davis1184@example.com,Singapore,Indonesia,2023-02-07 00:00:00,Android App
+CUST_1185,Dakota,Martinez,dakota.martinez1185@example.com,Bangkok,Indonesia,2023-05-21 00:00:00,iOS App
+CUST_1186,Alex,Davis,alex.davis1186@example.com,Bandung,Southeast Asia,2023-11-12 00:00:00,Mobile Safari
+CUST_1187,Morgan,Jones,morgan.jones1187@example.com,Semarang,Indonesia,2024-01-11 00:00:00,Android App
+CUST_1188,Alex,Martinez,alex.martinez1188@example.com,Singapore,Indonesia,2024-01-28 00:00:00,iOS App
+CUST_1189,Chris,Miller,chris.miller1189@example.com,Singapore,Indonesia,2023-09-14 00:00:00,Android App
+CUST_1190,Morgan,Garcia,morgan.garcia1190@example.com,Jakarta,Indonesia,2024-04-15 00:00:00,Web Desktop
+CUST_1191,Riley,Jones,riley.jones1191@example.com,Jakarta,Indonesia,2024-03-06 00:00:00,Android App
+CUST_1192,Morgan,Rodriguez,morgan.rodriguez1192@example.com,Surabaya,Indonesia,2023-04-27 00:00:00,Mobile Safari
+CUST_1193,Casey,Martinez,casey.martinez1193@example.com,Singapore,Indonesia,2023-03-16 00:00:00,Android App
+CUST_1194,Dakota,Johnson,dakota.johnson1194@example.com,Jakarta,Indonesia,2023-12-13 00:00:00,Web Desktop
+CUST_1195,Jamie,Williams,jamie.williams1195@example.com,Bangkok,Indonesia,2023-07-01 00:00:00,Mobile Safari
+CUST_1196,Chris,Jones,chris.jones1196@example.com,Jakarta,Indonesia,2023-12-10 00:00:00,Web Desktop
+CUST_1197,Chris,Martinez,chris.martinez1197@example.com,Surabaya,Indonesia,2023-06-05 00:00:00,iOS App
+CUST_1198,Morgan,Rodriguez,morgan.rodriguez1198@example.com,Medan,Indonesia,2023-06-26 00:00:00,Mobile Safari
+CUST_1199,Riley,Smith,riley.smith1199@example.com,Jakarta,Indonesia,2023-11-23 00:00:00,Web Desktop
+CUST_1200,Dakota,Davis,dakota.davis1200@example.com,Singapore,Indonesia,2023-07-30 00:00:00,Mobile Chrome
+CUST_1201,Alex,Davis,alex.davis1201@example.com,Surabaya,Indonesia,2023-01-19 00:00:00,Web Desktop
+CUST_1202,Jordan,Johnson,jordan.johnson1202@example.com,Jakarta,Indonesia,2024-04-20 00:00:00,Web Desktop
+CUST_1203,Morgan,Smith,morgan.smith1203@example.com,Semarang,Indonesia,2023-09-21 00:00:00,Web Desktop
+CUST_1204,Avery,Martinez,avery.martinez1204@example.com,Singapore,Indonesia,2024-04-11 00:00:00,iOS App
+CUST_1205,Pat,Miller,pat.miller1205@example.com,Bangkok,Indonesia,2024-04-20 00:00:00,Mobile Chrome
+CUST_1206,Riley,Smith,riley.smith1206@example.com,Kuala Lumpur,Indonesia,2023-11-09 00:00:00,Web Desktop
+CUST_1207,Riley,Garcia,riley.garcia1207@example.com,Kuala Lumpur,Indonesia,2023-09-06 00:00:00,Web Desktop
+CUST_1208,Alex,Davis,alex.davis1208@example.com,Bandung,Indonesia,2024-02-22 00:00:00,Web Desktop
+CUST_1209,Morgan,Brown,morgan.brown1209@example.com,Singapore,Indonesia,2023-06-14 00:00:00,Android App
+CUST_1210,Pat,Martinez,pat.martinez1210@example.com,Jakarta,Indonesia,2023-09-20 00:00:00,Web Desktop
+CUST_1211,Taylor,Brown,taylor.brown1211@example.com,Medan,Indonesia,2023-10-12 00:00:00,iOS App
+CUST_1212,Sam,Brown,sam.brown1212@example.com,Surabaya,Indonesia,2023-01-11 00:00:00,Web Desktop
+CUST_1213,Pat,Miller,pat.miller1213@example.com,Medan,Indonesia,2024-01-31 00:00:00,iOS App
+CUST_1214,Jordan,Jones,jordan.jones1214@example.com,Bandung,Southeast Asia,2024-03-03 00:00:00,Mobile Safari
+CUST_1215,Riley,Smith,riley.smith1215@example.com,Singapore,Indonesia,2023-07-21 00:00:00,iOS App
+CUST_1216,Jordan,Williams,jordan.williams1216@example.com,Singapore,Indonesia,2023-07-28 00:00:00,Android App
+CUST_1217,Casey,Miller,casey.miller1217@example.com,Singapore,Indonesia,2023-07-20 00:00:00,Mobile Safari
+CUST_1218,Avery,Martinez,avery.martinez1218@example.com,Semarang,Indonesia,2023-01-29 00:00:00,Mobile Chrome
+CUST_1219,Dakota,Garcia,dakota.garcia1219@example.com,Bangkok,Indonesia,2023-05-26 00:00:00,Mobile Safari
+CUST_1220,Casey,Garcia,casey.garcia1220@example.com,Jakarta,Indonesia,2023-02-03 00:00:00,Android App
+CUST_1221,Jamie,Miller,jamie.miller1221@example.com,Surabaya,Indonesia,2023-04-27 00:00:00,Web Desktop
+CUST_1222,Casey,Garcia,casey.garcia1222@example.com,Bangkok,Indonesia,2023-08-07 00:00:00,Mobile Chrome
+CUST_1223,Casey,Jones,casey.jones1223@example.com,Surabaya,Southeast Asia,2024-03-30 00:00:00,Android App
+CUST_1224,Sam,Martinez,sam.martinez1224@example.com,Bangkok,Indonesia,2023-02-15 00:00:00,Web Desktop
+CUST_1225,Alex,Williams,alex.williams1225@example.com,Medan,Indonesia,2023-06-30 00:00:00,Mobile Chrome
+CUST_1226,Sam,Davis,sam.davis1226@example.com,Bangkok,Southeast Asia,2023-01-11 00:00:00,Web Desktop
+CUST_1227,Pat,Davis,pat.davis1227@example.com,Singapore,Indonesia,2023-08-15 00:00:00,Mobile Chrome
+CUST_1228,Riley,Smith,riley.smith1228@example.com,Medan,Indonesia,2023-09-07 00:00:00,Web Desktop
+CUST_1229,Taylor,Brown,taylor.brown1229@example.com,Jakarta,Indonesia,2024-05-05 00:00:00,Mobile Chrome
+CUST_1230,Dakota,Johnson,dakota.johnson1230@example.com,Surabaya,Indonesia,2023-07-20 00:00:00,iOS App
+CUST_1231,Casey,Davis,casey.davis1231@example.com,Jakarta,Indonesia,2023-01-17 00:00:00,Web Desktop
+CUST_1232,Riley,Martinez,riley.martinez1232@example.com,Kuala Lumpur,Indonesia,2023-01-25 00:00:00,Android App
+CUST_1233,Sam,Williams,sam.williams1233@example.com,Singapore,Indonesia,2024-04-22 00:00:00,Web Desktop
+CUST_1234,Sam,Smith,sam.smith1234@example.com,Jakarta,Southeast Asia,2024-03-20 00:00:00,iOS App
+CUST_1235,Jamie,Davis,jamie.davis1235@example.com,Bangkok,Indonesia,2023-12-05 00:00:00,iOS App
+CUST_1236,Pat,Jones,pat.jones1236@example.com,Bangkok,Indonesia,2024-01-09 00:00:00,iOS App
+CUST_1237,Jordan,Rodriguez,jordan.rodriguez1237@example.com,Kuala Lumpur,Indonesia,2023-09-25 00:00:00,iOS App
+CUST_1238,Avery,Martinez,avery.martinez1238@example.com,Kuala Lumpur,Southeast Asia,2023-01-16 00:00:00,Android App
+CUST_1239,Sam,Garcia,sam.garcia1239@example.com,Kuala Lumpur,Indonesia,2023-09-07 00:00:00,Mobile Chrome
+CUST_1240,Pat,Rodriguez,pat.rodriguez1240@example.com,Bangkok,Indonesia,2024-01-06 00:00:00,Web Desktop
+CUST_1241,Pat,Johnson,pat.johnson1241@example.com,Singapore,Indonesia,2023-08-11 00:00:00,Web Desktop
+CUST_1242,Jordan,Martinez,jordan.martinez1242@example.com,Jakarta,Indonesia,2023-04-13 00:00:00,Web Desktop
+CUST_1243,Jamie,Johnson,jamie.johnson1243@example.com,Semarang,Indonesia,2023-05-11 00:00:00,Android App
+CUST_1244,Pat,Miller,pat.miller1244@example.com,Kuala Lumpur,Indonesia,2023-12-30 00:00:00,iOS App
+CUST_1245,Morgan,Garcia,morgan.garcia1245@example.com,Semarang,Indonesia,2024-02-13 00:00:00,Mobile Chrome
+CUST_1246,Avery,Johnson,avery.johnson1246@example.com,Bandung,Southeast Asia,2023-11-07 00:00:00,Web Desktop
+CUST_1247,Pat,Johnson,pat.johnson1247@example.com,Bangkok,Indonesia,2024-02-20 00:00:00,Mobile Safari
+CUST_1248,Alex,Jones,alex.jones1248@example.com,Jakarta,Indonesia,2023-08-24 00:00:00,Mobile Safari
+CUST_1249,Casey,Martinez,casey.martinez1249@example.com,Jakarta,Indonesia,2024-02-18 00:00:00,Mobile Safari
+CUST_1250,Sam,Smith,sam.smith1250@example.com,Jakarta,Indonesia,2024-04-22 00:00:00,Android App
+CUST_1251,Morgan,Johnson,morgan.johnson1251@example.com,Semarang,Indonesia,2024-03-21 00:00:00,iOS App
+CUST_1252,Sam,Rodriguez,sam.rodriguez1252@example.com,Jakarta,Indonesia,2024-02-03 00:00:00,Mobile Safari
+CUST_1253,Jamie,Martinez,jamie.martinez1253@example.com,Semarang,Indonesia,2023-10-20 00:00:00,Mobile Safari
+CUST_1254,Chris,Miller,chris.miller1254@example.com,Kuala Lumpur,Southeast Asia,2024-03-15 00:00:00,Web Desktop
+CUST_1255,Jordan,Rodriguez,jordan.rodriguez1255@example.com,Medan,Indonesia,2023-07-18 00:00:00,Mobile Safari
+CUST_1256,Chris,Jones,chris.jones1256@example.com,Semarang,Indonesia,2023-08-31 00:00:00,Web Desktop
+CUST_1257,Jordan,Rodriguez,jordan.rodriguez1257@example.com,Jakarta,Indonesia,2023-08-06 00:00:00,Web Desktop
+CUST_1258,Riley,Garcia,riley.garcia1258@example.com,Semarang,Indonesia,2023-01-05 00:00:00,iOS App
+CUST_1259,Casey,Williams,casey.williams1259@example.com,Surabaya,Indonesia,2023-01-20 00:00:00,Web Desktop
+CUST_1260,Avery,Williams,avery.williams1260@example.com,Surabaya,Indonesia,2023-06-27 00:00:00,Web Desktop
+CUST_1261,Taylor,Garcia,taylor.garcia1261@example.com,Bangkok,Indonesia,2023-09-26 00:00:00,iOS App
+CUST_1262,Casey,Brown,casey.brown1262@example.com,Semarang,Indonesia,2024-02-02 00:00:00,iOS App
+CUST_1263,Riley,Williams,riley.williams1263@example.com,Medan,Indonesia,2023-05-03 00:00:00,Web Desktop
+CUST_1264,Casey,Johnson,casey.johnson1264@example.com,Surabaya,Indonesia,2023-11-28 00:00:00,iOS App
+CUST_1265,Sam,Johnson,sam.johnson1265@example.com,Medan,Indonesia,2024-04-16 00:00:00,Web Desktop
+CUST_1266,Sam,Martinez,sam.martinez1266@example.com,Singapore,Southeast Asia,2024-02-06 00:00:00,Mobile Chrome
+CUST_1267,Jamie,Jones,jamie.jones1267@example.com,Jakarta,Indonesia,2024-04-05 00:00:00,Mobile Chrome
+CUST_1268,Taylor,Martinez,taylor.martinez1268@example.com,Bangkok,Indonesia,2023-11-19 00:00:00,Web Desktop
+CUST_1269,Alex,Garcia,alex.garcia1269@example.com,Bandung,Southeast Asia,2023-08-04 00:00:00,Mobile Safari
+CUST_1270,Alex,Rodriguez,alex.rodriguez1270@example.com,Bandung,Indonesia,2023-09-26 00:00:00,Mobile Chrome
+CUST_1271,Avery,Brown,avery.brown1271@example.com,Bandung,Indonesia,2023-07-10 00:00:00,Mobile Chrome
+CUST_1272,Dakota,Martinez,dakota.martinez1272@example.com,Bandung,Southeast Asia,2023-09-06 00:00:00,Android App
+CUST_1273,Avery,Jones,avery.jones1273@example.com,Kuala Lumpur,Indonesia,2023-06-07 00:00:00,Mobile Safari
+CUST_1274,Jordan,Miller,jordan.miller1274@example.com,Bangkok,Indonesia,2024-03-25 00:00:00,Web Desktop
+CUST_1275,Alex,Rodriguez,alex.rodriguez1275@example.com,Bangkok,Indonesia,2023-01-17 00:00:00,Mobile Safari
+CUST_1276,Riley,Williams,riley.williams1276@example.com,Singapore,Indonesia,2024-05-10 00:00:00,Android App
+CUST_1277,Casey,Johnson,casey.johnson1277@example.com,Medan,Indonesia,2023-11-15 00:00:00,Mobile Chrome
+CUST_1278,Chris,Brown,chris.brown1278@example.com,Bangkok,Indonesia,2024-02-08 00:00:00,Mobile Safari
+CUST_1279,Dakota,Smith,dakota.smith1279@example.com,Singapore,Indonesia,2023-01-12 00:00:00,iOS App
+CUST_1280,Chris,Martinez,chris.martinez1280@example.com,Bandung,Southeast Asia,2023-04-30 00:00:00,Mobile Chrome
+CUST_1281,Jamie,Brown,jamie.brown1281@example.com,Bandung,Indonesia,2023-09-08 00:00:00,Mobile Safari
+CUST_1282,Pat,Smith,pat.smith1282@example.com,Kuala Lumpur,Indonesia,2023-05-14 00:00:00,Web Desktop
+CUST_1283,Dakota,Martinez,dakota.martinez1283@example.com,Surabaya,Indonesia,2024-04-15 00:00:00,Android App
+CUST_1284,Morgan,Smith,morgan.smith1284@example.com,Semarang,Southeast Asia,2023-04-09 00:00:00,Mobile Chrome
+CUST_1285,Dakota,Brown,dakota.brown1285@example.com,Surabaya,Indonesia,2023-10-15 00:00:00,Mobile Safari
+CUST_1286,Chris,Williams,chris.williams1286@example.com,Singapore,Indonesia,2023-12-03 00:00:00,Mobile Safari
+CUST_1287,Sam,Jones,sam.jones1287@example.com,Medan,Indonesia,2024-03-18 00:00:00,iOS App
+CUST_1288,Sam,Williams,sam.williams1288@example.com,Surabaya,Southeast Asia,2023-09-14 00:00:00,Android App
+CUST_1289,Taylor,Smith,taylor.smith1289@example.com,Bangkok,Indonesia,2023-10-08 00:00:00,Mobile Safari
+CUST_1290,Dakota,Davis,dakota.davis1290@example.com,Singapore,Indonesia,2023-03-01 00:00:00,Mobile Chrome
+CUST_1291,Sam,Davis,sam.davis1291@example.com,Bandung,Indonesia,2023-03-20 00:00:00,Mobile Safari
+CUST_1292,Pat,Williams,pat.williams1292@example.com,Bangkok,Indonesia,2023-12-15 00:00:00,Mobile Safari
+CUST_1293,Avery,Williams,avery.williams1293@example.com,Singapore,Indonesia,2024-02-08 00:00:00,iOS App
+CUST_1294,Jamie,Brown,jamie.brown1294@example.com,Jakarta,Indonesia,2023-08-16 00:00:00,iOS App
+CUST_1295,Jamie,Garcia,jamie.garcia1295@example.com,Surabaya,Indonesia,2023-04-27 00:00:00,Web Desktop
+CUST_1296,Alex,Davis,alex.davis1296@example.com,Surabaya,Indonesia,2023-10-04 00:00:00,Android App
+CUST_1297,Chris,Rodriguez,chris.rodriguez1297@example.com,Medan,Indonesia,2023-10-16 00:00:00,Web Desktop
+CUST_1298,Chris,Williams,chris.williams1298@example.com,Jakarta,Indonesia,2023-03-29 00:00:00,iOS App
+CUST_1299,Chris,Garcia,chris.garcia1299@example.com,Medan,Indonesia,2023-04-02 00:00:00,Android App
+CUST_1300,Jamie,Smith,jamie.smith1300@example.com,Jakarta,Indonesia,2023-01-02 00:00:00,Mobile Chrome
+CUST_1301,Alex,Brown,alex.brown1301@example.com,Singapore,Indonesia,2023-06-03 00:00:00,Android App
+CUST_1302,Avery,Johnson,avery.johnson1302@example.com,Surabaya,Indonesia,2023-05-23 00:00:00,Mobile Safari
+CUST_1303,Alex,Davis,alex.davis1303@example.com,Semarang,Indonesia,2024-04-03 00:00:00,iOS App
+CUST_1304,Chris,Rodriguez,chris.rodriguez1304@example.com,Kuala Lumpur,Indonesia,2023-12-25 00:00:00,Android App
+CUST_1305,Jamie,Davis,jamie.davis1305@example.com,Surabaya,Indonesia,2023-11-24 00:00:00,Mobile Safari
+CUST_1306,Dakota,Miller,dakota.miller1306@example.com,Medan,Indonesia,2024-04-03 00:00:00,Android App
+CUST_1307,Chris,Martinez,chris.martinez1307@example.com,Bandung,Indonesia,2024-01-18 00:00:00,Mobile Safari
+CUST_1308,Avery,Johnson,avery.johnson1308@example.com,Kuala Lumpur,Indonesia,2023-01-12 00:00:00,iOS App
+CUST_1309,Taylor,Martinez,taylor.martinez1309@example.com,Kuala Lumpur,Indonesia,2023-05-27 00:00:00,Mobile Chrome
+CUST_1310,Riley,Miller,riley.miller1310@example.com,Kuala Lumpur,Indonesia,2023-11-05 00:00:00,Mobile Safari
+CUST_1311,Jordan,Garcia,jordan.garcia1311@example.com,Bandung,Indonesia,2024-02-06 00:00:00,iOS App
+CUST_1312,Dakota,Williams,dakota.williams1312@example.com,Surabaya,Indonesia,2024-02-16 00:00:00,Mobile Chrome
+CUST_1313,Chris,Smith,chris.smith1313@example.com,Medan,Indonesia,2024-01-26 00:00:00,Mobile Chrome
+CUST_1314,Avery,Davis,avery.davis1314@example.com,Semarang,Indonesia,2024-02-08 00:00:00,Mobile Safari
+CUST_1315,Morgan,Davis,morgan.davis1315@example.com,Jakarta,Indonesia,2023-02-19 00:00:00,iOS App
+CUST_1316,Morgan,Martinez,morgan.martinez1316@example.com,Surabaya,Indonesia,2023-04-27 00:00:00,Android App
+CUST_1317,Jordan,Brown,jordan.brown1317@example.com,Kuala Lumpur,Indonesia,2023-09-19 00:00:00,Web Desktop
+CUST_1318,Avery,Garcia,avery.garcia1318@example.com,Medan,Indonesia,2023-05-05 00:00:00,Android App
+CUST_1319,Riley,Jones,riley.jones1319@example.com,Jakarta,Indonesia,2024-02-03 00:00:00,Mobile Safari
+CUST_1320,Pat,Martinez,pat.martinez1320@example.com,Singapore,Southeast Asia,2024-03-03 00:00:00,Mobile Chrome
+CUST_1321,Sam,Garcia,sam.garcia1321@example.com,Jakarta,Indonesia,2024-05-07 00:00:00,Mobile Safari
+CUST_1322,Riley,Miller,riley.miller1322@example.com,Medan,Indonesia,2024-04-17 00:00:00,iOS App
+CUST_1323,Dakota,Rodriguez,dakota.rodriguez1323@example.com,Surabaya,Southeast Asia,2023-01-28 00:00:00,Mobile Chrome
+CUST_1324,Alex,Davis,alex.davis1324@example.com,Bangkok,Indonesia,2024-04-04 00:00:00,Web Desktop
+CUST_1325,Avery,Williams,avery.williams1325@example.com,Singapore,Indonesia,2023-04-28 00:00:00,Mobile Chrome
+CUST_1326,Avery,Rodriguez,avery.rodriguez1326@example.com,Semarang,Indonesia,2023-09-14 00:00:00,Web Desktop
+CUST_1327,Jamie,Smith,jamie.smith1327@example.com,Bangkok,Indonesia,2023-11-09 00:00:00,Mobile Safari
+CUST_1328,Casey,Jones,casey.jones1328@example.com,Semarang,Indonesia,2023-06-24 00:00:00,iOS App
+CUST_1329,Alex,Davis,alex.davis1329@example.com,Bangkok,Indonesia,2023-02-13 00:00:00,Mobile Safari
+CUST_1330,Dakota,Brown,dakota.brown1330@example.com,Singapore,Indonesia,2024-01-05 00:00:00,Mobile Chrome
+CUST_1331,Morgan,Martinez,morgan.martinez1331@example.com,Jakarta,Indonesia,2023-10-12 00:00:00,Mobile Chrome
+CUST_1332,Sam,Jones,sam.jones1332@example.com,Jakarta,Indonesia,2023-06-10 00:00:00,Mobile Safari
+CUST_1333,Avery,Brown,avery.brown1333@example.com,Surabaya,Southeast Asia,2023-06-30 00:00:00,Web Desktop
+CUST_1334,Jordan,Rodriguez,jordan.rodriguez1334@example.com,Semarang,Southeast Asia,2023-11-02 00:00:00,Web Desktop
+CUST_1335,Jordan,Miller,jordan.miller1335@example.com,Singapore,Indonesia,2024-03-03 00:00:00,Mobile Chrome
+CUST_1336,Morgan,Johnson,morgan.johnson1336@example.com,Medan,Indonesia,2023-08-22 00:00:00,Android App
+CUST_1337,Sam,Smith,sam.smith1337@example.com,Semarang,Indonesia,2023-09-21 00:00:00,Mobile Chrome
+CUST_1338,Chris,Johnson,chris.johnson1338@example.com,Kuala Lumpur,Southeast Asia,2023-07-12 00:00:00,Web Desktop
+CUST_1339,Avery,Johnson,avery.johnson1339@example.com,Jakarta,Indonesia,2024-04-10 00:00:00,iOS App
+CUST_1340,Jamie,Davis,jamie.davis1340@example.com,Singapore,Southeast Asia,2023-12-11 00:00:00,iOS App
+CUST_1341,Taylor,Jones,taylor.jones1341@example.com,Semarang,Indonesia,2023-10-31 00:00:00,Mobile Safari
+CUST_1342,Jordan,Johnson,jordan.johnson1342@example.com,Singapore,Indonesia,2023-07-11 00:00:00,iOS App
+CUST_1343,Casey,Rodriguez,casey.rodriguez1343@example.com,Semarang,Indonesia,2023-06-25 00:00:00,Mobile Chrome
+CUST_1344,Casey,Brown,casey.brown1344@example.com,Semarang,Indonesia,2023-04-08 00:00:00,Mobile Safari
+CUST_1345,Chris,Williams,chris.williams1345@example.com,Surabaya,Indonesia,2024-03-29 00:00:00,iOS App
+CUST_1346,Pat,Williams,pat.williams1346@example.com,Bandung,Indonesia,2023-12-31 00:00:00,iOS App
+CUST_1347,Sam,Smith,sam.smith1347@example.com,Surabaya,Indonesia,2023-03-17 00:00:00,Mobile Chrome
+CUST_1348,Taylor,Rodriguez,taylor.rodriguez1348@example.com,Jakarta,Indonesia,2024-02-21 00:00:00,Web Desktop
+CUST_1349,Jamie,Garcia,jamie.garcia1349@example.com,Bandung,Indonesia,2024-04-18 00:00:00,Android App
+CUST_1350,Jordan,Rodriguez,jordan.rodriguez1350@example.com,Semarang,Southeast Asia,2023-01-03 00:00:00,Android App
+CUST_1351,Chris,Jones,chris.jones1351@example.com,Surabaya,Indonesia,2023-08-09 00:00:00,Mobile Chrome
+CUST_1352,Jordan,Jones,jordan.jones1352@example.com,Medan,Indonesia,2024-04-07 00:00:00,Web Desktop
+CUST_1353,Pat,Garcia,pat.garcia1353@example.com,Surabaya,Indonesia,2023-10-29 00:00:00,Web Desktop
+CUST_1354,Sam,Miller,sam.miller1354@example.com,Kuala Lumpur,Southeast Asia,2023-04-17 00:00:00,Mobile Chrome
+CUST_1355,Jamie,Rodriguez,jamie.rodriguez1355@example.com,Bandung,Indonesia,2023-10-19 00:00:00,Mobile Safari
+CUST_1356,Sam,Garcia,sam.garcia1356@example.com,Surabaya,Indonesia,2023-10-02 00:00:00,Mobile Safari
+CUST_1357,Sam,Brown,sam.brown1357@example.com,Bandung,Southeast Asia,2024-05-08 00:00:00,Mobile Safari
+CUST_1358,Taylor,Davis,taylor.davis1358@example.com,Surabaya,Indonesia,2023-05-24 00:00:00,Android App
+CUST_1359,Jordan,Smith,jordan.smith1359@example.com,Medan,Indonesia,2023-03-18 00:00:00,Web Desktop
+CUST_1360,Pat,Martinez,pat.martinez1360@example.com,Semarang,Indonesia,2023-02-08 00:00:00,iOS App
+CUST_1361,Avery,Martinez,avery.martinez1361@example.com,Medan,Indonesia,2024-03-15 00:00:00,iOS App
+CUST_1362,Jamie,Davis,jamie.davis1362@example.com,Surabaya,Indonesia,2023-06-22 00:00:00,Mobile Chrome
+CUST_1363,Pat,Garcia,pat.garcia1363@example.com,Semarang,Southeast Asia,2023-04-28 00:00:00,iOS App
+CUST_1364,Avery,Rodriguez,avery.rodriguez1364@example.com,Surabaya,Indonesia,2023-09-28 00:00:00,iOS App
+CUST_1365,Avery,Davis,avery.davis1365@example.com,Bangkok,Indonesia,2023-06-01 00:00:00,Web Desktop
+CUST_1366,Sam,Brown,sam.brown1366@example.com,Bangkok,Indonesia,2023-02-19 00:00:00,Mobile Safari
+CUST_1367,Pat,Martinez,pat.martinez1367@example.com,Surabaya,Indonesia,2023-12-11 00:00:00,Android App
+CUST_1368,Alex,Miller,alex.miller1368@example.com,Semarang,Indonesia,2023-08-30 00:00:00,Web Desktop
+CUST_1369,Jamie,Johnson,jamie.johnson1369@example.com,Kuala Lumpur,Indonesia,2023-06-10 00:00:00,Mobile Chrome
+CUST_1370,Taylor,Miller,taylor.miller1370@example.com,Bandung,Indonesia,2023-06-09 00:00:00,Mobile Chrome
+CUST_1371,Casey,Rodriguez,casey.rodriguez1371@example.com,Bangkok,Indonesia,2023-09-15 00:00:00,Mobile Chrome
+CUST_1372,Jordan,Williams,jordan.williams1372@example.com,Singapore,Indonesia,2023-02-11 00:00:00,iOS App
+CUST_1373,Alex,Miller,alex.miller1373@example.com,Medan,Indonesia,2023-10-07 00:00:00,Mobile Safari
+CUST_1374,Avery,Garcia,avery.garcia1374@example.com,Bangkok,Indonesia,2023-02-11 00:00:00,Mobile Safari
+CUST_1375,Riley,Jones,riley.jones1375@example.com,Medan,Indonesia,2023-12-19 00:00:00,iOS App
+CUST_1376,Dakota,Garcia,dakota.garcia1376@example.com,Kuala Lumpur,Indonesia,2024-02-29 00:00:00,iOS App
+CUST_1377,Jamie,Johnson,jamie.johnson1377@example.com,Semarang,Indonesia,2024-03-19 00:00:00,Mobile Chrome
+CUST_1378,Riley,Garcia,riley.garcia1378@example.com,Surabaya,Indonesia,2023-07-19 00:00:00,Mobile Safari
+CUST_1379,Avery,Williams,avery.williams1379@example.com,Singapore,Indonesia,2023-12-08 00:00:00,Mobile Safari
+CUST_1380,Jordan,Garcia,jordan.garcia1380@example.com,Bandung,Indonesia,2023-07-28 00:00:00,Mobile Safari
+CUST_1381,Riley,Garcia,riley.garcia1381@example.com,Surabaya,Southeast Asia,2023-10-27 00:00:00,Mobile Chrome
+CUST_1382,Casey,Miller,casey.miller1382@example.com,Surabaya,Indonesia,2023-07-27 00:00:00,iOS App
+CUST_1383,Pat,Smith,pat.smith1383@example.com,Medan,Southeast Asia,2024-02-04 00:00:00,Web Desktop
+CUST_1384,Pat,Williams,pat.williams1384@example.com,Singapore,Southeast Asia,2023-04-14 00:00:00,Mobile Safari
+CUST_1385,Alex,Rodriguez,alex.rodriguez1385@example.com,Semarang,Indonesia,2023-10-13 00:00:00,Android App
+CUST_1386,Riley,Miller,riley.miller1386@example.com,Jakarta,Indonesia,2023-10-15 00:00:00,Mobile Safari
+CUST_1387,Chris,Brown,chris.brown1387@example.com,Semarang,Indonesia,2023-08-14 00:00:00,iOS App
+CUST_1388,Pat,Johnson,pat.johnson1388@example.com,Surabaya,Indonesia,2023-08-25 00:00:00,Android App
+CUST_1389,Dakota,Rodriguez,dakota.rodriguez1389@example.com,Jakarta,Indonesia,2024-04-01 00:00:00,Mobile Safari
+CUST_1390,Pat,Martinez,pat.martinez1390@example.com,Surabaya,Indonesia,2023-07-15 00:00:00,Web Desktop
+CUST_1391,Chris,Garcia,chris.garcia1391@example.com,Semarang,Indonesia,2023-11-12 00:00:00,Mobile Safari
+CUST_1392,Alex,Martinez,alex.martinez1392@example.com,Surabaya,Indonesia,2023-06-15 00:00:00,Android App
+CUST_1393,Chris,Williams,chris.williams1393@example.com,Kuala Lumpur,Indonesia,2023-12-02 00:00:00,iOS App
+CUST_1394,Sam,Williams,sam.williams1394@example.com,Bandung,Indonesia,2023-03-07 00:00:00,Android App
+CUST_1395,Morgan,Johnson,morgan.johnson1395@example.com,Surabaya,Indonesia,2023-09-13 00:00:00,iOS App
+CUST_1396,Chris,Smith,chris.smith1396@example.com,Kuala Lumpur,Indonesia,2023-06-13 00:00:00,Mobile Chrome
+CUST_1397,Morgan,Williams,morgan.williams1397@example.com,Jakarta,Indonesia,2024-04-27 00:00:00,Mobile Chrome
+CUST_1398,Sam,Johnson,sam.johnson1398@example.com,Semarang,Indonesia,2024-01-27 00:00:00,iOS App
+CUST_1399,Morgan,Brown,morgan.brown1399@example.com,Semarang,Indonesia,2023-05-26 00:00:00,Mobile Chrome
+CUST_1400,Dakota,Johnson,dakota.johnson1400@example.com,Kuala Lumpur,Indonesia,2023-03-01 00:00:00,Web Desktop
+CUST_1401,Sam,Williams,sam.williams1401@example.com,Surabaya,Indonesia,2024-02-22 00:00:00,Web Desktop
+CUST_1402,Jordan,Davis,jordan.davis1402@example.com,Jakarta,Indonesia,2024-04-07 00:00:00,iOS App
+CUST_1403,Taylor,Jones,taylor.jones1403@example.com,Medan,Indonesia,2023-11-25 00:00:00,Web Desktop
+CUST_1404,Pat,Smith,pat.smith1404@example.com,Medan,Southeast Asia,2023-09-17 00:00:00,iOS App
+CUST_1405,Sam,Miller,sam.miller1405@example.com,Medan,Indonesia,2024-01-15 00:00:00,Mobile Safari
+CUST_1406,Jamie,Garcia,jamie.garcia1406@example.com,Surabaya,Indonesia,2023-08-19 00:00:00,Mobile Safari
+CUST_1407,Taylor,Miller,taylor.miller1407@example.com,Medan,Indonesia,2023-06-04 00:00:00,Mobile Chrome
+CUST_1408,Chris,Jones,chris.jones1408@example.com,Surabaya,Indonesia,2023-07-02 00:00:00,Mobile Chrome
+CUST_1409,Chris,Garcia,chris.garcia1409@example.com,Semarang,Indonesia,2023-03-20 00:00:00,Android App
+CUST_1410,Riley,Miller,riley.miller1410@example.com,Jakarta,Indonesia,2024-01-24 00:00:00,Android App
+CUST_1411,Jordan,Jones,jordan.jones1411@example.com,Surabaya,Indonesia,2023-06-30 00:00:00,Mobile Safari
+CUST_1412,Alex,Williams,alex.williams1412@example.com,Medan,Indonesia,2024-05-11 00:00:00,Mobile Chrome
+CUST_1413,Morgan,Miller,morgan.miller1413@example.com,Surabaya,Indonesia,2023-04-27 00:00:00,Android App
+CUST_1414,Morgan,Johnson,morgan.johnson1414@example.com,Bandung,Indonesia,2023-08-20 00:00:00,Mobile Safari
+CUST_1415,Chris,Martinez,chris.martinez1415@example.com,Surabaya,Southeast Asia,2023-01-21 00:00:00,iOS App
+CUST_1416,Alex,Davis,alex.davis1416@example.com,Jakarta,Indonesia,2024-01-28 00:00:00,Mobile Safari
+CUST_1417,Alex,Martinez,alex.martinez1417@example.com,Surabaya,Indonesia,2023-08-30 00:00:00,Mobile Chrome
+CUST_1418,Jamie,Miller,jamie.miller1418@example.com,Bangkok,Southeast Asia,2023-10-17 00:00:00,iOS App
+CUST_1419,Alex,Miller,alex.miller1419@example.com,Semarang,Indonesia,2023-12-10 00:00:00,Mobile Safari
+CUST_1420,Alex,Miller,alex.miller1420@example.com,Bangkok,Indonesia,2023-04-11 00:00:00,iOS App
+CUST_1421,Pat,Smith,pat.smith1421@example.com,Bandung,Indonesia,2023-04-19 00:00:00,iOS App
+CUST_1422,Sam,Brown,sam.brown1422@example.com,Bangkok,Indonesia,2023-10-04 00:00:00,Mobile Safari
+CUST_1423,Dakota,Brown,dakota.brown1423@example.com,Bandung,Indonesia,2024-02-03 00:00:00,Mobile Safari
+CUST_1424,Taylor,Martinez,taylor.martinez1424@example.com,Semarang,Indonesia,2023-09-18 00:00:00,Android App
+CUST_1425,Chris,Smith,chris.smith1425@example.com,Bangkok,Indonesia,2023-08-11 00:00:00,iOS App
+CUST_1426,Casey,Johnson,casey.johnson1426@example.com,Surabaya,Indonesia,2024-04-07 00:00:00,Mobile Safari
+CUST_1427,Morgan,Rodriguez,morgan.rodriguez1427@example.com,Jakarta,Indonesia,2023-06-18 00:00:00,Android App
+CUST_1428,Avery,Jones,avery.jones1428@example.com,Medan,Indonesia,2023-06-13 00:00:00,Android App
+CUST_1429,Chris,Jones,chris.jones1429@example.com,Kuala Lumpur,Indonesia,2023-06-09 00:00:00,Mobile Safari
+CUST_1430,Jordan,Martinez,jordan.martinez1430@example.com,Jakarta,Southeast Asia,2023-09-28 00:00:00,iOS App
+CUST_1431,Casey,Davis,casey.davis1431@example.com,Singapore,Indonesia,2023-11-11 00:00:00,iOS App
+CUST_1432,Jordan,Garcia,jordan.garcia1432@example.com,Singapore,Southeast Asia,2024-05-14 00:00:00,Mobile Safari
+CUST_1433,Taylor,Smith,taylor.smith1433@example.com,Semarang,Indonesia,2024-01-11 00:00:00,iOS App
+CUST_1434,Jamie,Rodriguez,jamie.rodriguez1434@example.com,Surabaya,Indonesia,2024-03-06 00:00:00,Mobile Chrome
+CUST_1435,Riley,Davis,riley.davis1435@example.com,Kuala Lumpur,Indonesia,2023-08-26 00:00:00,Web Desktop
+CUST_1436,Chris,Garcia,chris.garcia1436@example.com,Jakarta,Southeast Asia,2023-08-23 00:00:00,Mobile Chrome
+CUST_1437,Jordan,Johnson,jordan.johnson1437@example.com,Semarang,Indonesia,2023-01-29 00:00:00,Web Desktop
+CUST_1438,Jordan,Williams,jordan.williams1438@example.com,Bangkok,Indonesia,2024-02-11 00:00:00,Web Desktop
+CUST_1439,Sam,Smith,sam.smith1439@example.com,Bandung,Indonesia,2023-07-03 00:00:00,Web Desktop
+CUST_1440,Pat,Miller,pat.miller1440@example.com,Kuala Lumpur,Southeast Asia,2023-04-18 00:00:00,Mobile Chrome
+CUST_1441,Riley,Martinez,riley.martinez1441@example.com,Bangkok,Indonesia,2023-07-05 00:00:00,Mobile Safari
+CUST_1442,Sam,Williams,sam.williams1442@example.com,Medan,Indonesia,2024-03-24 00:00:00,Android App
+CUST_1443,Jordan,Rodriguez,jordan.rodriguez1443@example.com,Semarang,Indonesia,2023-01-10 00:00:00,Web Desktop
+CUST_1444,Dakota,Johnson,dakota.johnson1444@example.com,Bangkok,Indonesia,2024-02-29 00:00:00,Mobile Safari
+CUST_1445,Morgan,Garcia,morgan.garcia1445@example.com,Surabaya,Indonesia,2023-08-22 00:00:00,Mobile Safari
+CUST_1446,Alex,Rodriguez,alex.rodriguez1446@example.com,Semarang,Indonesia,2024-02-22 00:00:00,Web Desktop
+CUST_1447,Taylor,Miller,taylor.miller1447@example.com,Bangkok,Indonesia,2023-03-11 00:00:00,Android App
+CUST_1448,Morgan,Brown,morgan.brown1448@example.com,Surabaya,Southeast Asia,2023-01-20 00:00:00,Web Desktop
+CUST_1449,Avery,Jones,avery.jones1449@example.com,Semarang,Indonesia,2023-08-18 00:00:00,Mobile Chrome
+CUST_1450,Avery,Garcia,avery.garcia1450@example.com,Medan,Indonesia,2024-03-05 00:00:00,Mobile Chrome
+CUST_1451,Morgan,Smith,morgan.smith1451@example.com,Kuala Lumpur,Indonesia,2023-04-29 00:00:00,Web Desktop
+CUST_1452,Riley,Jones,riley.jones1452@example.com,Surabaya,Indonesia,2023-12-02 00:00:00,Mobile Safari
+CUST_1453,Riley,Davis,riley.davis1453@example.com,Singapore,Indonesia,2023-06-11 00:00:00,Mobile Safari
+CUST_1454,Jamie,Williams,jamie.williams1454@example.com,Kuala Lumpur,Indonesia,2023-11-01 00:00:00,Mobile Chrome
+CUST_1455,Jamie,Martinez,jamie.martinez1455@example.com,Semarang,Indonesia,2024-04-30 00:00:00,Web Desktop
+CUST_1456,Morgan,Miller,morgan.miller1456@example.com,Kuala Lumpur,Indonesia,2023-04-23 00:00:00,Mobile Safari
+CUST_1457,Alex,Rodriguez,alex.rodriguez1457@example.com,Semarang,Indonesia,2023-04-28 00:00:00,Mobile Safari
+CUST_1458,Morgan,Garcia,morgan.garcia1458@example.com,Singapore,Indonesia,2023-02-16 00:00:00,iOS App
+CUST_1459,Avery,Jones,avery.jones1459@example.com,Semarang,Southeast Asia,2024-05-14 00:00:00,Web Desktop
+CUST_1460,Dakota,Smith,dakota.smith1460@example.com,Singapore,Indonesia,2023-12-16 00:00:00,iOS App
+CUST_1461,Dakota,Williams,dakota.williams1461@example.com,Bandung,Indonesia,2023-09-02 00:00:00,Android App
+CUST_1462,Taylor,Jones,taylor.jones1462@example.com,Bangkok,Indonesia,2023-12-15 00:00:00,iOS App
+CUST_1463,Sam,Martinez,sam.martinez1463@example.com,Semarang,Indonesia,2023-07-11 00:00:00,Android App
+CUST_1464,Morgan,Miller,morgan.miller1464@example.com,Surabaya,Southeast Asia,2023-10-22 00:00:00,iOS App
+CUST_1465,Morgan,Garcia,morgan.garcia1465@example.com,Singapore,Indonesia,2023-10-24 00:00:00,Mobile Safari
+CUST_1466,Jamie,Rodriguez,jamie.rodriguez1466@example.com,Medan,Indonesia,2023-01-31 00:00:00,Mobile Safari
+CUST_1467,Sam,Davis,sam.davis1467@example.com,Surabaya,Indonesia,2023-12-30 00:00:00,Mobile Safari
+CUST_1468,Pat,Williams,pat.williams1468@example.com,Medan,Indonesia,2024-03-14 00:00:00,Android App
+CUST_1469,Chris,Martinez,chris.martinez1469@example.com,Semarang,Indonesia,2023-08-05 00:00:00,iOS App
+CUST_1470,Morgan,Davis,morgan.davis1470@example.com,Medan,Indonesia,2023-04-17 00:00:00,Web Desktop
+CUST_1471,Casey,Jones,casey.jones1471@example.com,Surabaya,Indonesia,2023-07-15 00:00:00,Android App
+CUST_1472,Riley,Brown,riley.brown1472@example.com,Kuala Lumpur,Southeast Asia,2024-04-16 00:00:00,Mobile Chrome
+CUST_1473,Avery,Martinez,avery.martinez1473@example.com,Bangkok,Indonesia,2024-05-06 00:00:00,iOS App
+CUST_1474,Sam,Martinez,sam.martinez1474@example.com,Surabaya,Indonesia,2023-01-21 00:00:00,Android App
+CUST_1475,Sam,Davis,sam.davis1475@example.com,Bandung,Indonesia,2023-11-01 00:00:00,Mobile Chrome
+CUST_1476,Jamie,Rodriguez,jamie.rodriguez1476@example.com,Jakarta,Indonesia,2024-03-20 00:00:00,Mobile Chrome
+CUST_1477,Morgan,Martinez,morgan.martinez1477@example.com,Singapore,Indonesia,2023-11-23 00:00:00,iOS App
+CUST_1478,Riley,Johnson,riley.johnson1478@example.com,Surabaya,Indonesia,2023-01-28 00:00:00,iOS App
+CUST_1479,Alex,Johnson,alex.johnson1479@example.com,Singapore,Indonesia,2024-03-29 00:00:00,iOS App
+CUST_1480,Avery,Jones,avery.jones1480@example.com,Surabaya,Indonesia,2023-01-05 00:00:00,iOS App
+CUST_1481,Jordan,Martinez,jordan.martinez1481@example.com,Bangkok,Indonesia,2023-04-08 00:00:00,Mobile Chrome
+CUST_1482,Pat,Garcia,pat.garcia1482@example.com,Bangkok,Indonesia,2023-03-17 00:00:00,Mobile Safari
+CUST_1483,Dakota,Martinez,dakota.martinez1483@example.com,Bangkok,Indonesia,2023-04-09 00:00:00,iOS App
+CUST_1484,Pat,Jones,pat.jones1484@example.com,Surabaya,Indonesia,2023-01-20 00:00:00,Mobile Safari
+CUST_1485,Chris,Davis,chris.davis1485@example.com,Semarang,Indonesia,2023-08-20 00:00:00,Mobile Safari
+CUST_1486,Jamie,Rodriguez,jamie.rodriguez1486@example.com,Surabaya,Indonesia,2023-06-17 00:00:00,iOS App
+CUST_1487,Jordan,Rodriguez,jordan.rodriguez1487@example.com,Singapore,Indonesia,2023-09-05 00:00:00,Mobile Safari
+CUST_1488,Alex,Martinez,alex.martinez1488@example.com,Bandung,Indonesia,2024-05-14 00:00:00,Mobile Safari
+CUST_1489,Pat,Rodriguez,pat.rodriguez1489@example.com,Surabaya,Indonesia,2024-01-14 00:00:00,Mobile Chrome
+CUST_1490,Taylor,Davis,taylor.davis1490@example.com,Surabaya,Indonesia,2023-09-25 00:00:00,Mobile Safari
+CUST_1491,Jamie,Rodriguez,jamie.rodriguez1491@example.com,Semarang,Indonesia,2023-06-13 00:00:00,iOS App
+CUST_1492,Riley,Johnson,riley.johnson1492@example.com,Medan,Indonesia,2023-02-11 00:00:00,Mobile Safari
+CUST_1493,Jordan,Miller,jordan.miller1493@example.com,Bandung,Indonesia,2023-12-02 00:00:00,Web Desktop
+CUST_1494,Jordan,Davis,jordan.davis1494@example.com,Jakarta,Indonesia,2024-04-30 00:00:00,Mobile Chrome
+CUST_1495,Jamie,Jones,jamie.jones1495@example.com,Singapore,Indonesia,2023-09-17 00:00:00,Web Desktop
+CUST_1496,Casey,Miller,casey.miller1496@example.com,Jakarta,Indonesia,2023-01-16 00:00:00,Mobile Chrome
+CUST_1497,Sam,Johnson,sam.johnson1497@example.com,Medan,Southeast Asia,2023-09-17 00:00:00,Web Desktop
+CUST_1498,Pat,Jones,pat.jones1498@example.com,Bandung,Indonesia,2023-01-25 00:00:00,iOS App
+CUST_1499,Morgan,Johnson,morgan.johnson1499@example.com,Singapore,Indonesia,2023-06-03 00:00:00,Web Desktop
+CUST_1500,Jamie,Rodriguez,jamie.rodriguez1500@example.com,Singapore,Indonesia,2024-01-07 00:00:00,Web Desktop
+CUST_1501,Jamie,Rodriguez,jamie.rodriguez1501@example.com,Surabaya,Indonesia,2024-01-30 00:00:00,Mobile Safari
+CUST_1502,Casey,Jones,casey.jones1502@example.com,Surabaya,Indonesia,2023-08-04 00:00:00,Mobile Safari
+CUST_1503,Jamie,Martinez,jamie.martinez1503@example.com,Semarang,Indonesia,2024-05-10 00:00:00,Android App
+CUST_1504,Alex,Jones,alex.jones1504@example.com,Medan,Southeast Asia,2023-06-12 00:00:00,Web Desktop
+CUST_1505,Jordan,Martinez,jordan.martinez1505@example.com,Jakarta,Indonesia,2023-03-16 00:00:00,iOS App
+CUST_1506,Sam,Williams,sam.williams1506@example.com,Medan,Indonesia,2023-10-16 00:00:00,Android App
+CUST_1507,Jordan,Williams,jordan.williams1507@example.com,Bangkok,Indonesia,2024-02-28 00:00:00,iOS App
+CUST_1508,Morgan,Smith,morgan.smith1508@example.com,Kuala Lumpur,Indonesia,2024-03-31 00:00:00,Web Desktop
+CUST_1509,Morgan,Martinez,morgan.martinez1509@example.com,Kuala Lumpur,Indonesia,2024-02-13 00:00:00,Mobile Chrome
+CUST_1510,Taylor,Rodriguez,taylor.rodriguez1510@example.com,Semarang,Indonesia,2023-04-27 00:00:00,Mobile Safari
+CUST_1511,Jamie,Smith,jamie.smith1511@example.com,Jakarta,Indonesia,2023-02-08 00:00:00,Mobile Chrome
+CUST_1512,Jordan,Williams,jordan.williams1512@example.com,Singapore,Indonesia,2023-08-13 00:00:00,Web Desktop
+CUST_1513,Dakota,Johnson,dakota.johnson1513@example.com,Singapore,Indonesia,2024-01-11 00:00:00,Mobile Safari
+CUST_1514,Sam,Davis,sam.davis1514@example.com,Bandung,Indonesia,2023-07-09 00:00:00,Web Desktop
+CUST_1515,Morgan,Smith,morgan.smith1515@example.com,Bangkok,Indonesia,2023-10-08 00:00:00,Android App
+CUST_1516,Chris,Miller,chris.miller1516@example.com,Bangkok,Indonesia,2023-05-30 00:00:00,Web Desktop
+CUST_1517,Taylor,Martinez,taylor.martinez1517@example.com,Jakarta,Indonesia,2023-10-02 00:00:00,Mobile Chrome
+CUST_1518,Pat,Rodriguez,pat.rodriguez1518@example.com,Medan,Indonesia,2023-09-08 00:00:00,Mobile Safari
+CUST_1519,Taylor,Brown,taylor.brown1519@example.com,Bangkok,Indonesia,2024-02-02 00:00:00,Mobile Chrome
+CUST_1520,Morgan,Davis,morgan.davis1520@example.com,Singapore,Indonesia,2024-04-09 00:00:00,iOS App
+CUST_1521,Riley,Brown,riley.brown1521@example.com,Singapore,Indonesia,2023-03-30 00:00:00,Web Desktop
+CUST_1522,Casey,Rodriguez,casey.rodriguez1522@example.com,Bandung,Southeast Asia,2023-07-15 00:00:00,Android App
+CUST_1523,Casey,Garcia,casey.garcia1523@example.com,Bangkok,Indonesia,2024-02-29 00:00:00,Mobile Chrome
+CUST_1524,Alex,Williams,alex.williams1524@example.com,Bangkok,Indonesia,2023-09-24 00:00:00,Mobile Chrome
+CUST_1525,Sam,Jones,sam.jones1525@example.com,Medan,Indonesia,2023-10-31 00:00:00,Mobile Safari
+CUST_1526,Alex,Jones,alex.jones1526@example.com,Semarang,Indonesia,2023-07-20 00:00:00,Web Desktop
+CUST_1527,Alex,Johnson,alex.johnson1527@example.com,Bangkok,Indonesia,2023-08-04 00:00:00,Mobile Chrome
+CUST_1528,Pat,Davis,pat.davis1528@example.com,Singapore,Indonesia,2023-11-28 00:00:00,iOS App
+CUST_1529,Taylor,Martinez,taylor.martinez1529@example.com,Semarang,Indonesia,2023-11-04 00:00:00,Mobile Chrome
+CUST_1530,Taylor,Garcia,taylor.garcia1530@example.com,Jakarta,Indonesia,2023-10-03 00:00:00,Mobile Safari
+CUST_1531,Pat,Miller,pat.miller1531@example.com,Medan,Indonesia,2023-12-14 00:00:00,Mobile Safari
+CUST_1532,Taylor,Garcia,taylor.garcia1532@example.com,Surabaya,Indonesia,2024-05-06 00:00:00,Web Desktop
+CUST_1533,Pat,Rodriguez,pat.rodriguez1533@example.com,Bangkok,Indonesia,2023-09-14 00:00:00,iOS App
+CUST_1534,Jordan,Smith,jordan.smith1534@example.com,Medan,Indonesia,2023-03-02 00:00:00,Web Desktop
+CUST_1535,Riley,Williams,riley.williams1535@example.com,Surabaya,Southeast Asia,2024-01-15 00:00:00,Mobile Chrome
+CUST_1536,Alex,Williams,alex.williams1536@example.com,Singapore,Indonesia,2024-02-28 00:00:00,Mobile Chrome
+CUST_1537,Morgan,Davis,morgan.davis1537@example.com,Semarang,Indonesia,2023-06-26 00:00:00,iOS App
+CUST_1538,Alex,Davis,alex.davis1538@example.com,Medan,Indonesia,2023-02-12 00:00:00,Android App
+CUST_1539,Pat,Jones,pat.jones1539@example.com,Jakarta,Indonesia,2023-09-02 00:00:00,Android App
+CUST_1540,Dakota,Garcia,dakota.garcia1540@example.com,Jakarta,Indonesia,2024-01-17 00:00:00,Mobile Chrome
+CUST_1541,Alex,Rodriguez,alex.rodriguez1541@example.com,Bangkok,Indonesia,2023-01-17 00:00:00,Web Desktop
+CUST_1542,Pat,Miller,pat.miller1542@example.com,Kuala Lumpur,Indonesia,2023-02-10 00:00:00,Web Desktop
+CUST_1543,Taylor,Smith,taylor.smith1543@example.com,Medan,Indonesia,2023-06-17 00:00:00,Mobile Chrome
+CUST_1544,Sam,Smith,sam.smith1544@example.com,Surabaya,Southeast Asia,2023-10-28 00:00:00,Android App
+CUST_1545,Sam,Davis,sam.davis1545@example.com,Bandung,Indonesia,2023-06-02 00:00:00,Mobile Chrome
+CUST_1546,Pat,Smith,pat.smith1546@example.com,Medan,Indonesia,2023-06-24 00:00:00,Android App
+CUST_1547,Morgan,Smith,morgan.smith1547@example.com,Medan,Indonesia,2023-05-07 00:00:00,Web Desktop
+CUST_1548,Jamie,Davis,jamie.davis1548@example.com,Jakarta,Indonesia,2023-03-25 00:00:00,Android App
+CUST_1549,Taylor,Rodriguez,taylor.rodriguez1549@example.com,Surabaya,Indonesia,2024-02-27 00:00:00,iOS App
+CUST_1550,Avery,Johnson,avery.johnson1550@example.com,Bandung,Indonesia,2023-11-03 00:00:00,Android App
+CUST_1551,Taylor,Garcia,taylor.garcia1551@example.com,Jakarta,Indonesia,2023-07-20 00:00:00,Web Desktop
+CUST_1552,Morgan,Garcia,morgan.garcia1552@example.com,Semarang,Southeast Asia,2023-06-04 00:00:00,Web Desktop
+CUST_1553,Riley,Johnson,riley.johnson1553@example.com,Jakarta,Indonesia,2023-03-22 00:00:00,Web Desktop
+CUST_1554,Dakota,Smith,dakota.smith1554@example.com,Semarang,Indonesia,2023-11-07 00:00:00,Mobile Chrome
+CUST_1555,Sam,Smith,sam.smith1555@example.com,Kuala Lumpur,Indonesia,2023-05-07 00:00:00,iOS App
+CUST_1556,Chris,Jones,chris.jones1556@example.com,Bandung,Indonesia,2024-03-13 00:00:00,Web Desktop
+CUST_1557,Pat,Rodriguez,pat.rodriguez1557@example.com,Singapore,Indonesia,2024-03-12 00:00:00,Mobile Safari
+CUST_1558,Jamie,Johnson,jamie.johnson1558@example.com,Bandung,Indonesia,2023-10-15 00:00:00,Mobile Safari
+CUST_1559,Casey,Miller,casey.miller1559@example.com,Bandung,Indonesia,2023-12-26 00:00:00,Android App
+CUST_1560,Dakota,Rodriguez,dakota.rodriguez1560@example.com,Medan,Indonesia,2023-04-28 00:00:00,Android App
+CUST_1561,Riley,Jones,riley.jones1561@example.com,Medan,Indonesia,2023-01-07 00:00:00,iOS App
+CUST_1562,Alex,Brown,alex.brown1562@example.com,Semarang,Indonesia,2023-10-02 00:00:00,Android App
+CUST_1563,Jamie,Williams,jamie.williams1563@example.com,Kuala Lumpur,Indonesia,2024-03-02 00:00:00,Web Desktop
+CUST_1564,Alex,Smith,alex.smith1564@example.com,Bangkok,Indonesia,2023-10-21 00:00:00,Android App
+CUST_1565,Morgan,Davis,morgan.davis1565@example.com,Singapore,Indonesia,2023-07-23 00:00:00,Mobile Safari
+CUST_1566,Alex,Johnson,alex.johnson1566@example.com,Singapore,Indonesia,2023-11-21 00:00:00,Web Desktop
+CUST_1567,Taylor,Brown,taylor.brown1567@example.com,Bandung,Indonesia,2023-06-03 00:00:00,Web Desktop
+CUST_1568,Dakota,Martinez,dakota.martinez1568@example.com,Surabaya,Indonesia,2023-02-20 00:00:00,Mobile Chrome
+CUST_1569,Sam,Martinez,sam.martinez1569@example.com,Surabaya,Indonesia,2024-04-29 00:00:00,Android App
+CUST_1570,Jamie,Jones,jamie.jones1570@example.com,Kuala Lumpur,Indonesia,2023-02-04 00:00:00,Android App
+CUST_1571,Jamie,Rodriguez,jamie.rodriguez1571@example.com,Semarang,Indonesia,2024-01-04 00:00:00,Mobile Safari
+CUST_1572,Alex,Garcia,alex.garcia1572@example.com,Semarang,Indonesia,2023-03-09 00:00:00,iOS App
+CUST_1573,Jordan,Garcia,jordan.garcia1573@example.com,Bandung,Indonesia,2023-11-05 00:00:00,Web Desktop
+CUST_1574,Avery,Johnson,avery.johnson1574@example.com,Semarang,Indonesia,2024-02-20 00:00:00,iOS App
+CUST_1575,Sam,Jones,sam.jones1575@example.com,Bandung,Indonesia,2023-10-27 00:00:00,Web Desktop
+CUST_1576,Alex,Davis,alex.davis1576@example.com,Bandung,Indonesia,2023-05-05 00:00:00,Android App
+CUST_1577,Dakota,Brown,dakota.brown1577@example.com,Semarang,Southeast Asia,2024-03-10 00:00:00,Mobile Safari
+CUST_1578,Jordan,Davis,jordan.davis1578@example.com,Jakarta,Indonesia,2023-08-02 00:00:00,Web Desktop
+CUST_1579,Sam,Miller,sam.miller1579@example.com,Bangkok,Indonesia,2023-12-07 00:00:00,iOS App
+CUST_1580,Sam,Brown,sam.brown1580@example.com,Bandung,Indonesia,2024-01-09 00:00:00,Web Desktop
+CUST_1581,Sam,Johnson,sam.johnson1581@example.com,Singapore,Indonesia,2023-09-24 00:00:00,Mobile Safari
+CUST_1582,Chris,Jones,chris.jones1582@example.com,Bandung,Indonesia,2023-09-03 00:00:00,Mobile Chrome
+CUST_1583,Alex,Davis,alex.davis1583@example.com,Jakarta,Southeast Asia,2023-01-20 00:00:00,Mobile Safari
+CUST_1584,Chris,Smith,chris.smith1584@example.com,Bandung,Indonesia,2024-01-06 00:00:00,Mobile Safari
+CUST_1585,Jamie,Brown,jamie.brown1585@example.com,Singapore,Indonesia,2023-12-18 00:00:00,Android App
+CUST_1586,Morgan,Garcia,morgan.garcia1586@example.com,Jakarta,Indonesia,2023-03-16 00:00:00,Web Desktop
+CUST_1587,Dakota,Rodriguez,dakota.rodriguez1587@example.com,Surabaya,Indonesia,2024-05-13 00:00:00,Mobile Chrome
+CUST_1588,Dakota,Johnson,dakota.johnson1588@example.com,Bandung,Indonesia,2023-04-02 00:00:00,Mobile Safari
+CUST_1589,Pat,Williams,pat.williams1589@example.com,Kuala Lumpur,Indonesia,2023-02-17 00:00:00,Mobile Safari
+CUST_1590,Alex,Smith,alex.smith1590@example.com,Jakarta,Southeast Asia,2024-01-04 00:00:00,Web Desktop
+CUST_1591,Chris,Williams,chris.williams1591@example.com,Semarang,Indonesia,2024-03-18 00:00:00,Mobile Chrome
+CUST_1592,Pat,Johnson,pat.johnson1592@example.com,Singapore,Indonesia,2024-04-24 00:00:00,Web Desktop
+CUST_1593,Taylor,Garcia,taylor.garcia1593@example.com,Surabaya,Indonesia,2024-01-29 00:00:00,Mobile Chrome
+CUST_1594,Jamie,Johnson,jamie.johnson1594@example.com,Bangkok,Indonesia,2023-06-18 00:00:00,iOS App
+CUST_1595,Taylor,Williams,taylor.williams1595@example.com,Bangkok,Southeast Asia,2024-01-05 00:00:00,Web Desktop
+CUST_1596,Alex,Brown,alex.brown1596@example.com,Semarang,Indonesia,2023-01-25 00:00:00,Mobile Chrome
+CUST_1597,Riley,Davis,riley.davis1597@example.com,Medan,Indonesia,2024-01-24 00:00:00,iOS App
+CUST_1598,Morgan,Williams,morgan.williams1598@example.com,Kuala Lumpur,Indonesia,2023-07-13 00:00:00,iOS App
+CUST_1599,Jordan,Brown,jordan.brown1599@example.com,Kuala Lumpur,Indonesia,2024-02-18 00:00:00,Web Desktop
+CUST_1600,Riley,Williams,riley.williams1600@example.com,Medan,Indonesia,2024-02-02 00:00:00,Android App
+CUST_1601,Taylor,Garcia,taylor.garcia1601@example.com,Surabaya,Indonesia,2023-01-16 00:00:00,Android App
+CUST_1602,Avery,Garcia,avery.garcia1602@example.com,Surabaya,Indonesia,2023-07-07 00:00:00,Mobile Chrome
+CUST_1603,Riley,Johnson,riley.johnson1603@example.com,Bandung,Indonesia,2023-10-22 00:00:00,Web Desktop
+CUST_1604,Chris,Miller,chris.miller1604@example.com,Kuala Lumpur,Indonesia,2023-02-22 00:00:00,iOS App
+CUST_1605,Sam,Jones,sam.jones1605@example.com,Semarang,Indonesia,2024-02-07 00:00:00,iOS App
+CUST_1606,Chris,Smith,chris.smith1606@example.com,Kuala Lumpur,Southeast Asia,2023-07-02 00:00:00,Android App
+CUST_1607,Avery,Brown,avery.brown1607@example.com,Singapore,Indonesia,2024-03-31 00:00:00,Android App
+CUST_1608,Jordan,Brown,jordan.brown1608@example.com,Bangkok,Indonesia,2023-02-22 00:00:00,Mobile Safari
+CUST_1609,Dakota,Miller,dakota.miller1609@example.com,Surabaya,Indonesia,2023-09-21 00:00:00,Android App
+CUST_1610,Jordan,Davis,jordan.davis1610@example.com,Kuala Lumpur,Indonesia,2023-12-20 00:00:00,Mobile Safari
+CUST_1611,Alex,Rodriguez,alex.rodriguez1611@example.com,Jakarta,Indonesia,2024-04-23 00:00:00,Android App
+CUST_1612,Jordan,Garcia,jordan.garcia1612@example.com,Jakarta,Indonesia,2023-10-21 00:00:00,Android App
+CUST_1613,Riley,Rodriguez,riley.rodriguez1613@example.com,Semarang,Southeast Asia,2024-01-25 00:00:00,Mobile Chrome
+CUST_1614,Jamie,Rodriguez,jamie.rodriguez1614@example.com,Bandung,Indonesia,2023-03-06 00:00:00,Web Desktop
+CUST_1615,Jordan,Brown,jordan.brown1615@example.com,Surabaya,Southeast Asia,2023-04-10 00:00:00,Mobile Chrome
+CUST_1616,Taylor,Smith,taylor.smith1616@example.com,Bangkok,Southeast Asia,2023-07-17 00:00:00,Web Desktop
+CUST_1617,Sam,Smith,sam.smith1617@example.com,Kuala Lumpur,Indonesia,2023-07-05 00:00:00,iOS App
+CUST_1618,Jamie,Rodriguez,jamie.rodriguez1618@example.com,Kuala Lumpur,Indonesia,2023-04-30 00:00:00,Mobile Chrome
+CUST_1619,Sam,Jones,sam.jones1619@example.com,Bangkok,Indonesia,2024-02-21 00:00:00,iOS App
+CUST_1620,Morgan,Rodriguez,morgan.rodriguez1620@example.com,Jakarta,Indonesia,2023-04-04 00:00:00,Web Desktop
+CUST_1621,Taylor,Jones,taylor.jones1621@example.com,Jakarta,Indonesia,2023-10-25 00:00:00,Mobile Safari
+CUST_1622,Casey,Williams,casey.williams1622@example.com,Bangkok,Indonesia,2023-10-30 00:00:00,Web Desktop
+CUST_1623,Jamie,Rodriguez,jamie.rodriguez1623@example.com,Kuala Lumpur,Indonesia,2024-01-15 00:00:00,Android App
+CUST_1624,Sam,Brown,sam.brown1624@example.com,Surabaya,Indonesia,2023-01-31 00:00:00,iOS App
+CUST_1625,Chris,Garcia,chris.garcia1625@example.com,Singapore,Indonesia,2024-03-15 00:00:00,Mobile Chrome
+CUST_1626,Pat,Johnson,pat.johnson1626@example.com,Bangkok,Southeast Asia,2024-01-28 00:00:00,Mobile Safari
+CUST_1627,Jordan,Williams,jordan.williams1627@example.com,Singapore,Indonesia,2023-01-28 00:00:00,Mobile Chrome
+CUST_1628,Jamie,Davis,jamie.davis1628@example.com,Singapore,Indonesia,2023-11-06 00:00:00,Mobile Chrome
+CUST_1629,Jamie,Williams,jamie.williams1629@example.com,Jakarta,Indonesia,2023-01-13 00:00:00,Android App
+CUST_1630,Sam,Jones,sam.jones1630@example.com,Singapore,Indonesia,2023-03-15 00:00:00,Android App
+CUST_1631,Chris,Smith,chris.smith1631@example.com,Singapore,Indonesia,2023-12-22 00:00:00,iOS App
+CUST_1632,Taylor,Garcia,taylor.garcia1632@example.com,Medan,Indonesia,2023-01-17 00:00:00,Mobile Chrome
+CUST_1633,Dakota,Rodriguez,dakota.rodriguez1633@example.com,Surabaya,Indonesia,2023-08-16 00:00:00,iOS App
+CUST_1634,Morgan,Miller,morgan.miller1634@example.com,Bangkok,Indonesia,2023-06-05 00:00:00,Mobile Safari
+CUST_1635,Avery,Garcia,avery.garcia1635@example.com,Surabaya,Indonesia,2023-06-30 00:00:00,iOS App
+CUST_1636,Jordan,Jones,jordan.jones1636@example.com,Kuala Lumpur,Indonesia,2023-05-14 00:00:00,Mobile Chrome
+CUST_1637,Casey,Smith,casey.smith1637@example.com,Surabaya,Indonesia,2023-02-24 00:00:00,iOS App
+CUST_1638,Jamie,Jones,jamie.jones1638@example.com,Semarang,Southeast Asia,2024-04-28 00:00:00,Web Desktop
+CUST_1639,Casey,Davis,casey.davis1639@example.com,Kuala Lumpur,Indonesia,2023-08-13 00:00:00,Mobile Chrome
+CUST_1640,Chris,Brown,chris.brown1640@example.com,Bandung,Indonesia,2023-04-14 00:00:00,Mobile Chrome
+CUST_1641,Jordan,Johnson,jordan.johnson1641@example.com,Semarang,Indonesia,2024-02-16 00:00:00,Mobile Safari
+CUST_1642,Avery,Brown,avery.brown1642@example.com,Bangkok,Southeast Asia,2023-03-31 00:00:00,Mobile Chrome
+CUST_1643,Riley,Brown,riley.brown1643@example.com,Bandung,Southeast Asia,2024-03-09 00:00:00,Mobile Safari
+CUST_1644,Chris,Rodriguez,chris.rodriguez1644@example.com,Bandung,Indonesia,2023-01-17 00:00:00,Android App
+CUST_1645,Casey,Martinez,casey.martinez1645@example.com,Surabaya,Indonesia,2023-01-25 00:00:00,Web Desktop
+CUST_1646,Dakota,Jones,dakota.jones1646@example.com,Bangkok,Southeast Asia,2024-03-31 00:00:00,Mobile Safari
+CUST_1647,Dakota,Smith,dakota.smith1647@example.com,Kuala Lumpur,Southeast Asia,2023-02-18 00:00:00,Mobile Safari
+CUST_1648,Casey,Rodriguez,casey.rodriguez1648@example.com,Surabaya,Indonesia,2023-06-23 00:00:00,Android App
+CUST_1649,Sam,Brown,sam.brown1649@example.com,Jakarta,Indonesia,2023-11-04 00:00:00,iOS App
+CUST_1650,Jordan,Garcia,jordan.garcia1650@example.com,Surabaya,Indonesia,2024-02-15 00:00:00,Mobile Chrome
+CUST_1651,Avery,Jones,avery.jones1651@example.com,Semarang,Indonesia,2023-02-15 00:00:00,Android App
+CUST_1652,Avery,Williams,avery.williams1652@example.com,Singapore,Indonesia,2024-04-22 00:00:00,Mobile Safari
+CUST_1653,Dakota,Smith,dakota.smith1653@example.com,Bangkok,Southeast Asia,2023-07-28 00:00:00,Android App
+CUST_1654,Dakota,Garcia,dakota.garcia1654@example.com,Bangkok,Indonesia,2023-06-18 00:00:00,Mobile Safari
+CUST_1655,Riley,Martinez,riley.martinez1655@example.com,Jakarta,Indonesia,2024-03-21 00:00:00,Mobile Chrome
+CUST_1656,Casey,Johnson,casey.johnson1656@example.com,Kuala Lumpur,Indonesia,2023-01-19 00:00:00,Android App
+CUST_1657,Avery,Garcia,avery.garcia1657@example.com,Medan,Indonesia,2023-09-17 00:00:00,Web Desktop
+CUST_1658,Jordan,Smith,jordan.smith1658@example.com,Bandung,Indonesia,2023-04-17 00:00:00,Android App
+CUST_1659,Jordan,Miller,jordan.miller1659@example.com,Semarang,Southeast Asia,2023-01-08 00:00:00,Mobile Safari
+CUST_1660,Alex,Miller,alex.miller1660@example.com,Bandung,Southeast Asia,2023-03-22 00:00:00,Android App
+CUST_1661,Chris,Garcia,chris.garcia1661@example.com,Jakarta,Indonesia,2023-02-13 00:00:00,Mobile Safari
+CUST_1662,Sam,Martinez,sam.martinez1662@example.com,Bandung,Indonesia,2023-09-12 00:00:00,Android App
+CUST_1663,Jamie,Davis,jamie.davis1663@example.com,Kuala Lumpur,Indonesia,2023-11-18 00:00:00,Web Desktop
+CUST_1664,Chris,Jones,chris.jones1664@example.com,Jakarta,Indonesia,2023-06-04 00:00:00,Mobile Safari
+CUST_1665,Avery,Brown,avery.brown1665@example.com,Singapore,Indonesia,2023-09-22 00:00:00,Web Desktop
+CUST_1666,Jordan,Williams,jordan.williams1666@example.com,Bangkok,Indonesia,2023-05-09 00:00:00,iOS App
+CUST_1667,Taylor,Brown,taylor.brown1667@example.com,Semarang,Indonesia,2024-02-08 00:00:00,Web Desktop
+CUST_1668,Alex,Miller,alex.miller1668@example.com,Surabaya,Indonesia,2023-04-01 00:00:00,Android App
+CUST_1669,Morgan,Brown,morgan.brown1669@example.com,Bandung,Indonesia,2023-06-30 00:00:00,iOS App
+CUST_1670,Jordan,Smith,jordan.smith1670@example.com,Surabaya,Southeast Asia,2023-02-27 00:00:00,Mobile Safari
+CUST_1671,Pat,Martinez,pat.martinez1671@example.com,Bandung,Indonesia,2023-11-11 00:00:00,Mobile Chrome
+CUST_1672,Avery,Smith,avery.smith1672@example.com,Singapore,Southeast Asia,2024-02-05 00:00:00,Mobile Chrome
+CUST_1673,Casey,Brown,casey.brown1673@example.com,Bangkok,Indonesia,2023-07-16 00:00:00,Web Desktop
+CUST_1674,Sam,Williams,sam.williams1674@example.com,Surabaya,Indonesia,2023-03-17 00:00:00,Mobile Chrome
+CUST_1675,Jamie,Miller,jamie.miller1675@example.com,Kuala Lumpur,Southeast Asia,2023-10-30 00:00:00,Mobile Chrome
+CUST_1676,Sam,Brown,sam.brown1676@example.com,Surabaya,Southeast Asia,2023-10-06 00:00:00,Android App
+CUST_1677,Morgan,Davis,morgan.davis1677@example.com,Bangkok,Indonesia,2023-02-10 00:00:00,Mobile Safari
+CUST_1678,Casey,Brown,casey.brown1678@example.com,Kuala Lumpur,Southeast Asia,2024-01-13 00:00:00,iOS App
+CUST_1679,Taylor,Davis,taylor.davis1679@example.com,Bangkok,Indonesia,2023-10-10 00:00:00,Mobile Safari
+CUST_1680,Jordan,Davis,jordan.davis1680@example.com,Surabaya,Indonesia,2023-01-24 00:00:00,Android App
+CUST_1681,Casey,Smith,casey.smith1681@example.com,Semarang,Indonesia,2024-04-15 00:00:00,Mobile Chrome
+CUST_1682,Sam,Jones,sam.jones1682@example.com,Jakarta,Indonesia,2023-11-14 00:00:00,iOS App
+CUST_1683,Jamie,Garcia,jamie.garcia1683@example.com,Semarang,Indonesia,2023-11-22 00:00:00,Mobile Chrome
+CUST_1684,Morgan,Williams,morgan.williams1684@example.com,Bandung,Indonesia,2024-01-19 00:00:00,Mobile Safari
+CUST_1685,Jamie,Garcia,jamie.garcia1685@example.com,Kuala Lumpur,Indonesia,2024-05-13 00:00:00,iOS App
+CUST_1686,Sam,Miller,sam.miller1686@example.com,Surabaya,Southeast Asia,2023-11-10 00:00:00,Mobile Chrome
+CUST_1687,Casey,Williams,casey.williams1687@example.com,Jakarta,Indonesia,2023-07-25 00:00:00,Web Desktop
+CUST_1688,Chris,Brown,chris.brown1688@example.com,Bangkok,Indonesia,2023-02-08 00:00:00,Mobile Chrome
+CUST_1689,Chris,Jones,chris.jones1689@example.com,Jakarta,Indonesia,2024-03-31 00:00:00,Android App
+CUST_1690,Avery,Johnson,avery.johnson1690@example.com,Singapore,Indonesia,2023-09-12 00:00:00,Web Desktop
+CUST_1691,Avery,Garcia,avery.garcia1691@example.com,Medan,Southeast Asia,2023-09-30 00:00:00,iOS App
+CUST_1692,Dakota,Jones,dakota.jones1692@example.com,Singapore,Indonesia,2023-12-23 00:00:00,iOS App
+CUST_1693,Taylor,Brown,taylor.brown1693@example.com,Jakarta,Indonesia,2023-03-22 00:00:00,Android App
+CUST_1694,Riley,Miller,riley.miller1694@example.com,Singapore,Southeast Asia,2024-01-14 00:00:00,Android App
+CUST_1695,Pat,Rodriguez,pat.rodriguez1695@example.com,Surabaya,Indonesia,2023-03-22 00:00:00,Mobile Chrome
+CUST_1696,Casey,Garcia,casey.garcia1696@example.com,Medan,Southeast Asia,2023-09-19 00:00:00,Web Desktop
+CUST_1697,Alex,Smith,alex.smith1697@example.com,Bangkok,Indonesia,2023-03-17 00:00:00,iOS App
+CUST_1698,Alex,Williams,alex.williams1698@example.com,Kuala Lumpur,Indonesia,2024-04-18 00:00:00,Mobile Safari
+CUST_1699,Jordan,Smith,jordan.smith1699@example.com,Bandung,Indonesia,2023-12-05 00:00:00,Android App
+CUST_1700,Alex,Johnson,alex.johnson1700@example.com,Kuala Lumpur,Indonesia,2023-07-08 00:00:00,Web Desktop
+CUST_1701,Taylor,Garcia,taylor.garcia1701@example.com,Jakarta,Southeast Asia,2024-01-12 00:00:00,Web Desktop
+CUST_1702,Sam,Smith,sam.smith1702@example.com,Bandung,Indonesia,2024-03-28 00:00:00,Mobile Chrome
+CUST_1703,Taylor,Williams,taylor.williams1703@example.com,Bangkok,Indonesia,2023-07-23 00:00:00,Android App
+CUST_1704,Casey,Brown,casey.brown1704@example.com,Medan,Indonesia,2023-04-05 00:00:00,Android App
+CUST_1705,Riley,Garcia,riley.garcia1705@example.com,Jakarta,Indonesia,2024-01-06 00:00:00,Web Desktop
+CUST_1706,Jordan,Miller,jordan.miller1706@example.com,Bandung,Indonesia,2023-03-24 00:00:00,Mobile Safari
+CUST_1707,Alex,Smith,alex.smith1707@example.com,Singapore,Indonesia,2023-01-12 00:00:00,Mobile Chrome
+CUST_1708,Dakota,Smith,dakota.smith1708@example.com,Jakarta,Indonesia,2024-01-25 00:00:00,Mobile Safari
+CUST_1709,Sam,Garcia,sam.garcia1709@example.com,Bandung,Indonesia,2024-01-11 00:00:00,Android App
+CUST_1710,Casey,Williams,casey.williams1710@example.com,Semarang,Indonesia,2023-08-02 00:00:00,Mobile Safari
+CUST_1711,Alex,Brown,alex.brown1711@example.com,Kuala Lumpur,Indonesia,2023-07-01 00:00:00,Web Desktop
+CUST_1712,Chris,Davis,chris.davis1712@example.com,Semarang,Indonesia,2024-02-08 00:00:00,Android App
+CUST_1713,Casey,Rodriguez,casey.rodriguez1713@example.com,Surabaya,Indonesia,2024-01-27 00:00:00,Android App
+CUST_1714,Alex,Johnson,alex.johnson1714@example.com,Surabaya,Indonesia,2023-01-06 00:00:00,iOS App
+CUST_1715,Sam,Johnson,sam.johnson1715@example.com,Medan,Indonesia,2024-04-18 00:00:00,Web Desktop
+CUST_1716,Alex,Miller,alex.miller1716@example.com,Surabaya,Indonesia,2024-01-22 00:00:00,Web Desktop
+CUST_1717,Jordan,Davis,jordan.davis1717@example.com,Singapore,Southeast Asia,2023-03-15 00:00:00,Web Desktop
+CUST_1718,Pat,Miller,pat.miller1718@example.com,Semarang,Southeast Asia,2023-08-07 00:00:00,Mobile Safari
+CUST_1719,Dakota,Rodriguez,dakota.rodriguez1719@example.com,Medan,Indonesia,2024-03-13 00:00:00,Mobile Safari
+CUST_1720,Taylor,Johnson,taylor.johnson1720@example.com,Semarang,Indonesia,2024-02-18 00:00:00,Web Desktop
+CUST_1721,Chris,Martinez,chris.martinez1721@example.com,Jakarta,Indonesia,2023-03-14 00:00:00,iOS App
+CUST_1722,Dakota,Brown,dakota.brown1722@example.com,Medan,Indonesia,2023-02-28 00:00:00,Mobile Safari
+CUST_1723,Alex,Williams,alex.williams1723@example.com,Jakarta,Indonesia,2023-06-03 00:00:00,Web Desktop
+CUST_1724,Chris,Williams,chris.williams1724@example.com,Semarang,Indonesia,2023-02-17 00:00:00,Mobile Safari
+CUST_1725,Jordan,Rodriguez,jordan.rodriguez1725@example.com,Medan,Indonesia,2024-05-07 00:00:00,Mobile Chrome
+CUST_1726,Morgan,Miller,morgan.miller1726@example.com,Jakarta,Indonesia,2023-11-01 00:00:00,iOS App
+CUST_1727,Avery,Brown,avery.brown1727@example.com,Semarang,Indonesia,2023-03-14 00:00:00,iOS App
+CUST_1728,Avery,Johnson,avery.johnson1728@example.com,Singapore,Indonesia,2023-10-10 00:00:00,Mobile Safari
+CUST_1729,Dakota,Jones,dakota.jones1729@example.com,Jakarta,Indonesia,2023-05-07 00:00:00,Mobile Safari
+CUST_1730,Dakota,Rodriguez,dakota.rodriguez1730@example.com,Surabaya,Southeast Asia,2024-02-15 00:00:00,Mobile Safari
+CUST_1731,Alex,Rodriguez,alex.rodriguez1731@example.com,Surabaya,Indonesia,2023-02-10 00:00:00,Mobile Chrome
+CUST_1732,Riley,Miller,riley.miller1732@example.com,Semarang,Southeast Asia,2024-01-04 00:00:00,Mobile Safari
+CUST_1733,Alex,Rodriguez,alex.rodriguez1733@example.com,Semarang,Indonesia,2024-01-01 00:00:00,Android App
+CUST_1734,Riley,Johnson,riley.johnson1734@example.com,Singapore,Indonesia,2024-03-26 00:00:00,Web Desktop
+CUST_1735,Jordan,Miller,jordan.miller1735@example.com,Surabaya,Indonesia,2023-05-18 00:00:00,Web Desktop
+CUST_1736,Morgan,Davis,morgan.davis1736@example.com,Bandung,Indonesia,2023-06-23 00:00:00,iOS App
+CUST_1737,Pat,Davis,pat.davis1737@example.com,Singapore,Indonesia,2023-04-01 00:00:00,Android App
+CUST_1738,Alex,Rodriguez,alex.rodriguez1738@example.com,Bandung,Indonesia,2024-01-25 00:00:00,iOS App
+CUST_1739,Jamie,Smith,jamie.smith1739@example.com,Semarang,Indonesia,2023-07-01 00:00:00,Web Desktop
+CUST_1740,Sam,Johnson,sam.johnson1740@example.com,Surabaya,Indonesia,2024-03-20 00:00:00,Mobile Safari
+CUST_1741,Chris,Martinez,chris.martinez1741@example.com,Medan,Indonesia,2023-06-17 00:00:00,Web Desktop
+CUST_1742,Sam,Johnson,sam.johnson1742@example.com,Kuala Lumpur,Indonesia,2023-12-20 00:00:00,Web Desktop
+CUST_1743,Avery,Rodriguez,avery.rodriguez1743@example.com,Medan,Indonesia,2023-07-24 00:00:00,Mobile Chrome
+CUST_1744,Dakota,Garcia,dakota.garcia1744@example.com,Medan,Indonesia,2023-03-29 00:00:00,iOS App
+CUST_1745,Pat,Williams,pat.williams1745@example.com,Singapore,Indonesia,2024-04-06 00:00:00,iOS App
+CUST_1746,Chris,Garcia,chris.garcia1746@example.com,Bangkok,Indonesia,2023-12-07 00:00:00,iOS App
+CUST_1747,Avery,Jones,avery.jones1747@example.com,Kuala Lumpur,Indonesia,2023-08-30 00:00:00,Mobile Safari
+CUST_1748,Taylor,Williams,taylor.williams1748@example.com,Semarang,Indonesia,2024-03-27 00:00:00,Mobile Safari
+CUST_1749,Jamie,Davis,jamie.davis1749@example.com,Kuala Lumpur,Indonesia,2023-08-22 00:00:00,Mobile Chrome
+CUST_1750,Avery,Brown,avery.brown1750@example.com,Jakarta,Indonesia,2023-12-10 00:00:00,Mobile Chrome
+CUST_1751,Morgan,Martinez,morgan.martinez1751@example.com,Surabaya,Indonesia,2023-06-26 00:00:00,iOS App
+CUST_1752,Alex,Jones,alex.jones1752@example.com,Jakarta,Indonesia,2023-11-13 00:00:00,Mobile Chrome
+CUST_1753,Taylor,Miller,taylor.miller1753@example.com,Jakarta,Southeast Asia,2023-05-30 00:00:00,Android App
+CUST_1754,Pat,Smith,pat.smith1754@example.com,Kuala Lumpur,Indonesia,2023-03-17 00:00:00,iOS App
+CUST_1755,Chris,Rodriguez,chris.rodriguez1755@example.com,Kuala Lumpur,Indonesia,2023-10-12 00:00:00,Mobile Chrome
+CUST_1756,Morgan,Miller,morgan.miller1756@example.com,Jakarta,Indonesia,2023-02-14 00:00:00,Mobile Chrome
+CUST_1757,Jordan,Jones,jordan.jones1757@example.com,Medan,Indonesia,2023-05-14 00:00:00,iOS App
+CUST_1758,Alex,Martinez,alex.martinez1758@example.com,Singapore,Indonesia,2024-05-13 00:00:00,Mobile Safari
+CUST_1759,Taylor,Brown,taylor.brown1759@example.com,Jakarta,Indonesia,2023-06-11 00:00:00,Web Desktop
+CUST_1760,Pat,Miller,pat.miller1760@example.com,Singapore,Indonesia,2023-02-16 00:00:00,Mobile Safari
+CUST_1761,Riley,Davis,riley.davis1761@example.com,Semarang,Indonesia,2023-12-29 00:00:00,iOS App
+CUST_1762,Alex,Williams,alex.williams1762@example.com,Surabaya,Indonesia,2023-07-14 00:00:00,Android App
+CUST_1763,Alex,Johnson,alex.johnson1763@example.com,Bandung,Indonesia,2023-12-20 00:00:00,iOS App
+CUST_1764,Jordan,Smith,jordan.smith1764@example.com,Bangkok,Southeast Asia,2023-09-02 00:00:00,Android App
+CUST_1765,Alex,Miller,alex.miller1765@example.com,Semarang,Indonesia,2023-09-26 00:00:00,Web Desktop
+CUST_1766,Pat,Martinez,pat.martinez1766@example.com,Kuala Lumpur,Indonesia,2023-11-01 00:00:00,iOS App
+CUST_1767,Alex,Rodriguez,alex.rodriguez1767@example.com,Semarang,Indonesia,2023-09-08 00:00:00,Mobile Chrome
+CUST_1768,Sam,Martinez,sam.martinez1768@example.com,Bangkok,Indonesia,2024-01-15 00:00:00,Mobile Safari
+CUST_1769,Casey,Davis,casey.davis1769@example.com,Jakarta,Indonesia,2023-11-08 00:00:00,iOS App
+CUST_1770,Taylor,Williams,taylor.williams1770@example.com,Jakarta,Indonesia,2023-04-28 00:00:00,Mobile Chrome
+CUST_1771,Taylor,Williams,taylor.williams1771@example.com,Jakarta,Southeast Asia,2024-03-25 00:00:00,Web Desktop
+CUST_1772,Dakota,Jones,dakota.jones1772@example.com,Singapore,Indonesia,2024-03-05 00:00:00,Android App
+CUST_1773,Taylor,Johnson,taylor.johnson1773@example.com,Bangkok,Southeast Asia,2023-08-12 00:00:00,Mobile Safari
+CUST_1774,Casey,Davis,casey.davis1774@example.com,Kuala Lumpur,Indonesia,2023-10-19 00:00:00,iOS App
+CUST_1775,Alex,Johnson,alex.johnson1775@example.com,Semarang,Indonesia,2023-11-18 00:00:00,Mobile Safari
+CUST_1776,Dakota,Martinez,dakota.martinez1776@example.com,Bandung,Indonesia,2023-08-09 00:00:00,Web Desktop
+CUST_1777,Pat,Brown,pat.brown1777@example.com,Medan,Indonesia,2023-03-01 00:00:00,Web Desktop
+CUST_1778,Dakota,Johnson,dakota.johnson1778@example.com,Bangkok,Indonesia,2023-03-03 00:00:00,Mobile Safari
+CUST_1779,Jamie,Johnson,jamie.johnson1779@example.com,Bangkok,Indonesia,2023-11-13 00:00:00,iOS App
+CUST_1780,Morgan,Davis,morgan.davis1780@example.com,Surabaya,Indonesia,2023-07-20 00:00:00,Mobile Chrome
+CUST_1781,Pat,Martinez,pat.martinez1781@example.com,Jakarta,Indonesia,2024-05-14 00:00:00,Web Desktop
+CUST_1782,Jamie,Miller,jamie.miller1782@example.com,Jakarta,Indonesia,2023-04-02 00:00:00,Mobile Chrome
+CUST_1783,Avery,Smith,avery.smith1783@example.com,Kuala Lumpur,Indonesia,2024-02-04 00:00:00,Mobile Chrome
+CUST_1784,Avery,Brown,avery.brown1784@example.com,Semarang,Indonesia,2024-05-04 00:00:00,Android App
+CUST_1785,Jamie,Martinez,jamie.martinez1785@example.com,Semarang,Indonesia,2024-03-20 00:00:00,Web Desktop
+CUST_1786,Casey,Davis,casey.davis1786@example.com,Bandung,Southeast Asia,2023-08-25 00:00:00,Mobile Safari
+CUST_1787,Avery,Smith,avery.smith1787@example.com,Surabaya,Indonesia,2023-08-06 00:00:00,Web Desktop
+CUST_1788,Avery,Miller,avery.miller1788@example.com,Singapore,Indonesia,2023-05-26 00:00:00,iOS App
+CUST_1789,Taylor,Garcia,taylor.garcia1789@example.com,Singapore,Indonesia,2024-03-26 00:00:00,Mobile Chrome
+CUST_1790,Jamie,Jones,jamie.jones1790@example.com,Singapore,Indonesia,2024-01-13 00:00:00,Mobile Safari
+CUST_1791,Pat,Garcia,pat.garcia1791@example.com,Kuala Lumpur,Indonesia,2023-03-15 00:00:00,Mobile Safari
+CUST_1792,Pat,Miller,pat.miller1792@example.com,Bangkok,Indonesia,2023-11-22 00:00:00,Mobile Chrome
+CUST_1793,Morgan,Smith,morgan.smith1793@example.com,Bangkok,Indonesia,2023-01-28 00:00:00,Mobile Chrome
+CUST_1794,Sam,Williams,sam.williams1794@example.com,Semarang,Indonesia,2023-03-20 00:00:00,Android App
+CUST_1795,Chris,Rodriguez,chris.rodriguez1795@example.com,Singapore,Southeast Asia,2023-02-25 00:00:00,Mobile Chrome
+CUST_1796,Pat,Davis,pat.davis1796@example.com,Singapore,Indonesia,2023-03-18 00:00:00,Web Desktop
+CUST_1797,Alex,Garcia,alex.garcia1797@example.com,Bangkok,Southeast Asia,2024-01-16 00:00:00,Web Desktop
+CUST_1798,Morgan,Martinez,morgan.martinez1798@example.com,Semarang,Indonesia,2024-03-26 00:00:00,Mobile Chrome
+CUST_1799,Alex,Williams,alex.williams1799@example.com,Bandung,Indonesia,2024-05-14 00:00:00,Web Desktop
+CUST_1800,Chris,Jones,chris.jones1800@example.com,Singapore,Indonesia,2023-10-18 00:00:00,Android App
+CUST_1801,Alex,Brown,alex.brown1801@example.com,Kuala Lumpur,Indonesia,2024-02-20 00:00:00,Web Desktop
+CUST_1802,Avery,Williams,avery.williams1802@example.com,Bangkok,Indonesia,2023-01-03 00:00:00,Mobile Chrome
+CUST_1803,Avery,Williams,avery.williams1803@example.com,Medan,Southeast Asia,2023-01-25 00:00:00,Web Desktop
+CUST_1804,Dakota,Johnson,dakota.johnson1804@example.com,Semarang,Indonesia,2023-03-15 00:00:00,Mobile Safari
+CUST_1805,Taylor,Miller,taylor.miller1805@example.com,Bandung,Southeast Asia,2024-02-12 00:00:00,Mobile Safari
+CUST_1806,Sam,Jones,sam.jones1806@example.com,Semarang,Southeast Asia,2023-02-20 00:00:00,Mobile Safari
+CUST_1807,Chris,Smith,chris.smith1807@example.com,Medan,Southeast Asia,2023-06-19 00:00:00,Web Desktop
+CUST_1808,Dakota,Johnson,dakota.johnson1808@example.com,Kuala Lumpur,Southeast Asia,2023-06-04 00:00:00,Web Desktop
+CUST_1809,Sam,Jones,sam.jones1809@example.com,Jakarta,Indonesia,2023-12-09 00:00:00,iOS App
+CUST_1810,Casey,Garcia,casey.garcia1810@example.com,Singapore,Indonesia,2024-04-02 00:00:00,Mobile Safari
+CUST_1811,Alex,Davis,alex.davis1811@example.com,Singapore,Indonesia,2024-04-04 00:00:00,iOS App
+CUST_1812,Jordan,Brown,jordan.brown1812@example.com,Bangkok,Indonesia,2024-03-09 00:00:00,Web Desktop
+CUST_1813,Dakota,Davis,dakota.davis1813@example.com,Medan,Southeast Asia,2023-04-28 00:00:00,Web Desktop
+CUST_1814,Jamie,Davis,jamie.davis1814@example.com,Singapore,Southeast Asia,2023-03-31 00:00:00,Android App
+CUST_1815,Sam,Smith,sam.smith1815@example.com,Surabaya,Southeast Asia,2023-08-18 00:00:00,Android App
+CUST_1816,Dakota,Davis,dakota.davis1816@example.com,Bangkok,Indonesia,2023-12-30 00:00:00,Mobile Safari
+CUST_1817,Riley,Davis,riley.davis1817@example.com,Singapore,Southeast Asia,2024-04-18 00:00:00,Mobile Safari
+CUST_1818,Morgan,Miller,morgan.miller1818@example.com,Singapore,Indonesia,2023-05-24 00:00:00,Mobile Chrome
+CUST_1819,Dakota,Davis,dakota.davis1819@example.com,Bandung,Indonesia,2024-03-07 00:00:00,iOS App
+CUST_1820,Taylor,Williams,taylor.williams1820@example.com,Semarang,Southeast Asia,2023-07-31 00:00:00,iOS App
+CUST_1821,Riley,Jones,riley.jones1821@example.com,Singapore,Indonesia,2023-08-10 00:00:00,Mobile Chrome
+CUST_1822,Pat,Smith,pat.smith1822@example.com,Bangkok,Southeast Asia,2023-09-30 00:00:00,Mobile Chrome
+CUST_1823,Taylor,Johnson,taylor.johnson1823@example.com,Kuala Lumpur,Indonesia,2024-03-09 00:00:00,Android App
+CUST_1824,Dakota,Brown,dakota.brown1824@example.com,Singapore,Southeast Asia,2023-02-19 00:00:00,Mobile Safari
+CUST_1825,Sam,Brown,sam.brown1825@example.com,Semarang,Indonesia,2024-01-22 00:00:00,Mobile Safari
+CUST_1826,Riley,Miller,riley.miller1826@example.com,Bandung,Indonesia,2023-12-26 00:00:00,Mobile Chrome
+CUST_1827,Riley,Martinez,riley.martinez1827@example.com,Medan,Indonesia,2023-02-08 00:00:00,Mobile Chrome
+CUST_1828,Morgan,Jones,morgan.jones1828@example.com,Singapore,Southeast Asia,2023-10-09 00:00:00,Android App
+CUST_1829,Chris,Davis,chris.davis1829@example.com,Bangkok,Indonesia,2024-01-18 00:00:00,Android App
+CUST_1830,Pat,Jones,pat.jones1830@example.com,Singapore,Indonesia,2023-07-11 00:00:00,Web Desktop
+CUST_1831,Jamie,Miller,jamie.miller1831@example.com,Jakarta,Indonesia,2023-05-25 00:00:00,Android App
+CUST_1832,Casey,Miller,casey.miller1832@example.com,Semarang,Indonesia,2023-04-16 00:00:00,iOS App
+CUST_1833,Chris,Rodriguez,chris.rodriguez1833@example.com,Surabaya,Indonesia,2023-06-25 00:00:00,iOS App
+CUST_1834,Avery,Miller,avery.miller1834@example.com,Semarang,Southeast Asia,2023-06-16 00:00:00,iOS App
+CUST_1835,Riley,Brown,riley.brown1835@example.com,Bandung,Indonesia,2023-08-06 00:00:00,Mobile Chrome
+CUST_1836,Casey,Garcia,casey.garcia1836@example.com,Medan,Indonesia,2023-07-30 00:00:00,Web Desktop
+CUST_1837,Jordan,Miller,jordan.miller1837@example.com,Medan,Indonesia,2023-10-22 00:00:00,Mobile Chrome
+CUST_1838,Alex,Smith,alex.smith1838@example.com,Singapore,Indonesia,2023-08-17 00:00:00,iOS App
+CUST_1839,Jamie,Martinez,jamie.martinez1839@example.com,Kuala Lumpur,Indonesia,2023-09-27 00:00:00,Mobile Safari
+CUST_1840,Pat,Davis,pat.davis1840@example.com,Semarang,Indonesia,2023-10-08 00:00:00,Mobile Safari
+CUST_1841,Sam,Williams,sam.williams1841@example.com,Bandung,Indonesia,2024-02-16 00:00:00,Android App
+CUST_1842,Chris,Garcia,chris.garcia1842@example.com,Kuala Lumpur,Indonesia,2023-07-19 00:00:00,iOS App
+CUST_1843,Chris,Williams,chris.williams1843@example.com,Bandung,Southeast Asia,2024-01-29 00:00:00,Mobile Safari
+CUST_1844,Alex,Jones,alex.jones1844@example.com,Medan,Indonesia,2023-07-09 00:00:00,iOS App
+CUST_1845,Sam,Martinez,sam.martinez1845@example.com,Kuala Lumpur,Indonesia,2023-03-25 00:00:00,Mobile Safari
+CUST_1846,Avery,Johnson,avery.johnson1846@example.com,Medan,Indonesia,2024-03-08 00:00:00,iOS App
+CUST_1847,Chris,Brown,chris.brown1847@example.com,Jakarta,Indonesia,2024-04-25 00:00:00,iOS App
+CUST_1848,Riley,Martinez,riley.martinez1848@example.com,Surabaya,Southeast Asia,2023-11-24 00:00:00,Web Desktop
+CUST_1849,Avery,Miller,avery.miller1849@example.com,Jakarta,Indonesia,2023-08-17 00:00:00,Mobile Chrome
+CUST_1850,Pat,Johnson,pat.johnson1850@example.com,Surabaya,Indonesia,2023-09-03 00:00:00,Mobile Chrome
+CUST_1851,Jordan,Johnson,jordan.johnson1851@example.com,Bandung,Indonesia,2023-09-26 00:00:00,Mobile Chrome
+CUST_1852,Pat,Smith,pat.smith1852@example.com,Bandung,Indonesia,2024-02-28 00:00:00,iOS App
+CUST_1853,Morgan,Martinez,morgan.martinez1853@example.com,Kuala Lumpur,Indonesia,2023-12-30 00:00:00,Mobile Safari
+CUST_1854,Alex,Rodriguez,alex.rodriguez1854@example.com,Jakarta,Indonesia,2023-11-04 00:00:00,iOS App
+CUST_1855,Jamie,Williams,jamie.williams1855@example.com,Surabaya,Indonesia,2023-11-27 00:00:00,Mobile Safari
+CUST_1856,Alex,Rodriguez,alex.rodriguez1856@example.com,Bangkok,Indonesia,2024-03-16 00:00:00,Mobile Safari
+CUST_1857,Alex,Davis,alex.davis1857@example.com,Singapore,Indonesia,2023-02-11 00:00:00,Web Desktop
+CUST_1858,Alex,Smith,alex.smith1858@example.com,Surabaya,Indonesia,2024-02-20 00:00:00,Mobile Chrome
+CUST_1859,Riley,Miller,riley.miller1859@example.com,Singapore,Indonesia,2023-02-25 00:00:00,Mobile Chrome
+CUST_1860,Taylor,Garcia,taylor.garcia1860@example.com,Jakarta,Indonesia,2023-07-19 00:00:00,Web Desktop
+CUST_1861,Dakota,Davis,dakota.davis1861@example.com,Semarang,Southeast Asia,2023-11-01 00:00:00,Web Desktop
+CUST_1862,Pat,Smith,pat.smith1862@example.com,Bandung,Indonesia,2023-01-06 00:00:00,Mobile Safari
+CUST_1863,Jordan,Garcia,jordan.garcia1863@example.com,Semarang,Southeast Asia,2023-04-29 00:00:00,Mobile Safari
+CUST_1864,Chris,Martinez,chris.martinez1864@example.com,Bandung,Indonesia,2023-06-26 00:00:00,Mobile Chrome
+CUST_1865,Morgan,Martinez,morgan.martinez1865@example.com,Jakarta,Indonesia,2023-10-15 00:00:00,Mobile Safari
+CUST_1866,Taylor,Martinez,taylor.martinez1866@example.com,Bandung,Indonesia,2023-09-09 00:00:00,Web Desktop
+CUST_1867,Jamie,Smith,jamie.smith1867@example.com,Surabaya,Southeast Asia,2024-03-01 00:00:00,iOS App
+CUST_1868,Jamie,Davis,jamie.davis1868@example.com,Bangkok,Indonesia,2024-04-16 00:00:00,Mobile Safari
+CUST_1869,Dakota,Rodriguez,dakota.rodriguez1869@example.com,Bangkok,Indonesia,2024-01-02 00:00:00,Mobile Chrome
+CUST_1870,Casey,Johnson,casey.johnson1870@example.com,Surabaya,Indonesia,2023-03-08 00:00:00,Android App
+CUST_1871,Casey,Martinez,casey.martinez1871@example.com,Bangkok,Indonesia,2024-02-08 00:00:00,Web Desktop
+CUST_1872,Taylor,Davis,taylor.davis1872@example.com,Bandung,Indonesia,2023-01-05 00:00:00,iOS App
+CUST_1873,Taylor,Rodriguez,taylor.rodriguez1873@example.com,Medan,Indonesia,2023-06-30 00:00:00,Android App
+CUST_1874,Pat,Johnson,pat.johnson1874@example.com,Medan,Southeast Asia,2023-12-06 00:00:00,iOS App
+CUST_1875,Chris,Rodriguez,chris.rodriguez1875@example.com,Singapore,Southeast Asia,2023-03-07 00:00:00,Mobile Chrome
+CUST_1876,Casey,Brown,casey.brown1876@example.com,Medan,Indonesia,2024-03-08 00:00:00,Mobile Chrome
+CUST_1877,Alex,Brown,alex.brown1877@example.com,Semarang,Indonesia,2023-10-21 00:00:00,Android App
+CUST_1878,Morgan,Rodriguez,morgan.rodriguez1878@example.com,Bangkok,Indonesia,2023-10-04 00:00:00,Mobile Chrome
+CUST_1879,Chris,Smith,chris.smith1879@example.com,Bangkok,Indonesia,2023-12-29 00:00:00,Mobile Safari
+CUST_1880,Dakota,Johnson,dakota.johnson1880@example.com,Medan,Southeast Asia,2023-05-29 00:00:00,Web Desktop
+CUST_1881,Riley,Johnson,riley.johnson1881@example.com,Jakarta,Southeast Asia,2023-05-18 00:00:00,Web Desktop
+CUST_1882,Sam,Martinez,sam.martinez1882@example.com,Semarang,Indonesia,2023-08-25 00:00:00,Web Desktop
+CUST_1883,Chris,Jones,chris.jones1883@example.com,Bandung,Indonesia,2023-03-14 00:00:00,iOS App
+CUST_1884,Riley,Williams,riley.williams1884@example.com,Bandung,Indonesia,2023-01-30 00:00:00,Mobile Safari
+CUST_1885,Pat,Martinez,pat.martinez1885@example.com,Bandung,Indonesia,2023-07-24 00:00:00,Mobile Chrome
+CUST_1886,Chris,Martinez,chris.martinez1886@example.com,Jakarta,Indonesia,2023-04-04 00:00:00,Android App
+CUST_1887,Sam,Davis,sam.davis1887@example.com,Surabaya,Indonesia,2024-05-09 00:00:00,Mobile Safari
+CUST_1888,Casey,Smith,casey.smith1888@example.com,Singapore,Indonesia,2024-03-14 00:00:00,iOS App
+CUST_1889,Alex,Rodriguez,alex.rodriguez1889@example.com,Surabaya,Indonesia,2023-07-10 00:00:00,Mobile Chrome
+CUST_1890,Alex,Garcia,alex.garcia1890@example.com,Bandung,Indonesia,2023-06-15 00:00:00,iOS App
+CUST_1891,Alex,Garcia,alex.garcia1891@example.com,Semarang,Indonesia,2023-03-31 00:00:00,iOS App
+CUST_1892,Chris,Williams,chris.williams1892@example.com,Singapore,Indonesia,2024-01-01 00:00:00,Mobile Chrome
+CUST_1893,Chris,Smith,chris.smith1893@example.com,Semarang,Indonesia,2024-02-19 00:00:00,Mobile Safari
+CUST_1894,Chris,Jones,chris.jones1894@example.com,Surabaya,Indonesia,2024-04-14 00:00:00,iOS App
+CUST_1895,Jordan,Martinez,jordan.martinez1895@example.com,Semarang,Indonesia,2023-10-30 00:00:00,Web Desktop
+CUST_1896,Jordan,Johnson,jordan.johnson1896@example.com,Jakarta,Southeast Asia,2024-01-23 00:00:00,Mobile Chrome
+CUST_1897,Pat,Miller,pat.miller1897@example.com,Bandung,Indonesia,2024-02-03 00:00:00,Mobile Safari
+CUST_1898,Taylor,Smith,taylor.smith1898@example.com,Bandung,Indonesia,2024-02-23 00:00:00,Web Desktop
+CUST_1899,Avery,Davis,avery.davis1899@example.com,Semarang,Indonesia,2024-02-12 00:00:00,Web Desktop
+CUST_1900,Jordan,Smith,jordan.smith1900@example.com,Bangkok,Indonesia,2023-12-21 00:00:00,Android App
+CUST_1901,Sam,Brown,sam.brown1901@example.com,Bandung,Indonesia,2023-10-23 00:00:00,Mobile Safari
+CUST_1902,Avery,Johnson,avery.johnson1902@example.com,Bandung,Indonesia,2023-10-14 00:00:00,Web Desktop
+CUST_1903,Casey,Miller,casey.miller1903@example.com,Surabaya,Southeast Asia,2023-02-14 00:00:00,Mobile Safari
+CUST_1904,Taylor,Miller,taylor.miller1904@example.com,Semarang,Indonesia,2024-05-04 00:00:00,Web Desktop
+CUST_1905,Avery,Garcia,avery.garcia1905@example.com,Surabaya,Indonesia,2023-05-26 00:00:00,Mobile Chrome
+CUST_1906,Pat,Johnson,pat.johnson1906@example.com,Singapore,Indonesia,2023-06-20 00:00:00,Mobile Chrome
+CUST_1907,Chris,Davis,chris.davis1907@example.com,Semarang,Indonesia,2023-05-02 00:00:00,Mobile Safari
+CUST_1908,Pat,Garcia,pat.garcia1908@example.com,Surabaya,Indonesia,2023-10-15 00:00:00,Android App
+CUST_1909,Casey,Jones,casey.jones1909@example.com,Medan,Indonesia,2023-07-21 00:00:00,Web Desktop
+CUST_1910,Taylor,Martinez,taylor.martinez1910@example.com,Bandung,Southeast Asia,2023-05-19 00:00:00,Mobile Safari
+CUST_1911,Morgan,Smith,morgan.smith1911@example.com,Bandung,Indonesia,2023-10-24 00:00:00,Web Desktop
+CUST_1912,Chris,Smith,chris.smith1912@example.com,Singapore,Indonesia,2024-04-12 00:00:00,Web Desktop
+CUST_1913,Dakota,Martinez,dakota.martinez1913@example.com,Jakarta,Indonesia,2023-01-03 00:00:00,iOS App
+CUST_1914,Jordan,Smith,jordan.smith1914@example.com,Jakarta,Indonesia,2023-09-08 00:00:00,Android App
+CUST_1915,Taylor,Jones,taylor.jones1915@example.com,Medan,Indonesia,2023-02-16 00:00:00,iOS App
+CUST_1916,Jamie,Johnson,jamie.johnson1916@example.com,Bangkok,Indonesia,2023-08-25 00:00:00,iOS App
+CUST_1917,Avery,Martinez,avery.martinez1917@example.com,Surabaya,Indonesia,2024-05-08 00:00:00,iOS App
+CUST_1918,Casey,Williams,casey.williams1918@example.com,Bangkok,Indonesia,2023-04-26 00:00:00,Web Desktop
+CUST_1919,Dakota,Jones,dakota.jones1919@example.com,Singapore,Southeast Asia,2024-02-09 00:00:00,iOS App
+CUST_1920,Jordan,Rodriguez,jordan.rodriguez1920@example.com,Surabaya,Indonesia,2023-10-25 00:00:00,Web Desktop
+CUST_1921,Alex,Williams,alex.williams1921@example.com,Bandung,Indonesia,2023-01-18 00:00:00,Android App
+CUST_1922,Chris,Rodriguez,chris.rodriguez1922@example.com,Bandung,Indonesia,2023-12-30 00:00:00,Android App
+CUST_1923,Jamie,Brown,jamie.brown1923@example.com,Singapore,Indonesia,2024-05-01 00:00:00,Web Desktop
+CUST_1924,Dakota,Davis,dakota.davis1924@example.com,Kuala Lumpur,Indonesia,2023-09-20 00:00:00,Mobile Safari
+CUST_1925,Jamie,Smith,jamie.smith1925@example.com,Semarang,Indonesia,2023-03-04 00:00:00,Mobile Safari
+CUST_1926,Sam,Davis,sam.davis1926@example.com,Surabaya,Indonesia,2023-11-21 00:00:00,Mobile Safari
+CUST_1927,Chris,Jones,chris.jones1927@example.com,Kuala Lumpur,Indonesia,2024-02-18 00:00:00,Android App
+CUST_1928,Pat,Brown,pat.brown1928@example.com,Semarang,Indonesia,2023-05-04 00:00:00,Web Desktop
+CUST_1929,Morgan,Brown,morgan.brown1929@example.com,Semarang,Indonesia,2023-10-02 00:00:00,Mobile Chrome
+CUST_1930,Dakota,Miller,dakota.miller1930@example.com,Semarang,Indonesia,2024-05-14 00:00:00,Mobile Safari
+CUST_1931,Jordan,Garcia,jordan.garcia1931@example.com,Bangkok,Indonesia,2023-08-12 00:00:00,Mobile Safari
+CUST_1932,Taylor,Miller,taylor.miller1932@example.com,Semarang,Indonesia,2023-02-03 00:00:00,Mobile Chrome
+CUST_1933,Morgan,Garcia,morgan.garcia1933@example.com,Medan,Indonesia,2023-06-29 00:00:00,iOS App
+CUST_1934,Pat,Williams,pat.williams1934@example.com,Singapore,Indonesia,2024-02-07 00:00:00,iOS App
+CUST_1935,Morgan,Rodriguez,morgan.rodriguez1935@example.com,Medan,Indonesia,2023-10-15 00:00:00,Mobile Chrome
+CUST_1936,Morgan,Miller,morgan.miller1936@example.com,Bandung,Indonesia,2023-05-06 00:00:00,Android App
+CUST_1937,Morgan,Johnson,morgan.johnson1937@example.com,Surabaya,Indonesia,2023-03-18 00:00:00,Mobile Safari
+CUST_1938,Taylor,Martinez,taylor.martinez1938@example.com,Kuala Lumpur,Indonesia,2024-04-22 00:00:00,iOS App
+CUST_1939,Sam,Williams,sam.williams1939@example.com,Semarang,Indonesia,2023-04-05 00:00:00,Web Desktop
+CUST_1940,Morgan,Martinez,morgan.martinez1940@example.com,Surabaya,Indonesia,2023-05-10 00:00:00,iOS App
+CUST_1941,Pat,Jones,pat.jones1941@example.com,Bandung,Indonesia,2024-02-19 00:00:00,Web Desktop
+CUST_1942,Pat,Jones,pat.jones1942@example.com,Kuala Lumpur,Indonesia,2023-01-04 00:00:00,Android App
+CUST_1943,Jamie,Smith,jamie.smith1943@example.com,Bandung,Southeast Asia,2023-08-13 00:00:00,iOS App
+CUST_1944,Jamie,Jones,jamie.jones1944@example.com,Kuala Lumpur,Indonesia,2023-04-16 00:00:00,Mobile Safari
+CUST_1945,Jamie,Williams,jamie.williams1945@example.com,Bandung,Southeast Asia,2024-02-14 00:00:00,Web Desktop
+CUST_1946,Dakota,Williams,dakota.williams1946@example.com,Bandung,Indonesia,2023-01-12 00:00:00,iOS App
+CUST_1947,Chris,Johnson,chris.johnson1947@example.com,Bangkok,Indonesia,2023-11-01 00:00:00,Mobile Safari
+CUST_1948,Chris,Rodriguez,chris.rodriguez1948@example.com,Semarang,Indonesia,2023-04-06 00:00:00,Android App
+CUST_1949,Riley,Smith,riley.smith1949@example.com,Bangkok,Indonesia,2023-11-29 00:00:00,Android App
+CUST_1950,Sam,Garcia,sam.garcia1950@example.com,Semarang,Indonesia,2023-07-27 00:00:00,Mobile Safari
+CUST_1951,Jordan,Rodriguez,jordan.rodriguez1951@example.com,Surabaya,Indonesia,2023-12-02 00:00:00,iOS App
+CUST_1952,Jordan,Davis,jordan.davis1952@example.com,Medan,Indonesia,2023-03-14 00:00:00,Android App
+CUST_1953,Casey,Johnson,casey.johnson1953@example.com,Medan,Indonesia,2023-06-25 00:00:00,Android App
+CUST_1954,Alex,Williams,alex.williams1954@example.com,Medan,Indonesia,2023-05-04 00:00:00,Web Desktop
+CUST_1955,Jordan,Rodriguez,jordan.rodriguez1955@example.com,Surabaya,Indonesia,2023-03-19 00:00:00,Mobile Safari
+CUST_1956,Sam,Brown,sam.brown1956@example.com,Kuala Lumpur,Indonesia,2023-05-05 00:00:00,Android App
+CUST_1957,Sam,Johnson,sam.johnson1957@example.com,Singapore,Indonesia,2023-08-04 00:00:00,Android App
+CUST_1958,Jamie,Garcia,jamie.garcia1958@example.com,Medan,Southeast Asia,2024-03-29 00:00:00,Mobile Chrome
+CUST_1959,Morgan,Davis,morgan.davis1959@example.com,Bangkok,Indonesia,2023-08-05 00:00:00,Mobile Safari
+CUST_1960,Morgan,Johnson,morgan.johnson1960@example.com,Bandung,Indonesia,2023-10-21 00:00:00,Mobile Chrome
+CUST_1961,Dakota,Jones,dakota.jones1961@example.com,Semarang,Indonesia,2024-03-27 00:00:00,Mobile Safari
+CUST_1962,Alex,Miller,alex.miller1962@example.com,Semarang,Indonesia,2023-05-22 00:00:00,Mobile Safari
+CUST_1963,Alex,Rodriguez,alex.rodriguez1963@example.com,Kuala Lumpur,Indonesia,2023-11-06 00:00:00,Mobile Chrome
+CUST_1964,Dakota,Brown,dakota.brown1964@example.com,Bangkok,Indonesia,2023-12-09 00:00:00,Web Desktop
+CUST_1965,Alex,Jones,alex.jones1965@example.com,Bandung,Indonesia,2023-10-14 00:00:00,Web Desktop
+CUST_1966,Chris,Miller,chris.miller1966@example.com,Bangkok,Southeast Asia,2023-10-15 00:00:00,Mobile Safari
+CUST_1967,Taylor,Jones,taylor.jones1967@example.com,Semarang,Indonesia,2023-07-20 00:00:00,iOS App
+CUST_1968,Chris,Johnson,chris.johnson1968@example.com,Semarang,Indonesia,2024-03-04 00:00:00,iOS App
+CUST_1969,Riley,Miller,riley.miller1969@example.com,Medan,Indonesia,2023-05-09 00:00:00,Web Desktop
+CUST_1970,Pat,Garcia,pat.garcia1970@example.com,Bandung,Indonesia,2023-12-10 00:00:00,Android App
+CUST_1971,Taylor,Brown,taylor.brown1971@example.com,Bandung,Indonesia,2023-02-15 00:00:00,Android App
+CUST_1972,Sam,Smith,sam.smith1972@example.com,Surabaya,Indonesia,2023-12-03 00:00:00,Mobile Chrome
+CUST_1973,Taylor,Smith,taylor.smith1973@example.com,Medan,Indonesia,2023-05-11 00:00:00,Web Desktop
+CUST_1974,Jamie,Brown,jamie.brown1974@example.com,Medan,Indonesia,2023-04-19 00:00:00,Mobile Safari
+CUST_1975,Taylor,Garcia,taylor.garcia1975@example.com,Singapore,Indonesia,2023-10-02 00:00:00,Web Desktop
+CUST_1976,Jamie,Rodriguez,jamie.rodriguez1976@example.com,Medan,Indonesia,2023-03-27 00:00:00,Mobile Chrome
+CUST_1977,Chris,Williams,chris.williams1977@example.com,Medan,Indonesia,2024-03-31 00:00:00,Android App
+CUST_1978,Taylor,Martinez,taylor.martinez1978@example.com,Bandung,Indonesia,2024-02-11 00:00:00,iOS App
+CUST_1979,Morgan,Davis,morgan.davis1979@example.com,Bangkok,Indonesia,2023-07-30 00:00:00,Mobile Safari
+CUST_1980,Pat,Martinez,pat.martinez1980@example.com,Bandung,Southeast Asia,2023-02-11 00:00:00,Android App
+CUST_1981,Dakota,Williams,dakota.williams1981@example.com,Singapore,Indonesia,2024-03-23 00:00:00,iOS App
+CUST_1982,Avery,Smith,avery.smith1982@example.com,Bangkok,Indonesia,2023-12-21 00:00:00,Mobile Safari
+CUST_1983,Chris,Davis,chris.davis1983@example.com,Bandung,Southeast Asia,2023-09-20 00:00:00,Mobile Safari
+CUST_1984,Casey,Martinez,casey.martinez1984@example.com,Singapore,Indonesia,2023-12-24 00:00:00,Web Desktop
+CUST_1985,Sam,Jones,sam.jones1985@example.com,Semarang,Indonesia,2023-02-15 00:00:00,iOS App
+CUST_1986,Casey,Garcia,casey.garcia1986@example.com,Jakarta,Southeast Asia,2023-02-23 00:00:00,Mobile Safari
+CUST_1987,Dakota,Smith,dakota.smith1987@example.com,Singapore,Indonesia,2023-01-07 00:00:00,Mobile Safari
+CUST_1988,Chris,Rodriguez,chris.rodriguez1988@example.com,Semarang,Indonesia,2023-08-03 00:00:00,Mobile Safari
+CUST_1989,Dakota,Rodriguez,dakota.rodriguez1989@example.com,Jakarta,Indonesia,2023-01-26 00:00:00,Web Desktop
+CUST_1990,Alex,Brown,alex.brown1990@example.com,Singapore,Indonesia,2023-09-27 00:00:00,Mobile Safari
+CUST_1991,Alex,Williams,alex.williams1991@example.com,Singapore,Indonesia,2023-07-27 00:00:00,Mobile Chrome
+CUST_1992,Riley,Rodriguez,riley.rodriguez1992@example.com,Singapore,Indonesia,2024-03-10 00:00:00,Mobile Chrome
+CUST_1993,Chris,Brown,chris.brown1993@example.com,Bangkok,Indonesia,2024-02-26 00:00:00,Android App
+CUST_1994,Pat,Garcia,pat.garcia1994@example.com,Surabaya,Indonesia,2023-12-03 00:00:00,Android App
+CUST_1995,Avery,Rodriguez,avery.rodriguez1995@example.com,Bangkok,Indonesia,2024-01-26 00:00:00,Web Desktop
+CUST_1996,Morgan,Smith,morgan.smith1996@example.com,Medan,Indonesia,2023-01-01 00:00:00,Android App
+CUST_1997,Morgan,Smith,morgan.smith1997@example.com,Bandung,Indonesia,2023-05-12 00:00:00,Mobile Safari
+CUST_1998,Alex,Miller,alex.miller1998@example.com,Surabaya,Southeast Asia,2024-04-22 00:00:00,Web Desktop
+CUST_1999,Riley,Davis,riley.davis1999@example.com,Medan,Indonesia,2024-04-11 00:00:00,Web Desktop
+CUST_2000,Dakota,Rodriguez,dakota.rodriguez2000@example.com,Medan,Indonesia,2023-05-26 00:00:00,Web Desktop
+CUST_2001,Dakota,Brown,dakota.brown2001@example.com,Jakarta,Indonesia,2024-02-25 00:00:00,Android App
+CUST_2002,Pat,Rodriguez,pat.rodriguez2002@example.com,Singapore,Indonesia,2023-05-12 00:00:00,Web Desktop
+CUST_2003,Jordan,Brown,jordan.brown2003@example.com,Surabaya,Indonesia,2023-01-18 00:00:00,Mobile Chrome
+CUST_2004,Alex,Martinez,alex.martinez2004@example.com,Kuala Lumpur,Indonesia,2023-12-12 00:00:00,Mobile Safari
+CUST_2005,Riley,Davis,riley.davis2005@example.com,Bandung,Indonesia,2023-03-27 00:00:00,Mobile Chrome
+CUST_2006,Casey,Martinez,casey.martinez2006@example.com,Surabaya,Indonesia,2023-02-02 00:00:00,Web Desktop
+CUST_2007,Pat,Rodriguez,pat.rodriguez2007@example.com,Semarang,Indonesia,2023-09-03 00:00:00,Mobile Chrome
+CUST_2008,Alex,Jones,alex.jones2008@example.com,Surabaya,Indonesia,2023-09-28 00:00:00,Mobile Chrome
+CUST_2009,Jamie,Garcia,jamie.garcia2009@example.com,Bandung,Indonesia,2023-10-01 00:00:00,Android App
+CUST_2010,Jamie,Garcia,jamie.garcia2010@example.com,Surabaya,Indonesia,2024-02-25 00:00:00,Web Desktop
+CUST_2011,Avery,Brown,avery.brown2011@example.com,Surabaya,Indonesia,2024-01-14 00:00:00,Android App
+CUST_2012,Riley,Garcia,riley.garcia2012@example.com,Medan,Southeast Asia,2024-03-25 00:00:00,Android App
+CUST_2013,Casey,Miller,casey.miller2013@example.com,Semarang,Indonesia,2023-07-04 00:00:00,Mobile Safari
+CUST_2014,Jamie,Williams,jamie.williams2014@example.com,Jakarta,Indonesia,2023-04-29 00:00:00,Mobile Chrome
+CUST_2015,Chris,Jones,chris.jones2015@example.com,Semarang,Indonesia,2023-08-03 00:00:00,Web Desktop
+CUST_2016,Avery,Miller,avery.miller2016@example.com,Kuala Lumpur,Indonesia,2024-01-13 00:00:00,Web Desktop
+CUST_2017,Taylor,Williams,taylor.williams2017@example.com,Medan,Indonesia,2023-09-23 00:00:00,Web Desktop
+CUST_2018,Chris,Garcia,chris.garcia2018@example.com,Semarang,Indonesia,2023-03-18 00:00:00,Android App
+CUST_2019,Morgan,Brown,morgan.brown2019@example.com,Semarang,Indonesia,2023-06-28 00:00:00,Mobile Chrome
+CUST_2020,Taylor,Rodriguez,taylor.rodriguez2020@example.com,Singapore,Southeast Asia,2023-11-12 00:00:00,iOS App
+CUST_2021,Pat,Miller,pat.miller2021@example.com,Surabaya,Indonesia,2023-04-12 00:00:00,iOS App
+CUST_2022,Sam,Smith,sam.smith2022@example.com,Bandung,Indonesia,2023-09-23 00:00:00,iOS App
+CUST_2023,Casey,Johnson,casey.johnson2023@example.com,Jakarta,Indonesia,2023-01-12 00:00:00,Android App
+CUST_2024,Casey,Brown,casey.brown2024@example.com,Kuala Lumpur,Southeast Asia,2024-01-12 00:00:00,Mobile Chrome
+CUST_2025,Dakota,Rodriguez,dakota.rodriguez2025@example.com,Singapore,Indonesia,2023-01-18 00:00:00,Mobile Safari
+CUST_2026,Jordan,Rodriguez,jordan.rodriguez2026@example.com,Bandung,Indonesia,2023-04-02 00:00:00,iOS App
+CUST_2027,Riley,Brown,riley.brown2027@example.com,Jakarta,Indonesia,2023-08-08 00:00:00,iOS App
+CUST_2028,Jordan,Williams,jordan.williams2028@example.com,Bangkok,Indonesia,2024-02-14 00:00:00,Mobile Chrome
+CUST_2029,Sam,Rodriguez,sam.rodriguez2029@example.com,Singapore,Indonesia,2023-05-28 00:00:00,Android App
+CUST_2030,Jordan,Martinez,jordan.martinez2030@example.com,Surabaya,Indonesia,2023-10-28 00:00:00,Mobile Safari
+CUST_2031,Jordan,Rodriguez,jordan.rodriguez2031@example.com,Bandung,Indonesia,2024-03-14 00:00:00,Mobile Chrome
+CUST_2032,Avery,Garcia,avery.garcia2032@example.com,Medan,Indonesia,2023-02-14 00:00:00,iOS App
+CUST_2033,Taylor,Miller,taylor.miller2033@example.com,Kuala Lumpur,Indonesia,2023-08-02 00:00:00,Web Desktop
+CUST_2034,Jordan,Miller,jordan.miller2034@example.com,Medan,Indonesia,2023-08-08 00:00:00,iOS App
+CUST_2035,Taylor,Brown,taylor.brown2035@example.com,Singapore,Indonesia,2023-09-10 00:00:00,Android App
+CUST_2036,Taylor,Johnson,taylor.johnson2036@example.com,Bandung,Indonesia,2023-05-07 00:00:00,Mobile Chrome
+CUST_2037,Pat,Garcia,pat.garcia2037@example.com,Bangkok,Indonesia,2023-05-30 00:00:00,Web Desktop
+CUST_2038,Jamie,Davis,jamie.davis2038@example.com,Kuala Lumpur,Southeast Asia,2023-08-24 00:00:00,Mobile Chrome
+CUST_2039,Avery,Davis,avery.davis2039@example.com,Jakarta,Indonesia,2023-03-26 00:00:00,Web Desktop
+CUST_2040,Pat,Miller,pat.miller2040@example.com,Singapore,Southeast Asia,2023-12-18 00:00:00,Android App
+CUST_2041,Pat,Smith,pat.smith2041@example.com,Jakarta,Indonesia,2024-02-09 00:00:00,Web Desktop
+CUST_2042,Jamie,Johnson,jamie.johnson2042@example.com,Bandung,Indonesia,2023-03-29 00:00:00,Web Desktop
+CUST_2043,Avery,Miller,avery.miller2043@example.com,Bangkok,Indonesia,2023-02-19 00:00:00,Web Desktop
+CUST_2044,Casey,Jones,casey.jones2044@example.com,Jakarta,Indonesia,2023-04-19 00:00:00,Android App
+CUST_2045,Riley,Smith,riley.smith2045@example.com,Medan,Indonesia,2023-12-09 00:00:00,Mobile Chrome
+CUST_2046,Jamie,Smith,jamie.smith2046@example.com,Jakarta,Indonesia,2023-01-28 00:00:00,Android App
+CUST_2047,Jordan,Rodriguez,jordan.rodriguez2047@example.com,Bandung,Indonesia,2023-05-14 00:00:00,Mobile Chrome
+CUST_2048,Dakota,Johnson,dakota.johnson2048@example.com,Bandung,Indonesia,2023-06-17 00:00:00,Web Desktop
+CUST_2049,Alex,Davis,alex.davis2049@example.com,Surabaya,Indonesia,2023-01-19 00:00:00,Mobile Safari
+CUST_2050,Riley,Williams,riley.williams2050@example.com,Jakarta,Indonesia,2023-07-09 00:00:00,Mobile Chrome
+CUST_2051,Alex,Johnson,alex.johnson2051@example.com,Bangkok,Indonesia,2023-12-11 00:00:00,Web Desktop
+CUST_2052,Pat,Williams,pat.williams2052@example.com,Bangkok,Indonesia,2023-01-25 00:00:00,iOS App
+CUST_2053,Alex,Martinez,alex.martinez2053@example.com,Jakarta,Indonesia,2024-02-07 00:00:00,Mobile Safari
+CUST_2054,Riley,Miller,riley.miller2054@example.com,Surabaya,Indonesia,2024-02-06 00:00:00,Mobile Chrome
+CUST_2055,Chris,Jones,chris.jones2055@example.com,Singapore,Indonesia,2023-05-02 00:00:00,Web Desktop
+CUST_2056,Pat,Martinez,pat.martinez2056@example.com,Singapore,Indonesia,2023-01-10 00:00:00,Android App
+CUST_2057,Jamie,Davis,jamie.davis2057@example.com,Semarang,Indonesia,2023-09-01 00:00:00,Mobile Safari
+CUST_2058,Riley,Rodriguez,riley.rodriguez2058@example.com,Jakarta,Indonesia,2023-04-19 00:00:00,iOS App
+CUST_2059,Taylor,Rodriguez,taylor.rodriguez2059@example.com,Semarang,Indonesia,2023-11-04 00:00:00,Mobile Safari
+CUST_2060,Jordan,Johnson,jordan.johnson2060@example.com,Semarang,Indonesia,2023-04-03 00:00:00,Mobile Chrome
+CUST_2061,Avery,Rodriguez,avery.rodriguez2061@example.com,Bandung,Indonesia,2023-01-08 00:00:00,iOS App
+CUST_2062,Sam,Williams,sam.williams2062@example.com,Semarang,Indonesia,2024-04-29 00:00:00,Mobile Safari
+CUST_2063,Riley,Jones,riley.jones2063@example.com,Medan,Indonesia,2023-03-15 00:00:00,Mobile Safari
+CUST_2064,Pat,Johnson,pat.johnson2064@example.com,Bangkok,Southeast Asia,2023-09-03 00:00:00,Mobile Chrome
+CUST_2065,Pat,Martinez,pat.martinez2065@example.com,Semarang,Indonesia,2023-06-28 00:00:00,iOS App
+CUST_2066,Jordan,Brown,jordan.brown2066@example.com,Kuala Lumpur,Indonesia,2023-08-24 00:00:00,Android App
+CUST_2067,Casey,Martinez,casey.martinez2067@example.com,Medan,Indonesia,2023-12-25 00:00:00,Web Desktop
+CUST_2068,Avery,Williams,avery.williams2068@example.com,Bandung,Indonesia,2023-03-23 00:00:00,Mobile Chrome
+CUST_2069,Taylor,Garcia,taylor.garcia2069@example.com,Medan,Indonesia,2023-11-11 00:00:00,iOS App
+CUST_2070,Morgan,Rodriguez,morgan.rodriguez2070@example.com,Kuala Lumpur,Indonesia,2024-05-06 00:00:00,iOS App
+CUST_2071,Taylor,Garcia,taylor.garcia2071@example.com,Kuala Lumpur,Indonesia,2023-04-10 00:00:00,iOS App
+CUST_2072,Casey,Garcia,casey.garcia2072@example.com,Bandung,Indonesia,2023-08-20 00:00:00,Mobile Safari
+CUST_2073,Morgan,Williams,morgan.williams2073@example.com,Jakarta,Indonesia,2023-02-11 00:00:00,Mobile Chrome
+CUST_2074,Pat,Martinez,pat.martinez2074@example.com,Medan,Indonesia,2023-02-03 00:00:00,Android App
+CUST_2075,Pat,Garcia,pat.garcia2075@example.com,Singapore,Indonesia,2023-10-12 00:00:00,iOS App
+CUST_2076,Riley,Martinez,riley.martinez2076@example.com,Bandung,Indonesia,2024-01-18 00:00:00,Mobile Safari
+CUST_2077,Taylor,Garcia,taylor.garcia2077@example.com,Singapore,Indonesia,2023-07-08 00:00:00,Mobile Chrome
+CUST_2078,Chris,Davis,chris.davis2078@example.com,Singapore,Southeast Asia,2023-12-25 00:00:00,Web Desktop
+CUST_2079,Morgan,Garcia,morgan.garcia2079@example.com,Kuala Lumpur,Indonesia,2023-02-28 00:00:00,iOS App
+CUST_2080,Riley,Davis,riley.davis2080@example.com,Bandung,Southeast Asia,2023-07-15 00:00:00,Mobile Chrome
+CUST_2081,Riley,Miller,riley.miller2081@example.com,Jakarta,Indonesia,2023-10-10 00:00:00,Mobile Safari
+CUST_2082,Pat,Rodriguez,pat.rodriguez2082@example.com,Bandung,Indonesia,2023-05-03 00:00:00,iOS App
+CUST_2083,Jordan,Brown,jordan.brown2083@example.com,Jakarta,Indonesia,2023-06-14 00:00:00,iOS App
+CUST_2084,Taylor,Jones,taylor.jones2084@example.com,Bangkok,Southeast Asia,2023-02-17 00:00:00,Web Desktop
+CUST_2085,Morgan,Smith,morgan.smith2085@example.com,Bangkok,Indonesia,2024-01-15 00:00:00,Android App
+CUST_2086,Jordan,Garcia,jordan.garcia2086@example.com,Surabaya,Indonesia,2023-07-25 00:00:00,Web Desktop
+CUST_2087,Jordan,Brown,jordan.brown2087@example.com,Bangkok,Indonesia,2023-09-04 00:00:00,Mobile Chrome
+CUST_2088,Casey,Johnson,casey.johnson2088@example.com,Bangkok,Indonesia,2024-04-16 00:00:00,Mobile Safari
+CUST_2089,Alex,Smith,alex.smith2089@example.com,Singapore,Indonesia,2023-02-03 00:00:00,iOS App
+CUST_2090,Jordan,Johnson,jordan.johnson2090@example.com,Semarang,Indonesia,2024-03-30 00:00:00,Mobile Chrome
+CUST_2091,Casey,Garcia,casey.garcia2091@example.com,Bangkok,Indonesia,2023-01-14 00:00:00,Android App
+CUST_2092,Alex,Jones,alex.jones2092@example.com,Jakarta,Indonesia,2024-04-06 00:00:00,Mobile Chrome
+CUST_2093,Morgan,Jones,morgan.jones2093@example.com,Semarang,Indonesia,2024-03-20 00:00:00,Mobile Chrome
+CUST_2094,Jordan,Martinez,jordan.martinez2094@example.com,Jakarta,Indonesia,2023-05-08 00:00:00,Android App
+CUST_2095,Pat,Johnson,pat.johnson2095@example.com,Semarang,Indonesia,2023-05-12 00:00:00,iOS App
+CUST_2096,Pat,Rodriguez,pat.rodriguez2096@example.com,Semarang,Southeast Asia,2023-11-21 00:00:00,Web Desktop
+CUST_2097,Casey,Jones,casey.jones2097@example.com,Jakarta,Indonesia,2024-05-02 00:00:00,iOS App
+CUST_2098,Jordan,Rodriguez,jordan.rodriguez2098@example.com,Medan,Indonesia,2023-12-29 00:00:00,Android App
+CUST_2099,Pat,Garcia,pat.garcia2099@example.com,Singapore,Southeast Asia,2023-09-08 00:00:00,iOS App
+CUST_2100,Alex,Smith,alex.smith2100@example.com,Medan,Indonesia,2023-08-04 00:00:00,Android App
+CUST_2101,Dakota,Smith,dakota.smith2101@example.com,Surabaya,Indonesia,2023-10-11 00:00:00,Mobile Safari
+CUST_2102,Jamie,Garcia,jamie.garcia2102@example.com,Bangkok,Indonesia,2023-11-14 00:00:00,Android App
+CUST_2103,Avery,Davis,avery.davis2103@example.com,Jakarta,Indonesia,2023-02-25 00:00:00,Android App
+CUST_2104,Chris,Smith,chris.smith2104@example.com,Bandung,Indonesia,2023-08-17 00:00:00,Android App
+CUST_2105,Alex,Johnson,alex.johnson2105@example.com,Singapore,Indonesia,2024-02-11 00:00:00,Android App
+CUST_2106,Jordan,Martinez,jordan.martinez2106@example.com,Bandung,Indonesia,2023-07-15 00:00:00,Android App
+CUST_2107,Avery,Miller,avery.miller2107@example.com,Singapore,Indonesia,2023-10-23 00:00:00,iOS App
+CUST_2108,Morgan,Smith,morgan.smith2108@example.com,Surabaya,Indonesia,2023-02-21 00:00:00,Mobile Chrome
+CUST_2109,Avery,Rodriguez,avery.rodriguez2109@example.com,Kuala Lumpur,Indonesia,2023-09-08 00:00:00,Web Desktop
+CUST_2110,Riley,Williams,riley.williams2110@example.com,Bangkok,Southeast Asia,2023-07-17 00:00:00,Web Desktop
+CUST_2111,Chris,Davis,chris.davis2111@example.com,Singapore,Indonesia,2023-03-06 00:00:00,Web Desktop
+CUST_2112,Chris,Rodriguez,chris.rodriguez2112@example.com,Medan,Indonesia,2024-03-14 00:00:00,Mobile Chrome
+CUST_2113,Chris,Brown,chris.brown2113@example.com,Semarang,Indonesia,2023-05-06 00:00:00,Android App
+CUST_2114,Jordan,Smith,jordan.smith2114@example.com,Singapore,Indonesia,2023-01-31 00:00:00,Android App
+CUST_2115,Alex,Garcia,alex.garcia2115@example.com,Kuala Lumpur,Indonesia,2024-02-02 00:00:00,Web Desktop
+CUST_2116,Riley,Miller,riley.miller2116@example.com,Jakarta,Indonesia,2024-02-07 00:00:00,Web Desktop
+CUST_2117,Jordan,Smith,jordan.smith2117@example.com,Semarang,Indonesia,2023-11-04 00:00:00,Mobile Chrome
+CUST_2118,Alex,Williams,alex.williams2118@example.com,Bandung,Indonesia,2024-01-20 00:00:00,Mobile Safari
+CUST_2119,Dakota,Garcia,dakota.garcia2119@example.com,Surabaya,Indonesia,2023-06-17 00:00:00,iOS App
+CUST_2120,Morgan,Martinez,morgan.martinez2120@example.com,Bandung,Indonesia,2023-07-11 00:00:00,Web Desktop
+CUST_2121,Pat,Miller,pat.miller2121@example.com,Semarang,Indonesia,2024-03-03 00:00:00,Android App
+CUST_2122,Morgan,Miller,morgan.miller2122@example.com,Bandung,Indonesia,2023-04-06 00:00:00,Android App
+CUST_2123,Alex,Jones,alex.jones2123@example.com,Singapore,Indonesia,2023-05-20 00:00:00,iOS App
+CUST_2124,Morgan,Smith,morgan.smith2124@example.com,Kuala Lumpur,Indonesia,2024-03-13 00:00:00,Web Desktop
+CUST_2125,Jordan,Garcia,jordan.garcia2125@example.com,Jakarta,Indonesia,2023-02-14 00:00:00,Android App
+CUST_2126,Pat,Martinez,pat.martinez2126@example.com,Kuala Lumpur,Indonesia,2023-04-07 00:00:00,Web Desktop
+CUST_2127,Casey,Jones,casey.jones2127@example.com,Surabaya,Indonesia,2023-11-13 00:00:00,iOS App
+CUST_2128,Pat,Garcia,pat.garcia2128@example.com,Bangkok,Indonesia,2023-04-29 00:00:00,Android App
+CUST_2129,Taylor,Williams,taylor.williams2129@example.com,Semarang,Indonesia,2023-12-09 00:00:00,iOS App
+CUST_2130,Casey,Miller,casey.miller2130@example.com,Bandung,Indonesia,2023-03-12 00:00:00,Android App
+CUST_2131,Dakota,Miller,dakota.miller2131@example.com,Jakarta,Indonesia,2023-04-15 00:00:00,Mobile Safari
+CUST_2132,Chris,Miller,chris.miller2132@example.com,Kuala Lumpur,Indonesia,2023-01-10 00:00:00,Mobile Safari
+CUST_2133,Sam,Smith,sam.smith2133@example.com,Surabaya,Southeast Asia,2023-04-07 00:00:00,Android App
+CUST_2134,Taylor,Davis,taylor.davis2134@example.com,Jakarta,Indonesia,2023-07-27 00:00:00,Web Desktop
+CUST_2135,Jamie,Smith,jamie.smith2135@example.com,Singapore,Indonesia,2023-11-16 00:00:00,Android App
+CUST_2136,Jordan,Brown,jordan.brown2136@example.com,Kuala Lumpur,Indonesia,2023-04-24 00:00:00,iOS App
+CUST_2137,Pat,Garcia,pat.garcia2137@example.com,Surabaya,Indonesia,2024-03-22 00:00:00,Android App
+CUST_2138,Casey,Jones,casey.jones2138@example.com,Bandung,Indonesia,2023-06-25 00:00:00,iOS App
+CUST_2139,Riley,Davis,riley.davis2139@example.com,Bangkok,Indonesia,2024-01-01 00:00:00,Mobile Chrome
+CUST_2140,Casey,Johnson,casey.johnson2140@example.com,Jakarta,Indonesia,2023-12-18 00:00:00,iOS App
+CUST_2141,Morgan,Smith,morgan.smith2141@example.com,Semarang,Indonesia,2023-09-30 00:00:00,Android App
+CUST_2142,Dakota,Jones,dakota.jones2142@example.com,Surabaya,Southeast Asia,2023-05-29 00:00:00,Android App
+CUST_2143,Alex,Johnson,alex.johnson2143@example.com,Bangkok,Indonesia,2023-02-11 00:00:00,Mobile Chrome
+CUST_2144,Jordan,Smith,jordan.smith2144@example.com,Singapore,Indonesia,2023-03-14 00:00:00,Mobile Safari
+CUST_2145,Jordan,Brown,jordan.brown2145@example.com,Bangkok,Indonesia,2024-01-11 00:00:00,Mobile Safari
+CUST_2146,Casey,Jones,casey.jones2146@example.com,Bandung,Indonesia,2023-09-04 00:00:00,Android App
+CUST_2147,Casey,Martinez,casey.martinez2147@example.com,Singapore,Southeast Asia,2023-06-03 00:00:00,Android App
+CUST_2148,Sam,Williams,sam.williams2148@example.com,Jakarta,Southeast Asia,2024-03-25 00:00:00,iOS App
+CUST_2149,Jamie,Smith,jamie.smith2149@example.com,Jakarta,Indonesia,2023-03-17 00:00:00,Web Desktop
+CUST_2150,Dakota,Smith,dakota.smith2150@example.com,Surabaya,Indonesia,2023-02-24 00:00:00,Mobile Safari
+CUST_2151,Morgan,Jones,morgan.jones2151@example.com,Kuala Lumpur,Indonesia,2023-04-28 00:00:00,Mobile Safari
+CUST_2152,Riley,Garcia,riley.garcia2152@example.com,Jakarta,Indonesia,2023-11-14 00:00:00,Android App
+CUST_2153,Chris,Martinez,chris.martinez2153@example.com,Semarang,Indonesia,2023-07-19 00:00:00,Mobile Safari
+CUST_2154,Pat,Rodriguez,pat.rodriguez2154@example.com,Bandung,Indonesia,2023-11-30 00:00:00,iOS App
+CUST_2155,Avery,Rodriguez,avery.rodriguez2155@example.com,Medan,Indonesia,2023-10-28 00:00:00,Mobile Safari
+CUST_2156,Morgan,Martinez,morgan.martinez2156@example.com,Surabaya,Indonesia,2024-04-03 00:00:00,iOS App
+CUST_2157,Jamie,Martinez,jamie.martinez2157@example.com,Jakarta,Indonesia,2023-02-13 00:00:00,Android App
+CUST_2158,Jamie,Martinez,jamie.martinez2158@example.com,Medan,Indonesia,2023-05-29 00:00:00,Android App
+CUST_2159,Avery,Rodriguez,avery.rodriguez2159@example.com,Kuala Lumpur,Indonesia,2023-03-28 00:00:00,iOS App
+CUST_2160,Jamie,Johnson,jamie.johnson2160@example.com,Medan,Indonesia,2023-03-25 00:00:00,Web Desktop
+CUST_2161,Pat,Davis,pat.davis2161@example.com,Bangkok,Southeast Asia,2023-11-18 00:00:00,Web Desktop
+CUST_2162,Jordan,Garcia,jordan.garcia2162@example.com,Bangkok,Indonesia,2024-04-05 00:00:00,Android App
+CUST_2163,Jamie,Brown,jamie.brown2163@example.com,Singapore,Indonesia,2023-05-03 00:00:00,Web Desktop
+CUST_2164,Riley,Miller,riley.miller2164@example.com,Bangkok,Indonesia,2024-04-24 00:00:00,Mobile Safari
+CUST_2165,Dakota,Jones,dakota.jones2165@example.com,Semarang,Indonesia,2023-04-17 00:00:00,Web Desktop
+CUST_2166,Sam,Williams,sam.williams2166@example.com,Semarang,Indonesia,2024-01-13 00:00:00,Mobile Chrome
+CUST_2167,Casey,Williams,casey.williams2167@example.com,Singapore,Indonesia,2023-04-03 00:00:00,Mobile Chrome
+CUST_2168,Riley,Jones,riley.jones2168@example.com,Bandung,Indonesia,2024-01-12 00:00:00,Android App
+CUST_2169,Riley,Williams,riley.williams2169@example.com,Singapore,Indonesia,2023-04-29 00:00:00,Android App
+CUST_2170,Jamie,Garcia,jamie.garcia2170@example.com,Kuala Lumpur,Indonesia,2023-12-30 00:00:00,iOS App
+CUST_2171,Avery,Martinez,avery.martinez2171@example.com,Jakarta,Indonesia,2024-02-05 00:00:00,Web Desktop
+CUST_2172,Alex,Miller,alex.miller2172@example.com,Surabaya,Indonesia,2023-01-04 00:00:00,Android App
+CUST_2173,Sam,Garcia,sam.garcia2173@example.com,Medan,Indonesia,2023-05-01 00:00:00,Web Desktop
+CUST_2174,Jordan,Smith,jordan.smith2174@example.com,Surabaya,Indonesia,2023-11-26 00:00:00,Mobile Chrome
+CUST_2175,Taylor,Rodriguez,taylor.rodriguez2175@example.com,Medan,Indonesia,2024-01-18 00:00:00,Android App
+CUST_2176,Dakota,Jones,dakota.jones2176@example.com,Surabaya,Indonesia,2023-08-16 00:00:00,Mobile Safari
+CUST_2177,Avery,Garcia,avery.garcia2177@example.com,Semarang,Indonesia,2023-08-30 00:00:00,Mobile Safari
+CUST_2178,Jordan,Miller,jordan.miller2178@example.com,Bangkok,Indonesia,2023-01-20 00:00:00,iOS App
+CUST_2179,Alex,Martinez,alex.martinez2179@example.com,Singapore,Indonesia,2024-02-26 00:00:00,Mobile Safari
+CUST_2180,Chris,Martinez,chris.martinez2180@example.com,Singapore,Indonesia,2024-01-10 00:00:00,iOS App
+CUST_2181,Taylor,Johnson,taylor.johnson2181@example.com,Bangkok,Indonesia,2023-10-21 00:00:00,Mobile Chrome
+CUST_2182,Riley,Garcia,riley.garcia2182@example.com,Jakarta,Indonesia,2023-12-07 00:00:00,iOS App
+CUST_2183,Dakota,Johnson,dakota.johnson2183@example.com,Medan,Indonesia,2024-03-15 00:00:00,Mobile Safari
+CUST_2184,Avery,Martinez,avery.martinez2184@example.com,Jakarta,Indonesia,2023-04-20 00:00:00,Android App
+CUST_2185,Avery,Rodriguez,avery.rodriguez2185@example.com,Kuala Lumpur,Indonesia,2023-11-27 00:00:00,Mobile Safari
+CUST_2186,Riley,Miller,riley.miller2186@example.com,Kuala Lumpur,Indonesia,2024-04-21 00:00:00,iOS App
+CUST_2187,Sam,Johnson,sam.johnson2187@example.com,Kuala Lumpur,Indonesia,2023-01-18 00:00:00,Android App
+CUST_2188,Morgan,Williams,morgan.williams2188@example.com,Surabaya,Indonesia,2024-03-10 00:00:00,Android App
+CUST_2189,Riley,Davis,riley.davis2189@example.com,Singapore,Indonesia,2024-01-16 00:00:00,Android App
+CUST_2190,Pat,Brown,pat.brown2190@example.com,Bandung,Southeast Asia,2023-06-26 00:00:00,Android App
+CUST_2191,Morgan,Smith,morgan.smith2191@example.com,Semarang,Indonesia,2024-03-06 00:00:00,Mobile Safari
+CUST_2192,Avery,Williams,avery.williams2192@example.com,Semarang,Indonesia,2023-07-29 00:00:00,Android App
+CUST_2193,Pat,Garcia,pat.garcia2193@example.com,Jakarta,Indonesia,2023-07-27 00:00:00,Android App
+CUST_2194,Sam,Rodriguez,sam.rodriguez2194@example.com,Surabaya,Southeast Asia,2024-01-27 00:00:00,Mobile Chrome
+CUST_2195,Avery,Garcia,avery.garcia2195@example.com,Bandung,Indonesia,2023-01-13 00:00:00,Android App
+CUST_2196,Riley,Martinez,riley.martinez2196@example.com,Kuala Lumpur,Indonesia,2023-09-07 00:00:00,Web Desktop
+CUST_2197,Jamie,Johnson,jamie.johnson2197@example.com,Semarang,Indonesia,2023-03-18 00:00:00,Android App
+CUST_2198,Sam,Miller,sam.miller2198@example.com,Surabaya,Indonesia,2023-10-09 00:00:00,Mobile Safari
+CUST_2199,Casey,Jones,casey.jones2199@example.com,Semarang,Indonesia,2024-02-01 00:00:00,Mobile Safari
+CUST_2200,Casey,Jones,casey.jones2200@example.com,Surabaya,Indonesia,2024-01-01 00:00:00,Mobile Safari

@@ -1,0 +1,136 @@
+{
+  "pipeline_status": "SUCCESS",
+  "execution_time_seconds": 8.49,
+  "raw_counts": {
+    "customers": 1200,
+    "products": 80,
+    "orders": 8000,
+    "order_items": 13275
+  },
+  "data_quality_tests": {
+    "total": 16,
+    "passed": 16,
+    "failed": 0,
+    "details": [
+      {
+        "test_type": "UNIQUE_KEY",
+        "target": "dim_customers.customer_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "UNIQUE_KEY",
+        "target": "dim_products.product_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "UNIQUE_KEY",
+        "target": "dim_date.date_key",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "UNIQUE_KEY",
+        "target": "fct_orders.order_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "dim_customers.customer_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "dim_customers.email",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "dim_products.product_name",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "fct_orders.order_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "fct_orders.customer_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "NOT_NULL",
+        "target": "fct_orders.net_merchandise_amount",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "FOREIGN_KEY_RELATIONSHIP",
+        "target": "fct_orders.customer_id -> dim_customers.customer_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "FOREIGN_KEY_RELATIONSHIP",
+        "target": "int_order_items_enriched.product_id -> dim_products.product_id",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "CRITICAL"
+      },
+      {
+        "test_type": "ACCEPTED_VALUES",
+        "target": "dim_customers.customer_segment_tier",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "MEDIUM"
+      },
+      {
+        "test_type": "ACCEPTED_VALUES",
+        "target": "dim_products.sales_velocity_tier",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "MEDIUM"
+      },
+      {
+        "test_type": "NON_NEGATIVE_CONSTRAINT",
+        "target": "fct_orders.net_merchandise_amount",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "HIGH"
+      },
+      {
+        "test_type": "NON_NEGATIVE_CONSTRAINT",
+        "target": "dim_products.retail_price",
+        "passed": true,
+        "violations_count": 0,
+        "severity": "HIGH"
+      }
+    ]
+  },
+  "executive_kpis": {
+    "total_orders": 8000,
+    "total_net_revenue": 2579509.19,
+    "total_gross_profit": 1078539.78,
+    "average_order_value": 351.0,
+    "active_purchasers": 1200
+  }
+}

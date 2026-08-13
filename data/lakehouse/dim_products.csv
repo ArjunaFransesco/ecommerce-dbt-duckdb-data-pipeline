@@ -1,0 +1,81 @@
+product_id,product_name,category,sub_category,cost_price,retail_price,unit_gross_margin,margin_percentage,is_active,total_orders_featured,total_units_sold,total_revenue_generated,total_profit_generated,sales_velocity_tier
+PROD_501,Smartphone (Standard),Electronics,Smartphone,124.34,199.67,75.33,37.73,true,166,203,39444.82,14203.80,Top Bestseller
+PROD_502,Smartphone (Pro),Electronics,Smartphone,138.11,242.11,104.00,42.96,true,161,208,49220.86,20493.98,Top Bestseller
+PROD_503,Smartphone (Lite),Electronics,Smartphone,114.06,157.89,43.83,27.76,true,161,222,34214.83,8893.51,Top Bestseller
+PROD_504,Smartphone (Premium),Electronics,Smartphone,88.59,130.74,42.15,32.24,false,166,218,27795.36,8482.74,Top Bestseller
+PROD_505,Wireless Earbuds (Standard),Electronics,Wireless Earbuds,43.96,64.22,20.26,31.55,true,164,206,12895.44,3839.68,Top Bestseller
+PROD_506,Wireless Earbuds (Pro),Electronics,Wireless Earbuds,140.28,240.11,99.83,41.58,true,168,226,52860.13,21156.85,Top Bestseller
+PROD_507,Wireless Earbuds (Lite),Electronics,Wireless Earbuds,11.61,16.01,4.40,27.48,true,170,225,3511.05,898.80,Top Bestseller
+PROD_508,Wireless Earbuds (Premium),Electronics,Wireless Earbuds,148.46,312.13,163.67,52.44,true,167,216,65516.08,33448.72,Top Bestseller
+PROD_509,Smartwatch (Standard),Electronics,Smartwatch,100.60,213.90,113.30,52.97,true,171,218,45432.20,23501.40,Top Bestseller
+PROD_510,Smartwatch (Pro),Electronics,Smartwatch,150.69,220.56,69.87,31.68,true,186,246,53265.16,16195.42,Top Bestseller
+PROD_511,Smartwatch (Lite),Electronics,Smartwatch,137.24,295.08,157.84,53.49,true,155,205,59163.57,31029.37,Top Bestseller
+PROD_512,Smartwatch (Premium),Electronics,Smartwatch,70.51,151.42,80.91,53.43,true,149,195,28747.16,14997.71,Top Bestseller
+PROD_513,Mechanical Keyboard (Standard),Electronics,Mechanical Keyboard,65.13,126.72,61.59,48.6,true,167,208,25686.11,12139.07,Top Bestseller
+PROD_514,Mechanical Keyboard (Pro),Electronics,Mechanical Keyboard,167.86,255.83,87.97,34.39,true,178,245,61284.18,20158.48,Top Bestseller
+PROD_515,Mechanical Keyboard (Lite),Electronics,Mechanical Keyboard,135.03,189.61,54.58,28.79,true,177,239,44311.91,12039.74,Top Bestseller
+PROD_516,Mechanical Keyboard (Premium),Electronics,Mechanical Keyboard,56.64,91.12,34.48,37.84,false,157,210,18716.02,6821.62,Top Bestseller
+PROD_517,USB-C Hub (Standard),Electronics,USB-C Hub,118.56,232.38,113.82,48.98,false,173,224,50751.71,24194.27,Top Bestseller
+PROD_518,USB-C Hub (Pro),Electronics,USB-C Hub,72.88,148.06,75.18,50.78,true,167,227,32854.52,16310.76,Top Bestseller
+PROD_519,USB-C Hub (Lite),Electronics,USB-C Hub,157.56,236.90,79.34,33.49,true,148,208,48007.72,15235.24,Top Bestseller
+PROD_520,USB-C Hub (Premium),Electronics,USB-C Hub,45.63,74.25,28.62,38.55,true,165,222,16063.90,5934.04,Top Bestseller
+PROD_521,Gaming Monitor (Standard),Electronics,Gaming Monitor,75.73,141.39,65.66,46.44,true,159,204,27846.69,12397.77,Top Bestseller
+PROD_522,Gaming Monitor (Pro),Electronics,Gaming Monitor,135.69,209.52,73.83,35.24,true,196,253,51699.01,17369.44,Top Bestseller
+PROD_523,Gaming Monitor (Lite),Electronics,Gaming Monitor,59.59,104.47,44.88,42.96,true,177,236,24033.35,9970.11,Top Bestseller
+PROD_524,Gaming Monitor (Premium),Electronics,Gaming Monitor,69.03,116.66,47.63,40.83,true,170,217,24638.57,9659.06,Top Bestseller
+PROD_525,Oversized Hoodie (Standard),Apparel,Oversized Hoodie,108.33,227.68,119.35,52.42,true,152,209,46480.92,23839.95,Top Bestseller
+PROD_526,Oversized Hoodie (Pro),Apparel,Oversized Hoodie,110.82,212.22,101.40,47.78,true,160,210,43441.51,20169.31,Top Bestseller
+PROD_527,Oversized Hoodie (Lite),Apparel,Oversized Hoodie,128.59,218.49,89.90,41.15,true,150,205,43894.74,17533.79,Top Bestseller
+PROD_528,Oversized Hoodie (Premium),Apparel,Oversized Hoodie,9.26,17.95,8.69,48.41,true,130,168,2960.00,1404.32,Top Bestseller
+PROD_529,Slim Fit Chinos (Standard),Apparel,Slim Fit Chinos,14.60,24.28,9.68,39.87,false,162,209,4954.36,1902.96,Top Bestseller
+PROD_530,Slim Fit Chinos (Pro),Apparel,Slim Fit Chinos,80.37,142.79,62.42,43.71,true,158,200,27822.58,11748.58,Top Bestseller
+PROD_531,Slim Fit Chinos (Lite),Apparel,Slim Fit Chinos,131.37,242.35,110.98,45.79,true,175,221,52335.50,23302.73,Top Bestseller
+PROD_532,Slim Fit Chinos (Premium),Apparel,Slim Fit Chinos,156.67,272.35,115.68,42.47,true,163,212,56199.27,22985.23,Top Bestseller
+PROD_533,Graphic T-Shirt (Standard),Apparel,Graphic T-Shirt,74.40,161.57,87.17,53.95,true,161,213,33388.34,17541.14,Top Bestseller
+PROD_534,Graphic T-Shirt (Pro),Apparel,Graphic T-Shirt,22.31,46.48,24.17,52.0,true,178,228,10323.26,5236.58,Top Bestseller
+PROD_535,Graphic T-Shirt (Lite),Apparel,Graphic T-Shirt,19.83,36.04,16.21,44.98,true,147,190,6674.68,2906.98,Top Bestseller
+PROD_536,Graphic T-Shirt (Premium),Apparel,Graphic T-Shirt,158.97,242.17,83.20,34.36,true,149,193,45503.65,14822.44,Top Bestseller
+PROD_537,Sneakers (Standard),Apparel,Sneakers,103.92,145.12,41.20,28.39,false,177,233,32942.20,8728.84,Top Bestseller
+PROD_538,Sneakers (Pro),Apparel,Sneakers,96.17,153.61,57.44,37.39,true,157,209,31374.89,11275.36,Top Bestseller
+PROD_539,Sneakers (Lite),Apparel,Sneakers,155.55,250.31,94.76,37.86,true,155,203,49611.38,18034.73,Top Bestseller
+PROD_540,Sneakers (Premium),Apparel,Sneakers,30.20,48.42,18.22,37.63,true,167,227,10715.40,3860.00,Top Bestseller
+PROD_541,Running Jacket (Standard),Apparel,Running Jacket,89.12,137.54,48.42,35.2,true,158,207,27845.00,9397.16,Top Bestseller
+PROD_542,Running Jacket (Pro),Apparel,Running Jacket,65.23,140.18,74.95,53.47,true,177,237,32402.51,16943.00,Top Bestseller
+PROD_543,Running Jacket (Lite),Apparel,Running Jacket,177.96,313.64,135.68,43.26,true,169,217,66084.07,27466.75,Top Bestseller
+PROD_544,Running Jacket (Premium),Apparel,Running Jacket,161.28,280.84,119.56,42.57,true,165,208,57052.68,23506.44,Top Bestseller
+PROD_545,Ergonomic Chair (Standard),Home & Living,Ergonomic Chair,177.20,246.78,69.58,28.2,true,180,227,55019.52,14795.12,Top Bestseller
+PROD_546,Ergonomic Chair (Pro),Home & Living,Ergonomic Chair,131.92,209.69,77.77,37.09,true,205,283,57465.63,20132.27,Top Bestseller
+PROD_547,Ergonomic Chair (Lite),Home & Living,Ergonomic Chair,14.77,20.21,5.44,26.92,true,170,226,4442.22,1104.20,Top Bestseller
+PROD_548,Ergonomic Chair (Premium),Home & Living,Ergonomic Chair,31.12,54.38,23.26,42.77,true,156,197,10413.69,4283.05,Top Bestseller
+PROD_549,Desk Mat (Standard),Home & Living,Desk Mat,81.68,112.15,30.47,27.17,true,184,249,27235.48,6897.16,Top Bestseller
+PROD_550,Desk Mat (Pro),Home & Living,Desk Mat,9.81,19.60,9.79,49.95,true,175,230,4383.54,2127.24,Top Bestseller
+PROD_551,Desk Mat (Lite),Home & Living,Desk Mat,82.45,148.84,66.39,44.6,true,170,223,32499.31,14112.96,Top Bestseller
+PROD_552,Desk Mat (Premium),Home & Living,Desk Mat,74.94,157.70,82.76,52.48,true,166,217,33385.20,17123.22,Top Bestseller
+PROD_553,Aroma Diffuser (Standard),Home & Living,Aroma Diffuser,65.76,123.16,57.40,46.61,true,170,215,25845.05,11706.65,Top Bestseller
+PROD_554,Aroma Diffuser (Pro),Home & Living,Aroma Diffuser,173.47,309.23,135.76,43.9,true,168,221,66778.31,28441.44,Top Bestseller
+PROD_555,Aroma Diffuser (Lite),Home & Living,Aroma Diffuser,55.94,121.11,65.17,53.81,true,177,235,27752.28,14606.38,Top Bestseller
+PROD_556,Aroma Diffuser (Premium),Home & Living,Aroma Diffuser,107.73,171.31,63.58,37.11,true,168,211,35486.80,12755.77,Top Bestseller
+PROD_557,Ceramic Mug (Standard),Home & Living,Ceramic Mug,77.65,170.75,93.10,54.52,true,189,249,41202.04,21867.19,Top Bestseller
+PROD_558,Ceramic Mug (Pro),Home & Living,Ceramic Mug,107.51,152.68,45.17,29.58,true,150,194,29047.44,8190.50,Top Bestseller
+PROD_559,Ceramic Mug (Lite),Home & Living,Ceramic Mug,83.60,149.13,65.53,43.94,true,164,213,31011.55,13204.75,Top Bestseller
+PROD_560,Ceramic Mug (Premium),Home & Living,Ceramic Mug,62.43,88.90,26.47,29.78,true,167,220,19144.50,5409.90,Top Bestseller
+PROD_561,LED Desk Lamp (Standard),Home & Living,LED Desk Lamp,174.25,375.16,200.91,53.55,true,169,221,80359.17,41849.92,Top Bestseller
+PROD_562,LED Desk Lamp (Pro),Home & Living,LED Desk Lamp,106.19,225.46,119.27,52.9,true,152,200,44201.40,22963.40,Top Bestseller
+PROD_563,LED Desk Lamp (Lite),Home & Living,LED Desk Lamp,147.44,317.90,170.46,53.62,true,155,204,63309.90,33232.14,Top Bestseller
+PROD_564,LED Desk Lamp (Premium),Home & Living,LED Desk Lamp,35.77,77.50,41.73,53.85,true,174,226,17108.10,9024.08,Top Bestseller
+PROD_565,Sunscreen SPF50 (Standard),Beauty & Care,Sunscreen SPF50,10.44,16.38,5.94,36.26,true,186,238,3813.18,1328.46,Top Bestseller
+PROD_566,Sunscreen SPF50 (Pro),Beauty & Care,Sunscreen SPF50,127.18,250.95,123.77,49.32,false,184,238,58107.53,27838.69,Top Bestseller
+PROD_567,Sunscreen SPF50 (Lite),Beauty & Care,Sunscreen SPF50,57.45,103.84,46.39,44.67,true,161,204,20705.77,8985.97,Top Bestseller
+PROD_568,Sunscreen SPF50 (Premium),Beauty & Care,Sunscreen SPF50,77.77,116.17,38.40,33.06,false,168,221,24999.68,7812.51,Top Bestseller
+PROD_569,Hydrating Serum (Standard),Beauty & Care,Hydrating Serum,154.77,274.50,119.73,43.62,true,162,215,57535.15,24259.60,Top Bestseller
+PROD_570,Hydrating Serum (Pro),Beauty & Care,Hydrating Serum,47.09,85.34,38.25,44.82,true,175,225,18894.28,8299.03,Top Bestseller
+PROD_571,Hydrating Serum (Lite),Beauty & Care,Hydrating Serum,96.61,211.74,115.13,54.37,true,146,191,39415.45,20962.94,Top Bestseller
+PROD_572,Hydrating Serum (Premium),Beauty & Care,Hydrating Serum,71.81,144.07,72.26,50.16,true,150,199,27964.01,13673.82,Top Bestseller
+PROD_573,Clay Mask (Standard),Beauty & Care,Clay Mask,74.14,121.95,47.81,39.2,true,172,217,25841.06,9752.68,Top Bestseller
+PROD_574,Clay Mask (Pro),Beauty & Care,Clay Mask,142.47,250.97,108.50,43.23,true,147,177,43631.09,18413.90,Top Bestseller
+PROD_575,Clay Mask (Lite),Beauty & Care,Clay Mask,107.16,175.82,68.66,39.05,true,169,221,37942.02,14259.66,Top Bestseller
+PROD_576,Clay Mask (Premium),Beauty & Care,Clay Mask,48.99,75.48,26.49,35.1,true,154,209,15371.53,5132.62,Top Bestseller
+PROD_577,Hair Treatment Oil (Standard),Beauty & Care,Hair Treatment Oil,52.87,71.78,18.91,26.34,true,153,206,14427.73,3536.51,Top Bestseller
+PROD_578,Hair Treatment Oil (Pro),Beauty & Care,Hair Treatment Oil,95.91,165.80,69.89,42.15,false,167,211,34171.38,13934.37,Top Bestseller
+PROD_579,Hair Treatment Oil (Lite),Beauty & Care,Hair Treatment Oil,106.25,221.42,115.17,52.01,true,171,229,49432.10,25100.85,Top Bestseller
+PROD_580,Hair Treatment Oil (Premium),Beauty & Care,Hair Treatment Oil,105.90,221.10,115.20,52.1,true,173,215,46298.48,23529.98,Top Bestseller

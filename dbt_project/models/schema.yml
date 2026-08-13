@@ -1,0 +1,93 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Cleansed and standardized customer records"
+    columns:
+      - name: customer_id
+        description: "Primary key for customers"
+        tests:
+          - unique
+          - not_null
+      - name: email
+        description: "Customer email address"
+        tests:
+          - not_null
+
+  - name: stg_products
+    description: "Cleansed product catalog with margins"
+    columns:
+      - name: product_id
+        description: "Primary key for products"
+        tests:
+          - unique
+          - not_null
+      - name: unit_price
+        description: "Product selling price"
+        tests:
+          - not_null
+          - positive_value
+
+  - name: stg_orders
+    description: "Cleansed orders staging table"
+    columns:
+      - name: order_id
+        description: "Primary key for orders"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Foreign key referencing customers"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: order_status
+        description: "Order status code"
+        tests:
+          - accepted_values:
+              values: ['completed', 'returned', 'cancelled', 'processing']
+
+  - name: dim_customers
+    description: "Customer dimension table with RFM metrics and spend tiers"
+    columns:
+      - name: customer_id
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+      - name: customer_loyalty_tier
+        description: "Loyalty segment"
+        tests:
+          - accepted_values:
+              values: ['VIP Platinum', 'Gold Tier', 'Silver Tier', 'Bronze Tier', 'Prospect (No Orders)']
+
+  - name: dim_products
+    description: "Product dimension table with sales velocity"
+    columns:
+      - name: product_id
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_orders
+    description: "Fact table for e-commerce orders"
+    columns:
+      - name: order_id
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Foreign key referencing dim_customers"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_id
+      - name: net_merchandise_revenue
+        description: "Net revenue from order items"
+        tests:
+          - not_null

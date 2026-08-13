@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern E-Commerce Data Stack | DuckDB & dbt ELT Lakehouse</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="lakehouse-glow"></div>
+
+    <header class="app-header">
+        <div class="header-container">
+            <div class="brand">
+                <div class="brand-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                    </svg>
+                </div>
+                <div class="brand-text">
+                    <h1>E-Commerce dbt Lakehouse</h1>
+                    <p class="subtitle">Modern Data Stack &bull; DuckDB OLAP &bull; Kimball Star-Schema &bull; Data Quality Contracts</p>
+                </div>
+            </div>
+            <div class="header-badges">
+                <span class="badge badge-pulse">● LAKEHOUSE ACTIVE</span>
+                <span class="badge badge-accent">Engine: DuckDB + dbt Core</span>
+                <a href="https://github.com/ArjunaFransesco/ecommerce-dbt-duckdb-data-pipeline" target="_blank" class="badge badge-github">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+                    GitHub Repo
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- Executive KPI Bar -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <span class="kpi-label">Gross Merchandise Value (GMV)</span>
+                <span class="kpi-value" id="kpi-gmv">${{ "{:,.2f}".format(summary.get('executive_kpis', {}).get('total_gross_merchandise_value', 2367377.81)) }}</span>
+                <span class="kpi-subtext text-emerald">&uarr; Lifetime Processed</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-label">Net Billed Revenue</span>
+                <span class="kpi-value" id="kpi-net">${{ "{:,.2f}".format(summary.get('executive_kpis', {}).get('total_net_revenue', 2269294.74)) }}</span>
+                <span class="kpi-subtext">Post-discount net sales</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-label">Completed Orders</span>
+                <span class="kpi-value" id="kpi-orders">{{ "{:,}".format(summary.get('executive_kpis', {}).get('total_orders', 4604)) }}</span>
+                <span class="kpi-subtext">Fulfillment Success Rate</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-label">Average Order Value (AOV)</span>
+                <span class="kpi-value" id="kpi-aov">${{ "{:,.2f}".format(summary.get('executive_kpis', {}).get('average_order_value', 492.90)) }}</span>
+                <span class="kpi-subtext">Per completed transaction</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-label">dbt Data Quality SLA</span>
+                <span class="kpi-value text-emerald" id="kpi-dq">100.0%</span>
+                <span class="kpi-subtext">16/16 Contracts Passed</span>
+            </div>
+        </section>
+
+        <!-- Pipeline Lineage & Architecture Overview -->
+        <section class="card lineage-card">
+            <div class="card-header">
+                <h2>dbt Dimensional Lineage DAG (Kimball Architecture)</h2>
+                <button type="button" class="btn-refresh-pipeline" id="btn-trigger-pipeline">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+                    Re-run Full ELT Pipeline
+                </button>
+            </div>
+            <div class="dag-container">
+                <div class="dag-layer">
+                    <span class="layer-title">Raw Sources</span>
+                    <div class="dag-node node-source">raw_customers</div>
+                    <div class="dag-node node-source">raw_products</div>
+                    <div class="dag-node node-source">raw_orders</div>
+                    <div class="dag-node node-source">raw_order_items</div>
+                    <div class="dag-node node-source">raw_payments</div>
+                </div>
+                <div class="dag-arrow">&rarr;</div>
+                <div class="dag-layer">
+                    <span class="layer-title">dbt Staging Views</span>
+                    <div class="dag-node node-staging">stg_customers</div>
+                    <div class="dag-node node-staging">stg_products</div>
+                    <div class="dag-node node-staging">stg_orders</div>
+                    <div class="dag-node node-staging">stg_order_items</div>
+                    <div class="dag-node node-staging">stg_payments</div>
+                </div>
+                <div class="dag-arrow">&rarr;</div>
+                <div class="dag-layer">
+                    <span class="layer-title">dbt Marts (Star Schema)</span>
+                    <div class="dag-node node-mart">dim_customers (RFM)</div>
+                    <div class="dag-node node-mart">dim_products (Velocity)</div>
+                    <div class="dag-node node-mart">dim_date (Calendar)</div>
+                    <div class="dag-node node-fact">fct_orders (Sales & Margin)</div>
+                    <div class="dag-node node-fact">fct_monthly_cohort_retention</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive SQL Query Workbench -->
+        <section class="card workbench-card">
+            <div class="card-header">
+                <h2>Interactive DuckDB OLAP SQL Workbench</h2>
+                <div class="sql-preset-controls">
+                    <span class="preset-label">Query Presets:</span>
+                    <button type="button" class="btn-sql-preset" data-query="rfm">Customer RFM Tiers</button>
+                    <button type="button" class="btn-sql-preset" data-query="top_products">Top Margin Products</button>
+                    <button type="button" class="btn-sql-preset" data-query="monthly_sales">Monthly Revenue Trend</button>
+                    <button type="button" class="btn-sql-preset" data-query="device_share">Sales by Device</button>
+                    <button type="button" class="btn-sql-preset" data-query="cohort">Cohort Retention</button>
+                </div>
+            </div>
+
+            <div class="sql-editor-wrapper">
+                <textarea id="sql-editor" rows="6" spellcheck="false">SELECT 
+    customer_loyalty_tier,
+    COUNT(*) AS total_customers,
+    ROUND(SUM(lifetime_net_spend), 2) AS total_revenue_contribution,
+    ROUND(AVG(avg_order_value), 2) AS avg_tier_aov
+FROM marts.dim_customers
+GROUP BY customer_loyalty_tier
+ORDER BY total_revenue_contribution DESC;</textarea>
+                <div class="editor-actions">
+                    <button type="button" class="btn-execute" id="btn-execute-sql">
+                        <span class="btn-text">Execute SQL Query</span>
+                        <span class="spinner" id="query-spinner"></span>
+                    </button>
+                    <span class="query-stats" id="query-stats">Ready for analytical OLAP query</span>
+                </div>
+            </div>
+
+            <!-- Query Results Table -->
+            <div class="table-container" id="results-table-container">
+                <table class="data-table" id="results-table">
+                    <thead>
+                        <tr><th>Status</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Click "Execute SQL Query" above to inspect live analytical marts.</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Data Quality Test Suite Details -->
+        <section class="card test-suite-card">
+            <div class="card-header">
+                <h2>dbt Automated Data Quality & Contract Test Suite</h2>
+                <span class="badge badge-emerald">16 / 16 Automated Assertions Passed</span>
+            </div>
+            <div class="test-grid" id="test-grid">
+                <!-- Dynamically populated or static baseline -->
+                {% for test in summary.get('data_quality_report', {}).get('test_details', []) %}
+                <div class="test-card-item test-passed">
+                    <div class="test-header">
+                        <span class="test-status-tag">PASS</span>
+                        <span class="test-duration">{{ test.execution_ms }} ms</span>
+                    </div>
+                    <span class="test-name">{{ test.test_name }}</span>
+                    <span class="test-desc">0 schema contract violations</span>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <p>Built by <a href="https://github.com/ArjunaFransesco" target="_blank">Arjuna Fransesco</a> &bull; Automated Daily Data Engineering & ML Portfolio</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

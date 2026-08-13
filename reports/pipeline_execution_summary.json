@@ -1,0 +1,259 @@
+{
+  "pipeline_name": "Modern E-Commerce ELT Lakehouse",
+  "engine": "DuckDB OLAP + dbt SQL Transformations",
+  "execution_status": "SUCCESS",
+  "total_runtime_seconds": 0.68,
+  "executive_kpis": {
+    "total_orders": 4604,
+    "total_unique_customers": 2107,
+    "total_gross_merchandise_value": 2367377.81,
+    "total_net_revenue": 2269294.74,
+    "total_discounts_given": 98084.07,
+    "average_order_value": 492.9
+  },
+  "top_revenue_products": [
+    {
+      "product_name": "Air Purifier HEPA (Pro)",
+      "product_category": "Home & Kitchen",
+      "lifetime_units_sold": 247.0,
+      "lifetime_net_revenue": 97130.36,
+      "margin_percentage": 46.96
+    },
+    {
+      "product_name": "Noise-Cancelling Headphones (Plus)",
+      "product_category": "Electronics",
+      "lifetime_units_sold": 243.0,
+      "lifetime_net_revenue": 96732.48,
+      "margin_percentage": 45.59
+    },
+    {
+      "product_name": "Noise-Cancelling Headphones (Pro)",
+      "product_category": "Electronics",
+      "lifetime_units_sold": 222.0,
+      "lifetime_net_revenue": 94789.6,
+      "margin_percentage": 57.34
+    },
+    {
+      "product_name": "Running Performance Shoes (Plus)",
+      "product_category": "Apparel",
+      "lifetime_units_sold": 228.0,
+      "lifetime_net_revenue": 93902.33,
+      "margin_percentage": 59.14
+    },
+    {
+      "product_name": "Organic Vitamin Complex (Pro)",
+      "product_category": "Health & Beauty",
+      "lifetime_units_sold": 221.0,
+      "lifetime_net_revenue": 93873.36,
+      "margin_percentage": 45.2
+    }
+  ],
+  "loyalty_tier_breakdown": [
+    {
+      "customer_loyalty_tier": "Gold Tier",
+      "customer_count": 636,
+      "tier_revenue": 899431.95
+    },
+    {
+      "customer_loyalty_tier": "VIP Platinum",
+      "customer_count": 292,
+      "tier_revenue": 773996.56
+    },
+    {
+      "customer_loyalty_tier": "Silver Tier",
+      "customer_count": 816,
+      "tier_revenue": 524156.38
+    },
+    {
+      "customer_loyalty_tier": "Bronze Tier",
+      "customer_count": 363,
+      "tier_revenue": 71709.85
+    },
+    {
+      "customer_loyalty_tier": "Prospect (No Orders)",
+      "customer_count": 393,
+      "tier_revenue": 0.0
+    }
+  ],
+  "dbt_materializations": {
+    "status": "success",
+    "total_models": 10,
+    "total_elapsed_sec": 0.17,
+    "models": [
+      {
+        "schema": "staging",
+        "model_name": "stg_customers",
+        "materialization": "VIEW",
+        "row_count": 2500,
+        "execution_ms": 2.0
+      },
+      {
+        "schema": "staging",
+        "model_name": "stg_products",
+        "materialization": "VIEW",
+        "row_count": 72,
+        "execution_ms": 3.01
+      },
+      {
+        "schema": "staging",
+        "model_name": "stg_orders",
+        "materialization": "VIEW",
+        "row_count": 8000,
+        "execution_ms": 2.0
+      },
+      {
+        "schema": "staging",
+        "model_name": "stg_order_items",
+        "materialization": "VIEW",
+        "row_count": 13201,
+        "execution_ms": 2.55
+      },
+      {
+        "schema": "staging",
+        "model_name": "stg_payments",
+        "materialization": "VIEW",
+        "row_count": 8000,
+        "execution_ms": 2.19
+      },
+      {
+        "schema": "marts",
+        "model_name": "dim_date",
+        "materialization": "TABLE",
+        "row_count": 1461,
+        "execution_ms": 5.51
+      },
+      {
+        "schema": "marts",
+        "model_name": "dim_products",
+        "materialization": "TABLE",
+        "row_count": 72,
+        "execution_ms": 19.31
+      },
+      {
+        "schema": "marts",
+        "model_name": "dim_customers",
+        "materialization": "TABLE",
+        "row_count": 2500,
+        "execution_ms": 30.76
+      },
+      {
+        "schema": "marts",
+        "model_name": "fct_orders",
+        "materialization": "TABLE",
+        "row_count": 8000,
+        "execution_ms": 30.42
+      },
+      {
+        "schema": "marts",
+        "model_name": "fct_monthly_cohort_retention",
+        "materialization": "TABLE",
+        "row_count": 312,
+        "execution_ms": 34.94
+      }
+    ]
+  },
+  "data_quality_report": {
+    "total_tests": 16,
+    "passed_tests": 16,
+    "failed_tests": 0,
+    "pass_rate_percentage": 100.0,
+    "test_details": [
+      {
+        "test_name": "unique_stg_customers_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 2.17
+      },
+      {
+        "test_name": "unique_stg_products_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 2.0
+      },
+      {
+        "test_name": "unique_stg_orders_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 3.52
+      },
+      {
+        "test_name": "unique_dim_customers_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 1.04
+      },
+      {
+        "test_name": "unique_dim_products_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 0.96
+      },
+      {
+        "test_name": "unique_fct_orders_id",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 3.21
+      },
+      {
+        "test_name": "not_null_stg_customers_email",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 2.03
+      },
+      {
+        "test_name": "not_null_stg_orders_date",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 0.97
+      },
+      {
+        "test_name": "not_null_dim_customers_tier",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 0.0
+      },
+      {
+        "test_name": "not_null_fct_orders_revenue",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 1.0
+      },
+      {
+        "test_name": "relationships_fct_orders_to_dim_customers",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 1.25
+      },
+      {
+        "test_name": "relationships_stg_order_items_to_stg_products",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 3.12
+      },
+      {
+        "test_name": "accepted_values_order_status",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 1.0
+      },
+      {
+        "test_name": "accepted_values_loyalty_tier",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 1.0
+      },
+      {
+        "test_name": "positive_values_fct_orders_gross_revenue",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 0.0
+      },
+      {
+        "test_name": "positive_values_dim_products_price",
+        "status": "PASS",
+        "failures_count": 0,
+        "execution_ms": 0.0
+      }
+    ]
+  }
+}
