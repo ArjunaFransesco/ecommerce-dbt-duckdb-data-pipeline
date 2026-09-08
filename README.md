@@ -191,4 +191,4 @@ Executes ad-hoc analytical SQL queries directly on DuckDB marts:
 - **Portfolio Website:** [https://github.com/ArjunaFransesco/arjuna-portfolio](https://github.com/ArjunaFransesco/arjuna-portfolio)
 
 
-<!-- Last Maintenance Audit: 2026-09-06 -->
+<!-- Last Maintenance Audit: 2026-09-08 -->
